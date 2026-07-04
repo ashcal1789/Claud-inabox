@@ -1,0 +1,608 @@
+{
+  "run_id": "20260704_150125",
+  "run_date": "2026-07-04T15:01:25.872047+00:00Z",
+  "seed": 982648500,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "6b85298af4ff",
+      "sentence": "Je vous le recommande, thin air of heaven.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 147580,
+          "char_end": 147601,
+          "text": "je vous le recommande",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 498986,
+          "char_end": 499004,
+          "text": "thin air of heaven",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "659bbda1f442",
+      "sentence": "Unexpected announcement caused the, s constructing, who was, is a land.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 530600,
+          "char_end": 530634,
+          "text": "unexpected announcement caused the",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 54953,
+          "char_end": 54976,
+          "text": "s constructing, who was",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 16670,
+          "char_end": 16679,
+          "text": "is a land",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "3251954f5fa3",
+      "sentence": "Daughter of the Snow, into activity at different.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 135781,
+          "char_end": 135801,
+          "text": "daughter of the Snow",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 180065,
+          "char_end": 180091,
+          "text": "into activity at different",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a8d5d3185bdf",
+      "sentence": "They thought M. de, said, a sinking man, it from you.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 348116,
+          "char_end": 348134,
+          "text": "they thought M. de",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 125805,
+          "char_end": 125824,
+          "text": "said, a sinking man",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 351223,
+          "char_end": 351234,
+          "text": "it from you",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "b02402748771",
+      "sentence": "And then he said, to hope that death.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 174305,
+          "char_end": 174321,
+          "text": "and then he said",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 82095,
+          "char_end": 82113,
+          "text": "to hope that death",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "69cd811ae0fd",
+      "sentence": "We could hate it, on human race. The.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 230585,
+          "char_end": 230601,
+          "text": "we could hate it",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 12142,
+          "char_end": 12160,
+          "text": "on human race. The",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f238bc8a888f",
+      "sentence": "Dine every day with, the Khans of Chaghatai.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 249553,
+          "char_end": 249572,
+          "text": "dine every day with",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 279982,
+          "char_end": 280004,
+          "text": "the Khans of Chaghatai",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5e1a66fffa52",
+      "sentence": "And began using his, ether, purpos’d I, Niagara could draw.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 32845,
+          "char_end": 32864,
+          "text": "and began using his",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 3121,
+          "char_end": 3138,
+          "text": "ether, purpos’d I",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 51368,
+          "char_end": 51386,
+          "text": "Niagara could draw",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "61270453ed11",
+      "sentence": "Sound of merry music, while yet my tongue, at our feet.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 427109,
+          "char_end": 427129,
+          "text": "sound of merry music",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 5314,
+          "char_end": 5333,
+          "text": "while yet my tongue",
+          "role": "continuation"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 26028,
+          "char_end": 26039,
+          "text": "at our feet",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "814818cecf97",
+      "sentence": "Seen it, give very, the farmers cut away, who was more.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 114057,
+          "char_end": 114075,
+          "text": "seen it, give very",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 134101,
+          "char_end": 134121,
+          "text": "the farmers cut away",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 245626,
+          "char_end": 245638,
+          "text": "who was more",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "dde6d70fe50f",
+      "sentence": "Her children. And she, Clothing, and Shelter, but.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 21817,
+          "char_end": 21838,
+          "text": "her children. And she",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 20062,
+          "char_end": 20088,
+          "text": "Clothing, and Shelter, but",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "474b035d821a",
+      "sentence": "Little depended on; but, they were laden with, power or reason.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 82480,
+          "char_end": 82503,
+          "text": "little depended on; but",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 603048,
+          "char_end": 603068,
+          "text": "they were laden with",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 426434,
+          "char_end": 426449,
+          "text": "power or reason",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "184ee43b0b7e",
+      "sentence": "Impossible. For this one, make the circuit of, faire ma cour.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 264366,
+          "char_end": 264390,
+          "text": "impossible. For this one",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 81827,
+          "char_end": 81846,
+          "text": "make the circuit of",
+          "role": "continuation"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 62048,
+          "char_end": 62061,
+          "text": "faire ma cour",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "c37987829f4f",
+      "sentence": "Few cows, contrive to, room in the palace.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 6649,
+          "char_end": 6670,
+          "text": "few cows, contrive to",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 152000,
+          "char_end": 152018,
+          "text": "room in the palace",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c1d6d685bfd3",
+      "sentence": "Like a crucible, and, during the slow and.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 211457,
+          "char_end": 211477,
+          "text": "like a crucible, and",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 183216,
+          "char_end": 183235,
+          "text": "during the slow and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4bc2504ceb3b",
+      "sentence": "Roberts, and myself. Henry, irrigation work, and do.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 162208,
+          "char_end": 162234,
+          "text": "Roberts, and myself. Henry",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 63643,
+          "char_end": 63666,
+          "text": "irrigation work, and do",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f94cf89d7374",
+      "sentence": "Days ago, saying some, drawn from Dr. Berkeley, the weightier matters.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 424768,
+          "char_end": 424789,
+          "text": "days ago, saying some",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 299215,
+          "char_end": 299238,
+          "text": "drawn from Dr. Berkeley",
+          "role": "continuation"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 218482,
+          "char_end": 218503,
+          "text": "the weightier matters",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "2027782cb86f",
+      "sentence": "Were sent to friends, enormity of the evil.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 123068,
+          "char_end": 123088,
+          "text": "were sent to friends",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 452805,
+          "char_end": 452825,
+          "text": "enormity of the evil",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "97d04732af82",
+      "sentence": "Easily overcome their enemies, are making game of.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 456421,
+          "char_end": 456450,
+          "text": "easily overcome their enemies",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 307039,
+          "char_end": 307057,
+          "text": "are making game of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "290128e9243e",
+      "sentence": "Erewhile saw, with erect, Crumbs fit such little.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 655324,
+          "char_end": 655348,
+          "text": "erewhile saw, with erect",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 64508,
+          "char_end": 64530,
+          "text": "Crumbs fit such little",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
