@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About — Glass-Box Language Machine</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <a href="index.html">Today</a>
+      <a href="archive.html">Archive</a>
+      <a href="about.html" class="active">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <h1 class="page-title">About</h1>
+    <div class="about-body">
+      <p>
+        This is a transparent recombination engine. It generates new sentences
+        by mechanically splicing fragments from a curated library of
+        public-domain texts — natural history field notes, personal letters,
+        philosophy, trial transcripts, ship logs, folk tales, scientific papers,
+        and poetry. Every sentence on this site carries a complete record of
+        exactly which source files, and which character spans within those files,
+        contributed each fragment. Click any sentence to see the receipts.
+        No neural networks are involved in the generation; the engine is a
+        plain Python script that anyone can read, run, and audit.
+      </p>
+      <p>
+        The corpus, the generation engine, the provenance records, and this site
+        are all open source. The project runs automatically: a GitHub Actions
+        workflow generates a new batch of sentences each day, commits the
+        provenance JSON, and the site updates itself.
+      </p>
+      <p>
+        Three corpus texts — Darwin's <em>Voyage of the Beagle</em>, Frazer's
+        <em>Golden Bough</em>, and Marco Polo's <em>Travels</em> — are stored
+        as partial files, trimmed to keep the total corpus under 10 MB.
+        The <code>corpus_index.json</code> records a <code>"truncated": true</code>
+        flag on each. The complete originals are available at the source URLs
+        listed in that file.
+      </p>
+      <p>
+        <a href="https://github.com/ashcal1789/Claud-inabox" id="repo-link">
+          View the source on GitHub →
+        </a>
+      </p>
+    </div>
+  </main>
+</body>
+</html>

@@ -1,0 +1,332 @@
+/* =========================================================
+   Glass-Box Language Machine — stylesheet
+   Design principle: laboratory glass. Spare, precise, quiet.
+   ========================================================= */
+
+/* --- Reset & base ---------------------------------------- */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg:          #f9f8f5;
+  --text:        #1a1a18;
+  --muted:       #6b6b65;
+  --rule:        #d8d7d1;
+  --accent:      #2a5c8a;
+  --accent-pale: #e8f0f8;
+  --panel-bg:    #ffffff;
+  --highlight:   #fff3b0;
+  --font-body:   "Georgia", "Times New Roman", serif;
+  --font-mono:   "Menlo", "Consolas", "Courier New", monospace;
+  --max-width:   680px;
+  --gutter:      1.5rem;
+}
+
+html {
+  font-size: 18px;
+  background: var(--bg);
+  color: var(--text);
+}
+
+body {
+  font-family: var(--font-body);
+  line-height: 1.7;
+  min-height: 100vh;
+}
+
+/* --- Header / nav ---------------------------------------- */
+header {
+  border-bottom: 1px solid var(--rule);
+  padding: 1.25rem var(--gutter);
+}
+
+nav {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  display: flex;
+  gap: 2rem;
+}
+
+nav a {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  text-decoration: none;
+}
+
+nav a:hover,
+nav a.active {
+  color: var(--text);
+}
+
+nav a.active {
+  border-bottom: 1px solid var(--text);
+}
+
+/* --- Main content ---------------------------------------- */
+main {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 3rem var(--gutter) 6rem;
+}
+
+/* --- Run metadata ---------------------------------------- */
+.run-meta {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  color: var(--muted);
+  margin-bottom: 2.5rem;
+  letter-spacing: 0.04em;
+}
+
+/* --- Sentence list --------------------------------------- */
+.sentence-list {
+  list-style: none;
+  counter-reset: sentence-counter;
+}
+
+.sentence-list li {
+  counter-increment: sentence-counter;
+  padding: 0.9rem 0;
+  border-bottom: 1px solid var(--rule);
+  display: grid;
+  grid-template-columns: 2rem 1fr;
+  gap: 0 1rem;
+  align-items: baseline;
+  cursor: pointer;
+  transition: background 0.1s;
+}
+
+.sentence-list li:first-child {
+  border-top: 1px solid var(--rule);
+}
+
+.sentence-list li:hover {
+  background: var(--accent-pale);
+}
+
+.sentence-list li::before {
+  content: counter(sentence-counter);
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  color: var(--muted);
+  text-align: right;
+  padding-top: 0.15rem;
+}
+
+.sentence-text {
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+/* --- Page titles ----------------------------------------- */
+.page-title {
+  font-size: 1.1rem;
+  font-weight: normal;
+  letter-spacing: 0.02em;
+  margin-bottom: 0.75rem;
+  color: var(--muted);
+  font-family: var(--font-mono);
+  text-transform: uppercase;
+  font-size: 0.78rem;
+  letter-spacing: 0.08em;
+}
+
+.page-intro {
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin-bottom: 2rem;
+}
+
+/* --- Archive list ---------------------------------------- */
+.archive-list {
+  list-style: none;
+}
+
+.archive-list li {
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--rule);
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.archive-list li:first-child {
+  border-top: 1px solid var(--rule);
+}
+
+.archive-date {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+.archive-links {
+  display: flex;
+  gap: 1.25rem;
+}
+
+.archive-links a {
+  font-size: 0.85rem;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.archive-links a:hover {
+  text-decoration: underline;
+}
+
+/* --- About page ------------------------------------------ */
+.about-body p {
+  margin-bottom: 1.25rem;
+  font-size: 1rem;
+}
+
+.about-body a {
+  color: var(--accent);
+}
+
+/* --- Provenance panel ------------------------------------ */
+.provenance-panel {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: min(480px, 100vw);
+  height: 100vh;
+  background: var(--panel-bg);
+  border-left: 1px solid var(--rule);
+  overflow-y: auto;
+  padding: 2rem 1.75rem 3rem;
+  z-index: 100;
+  box-shadow: -4px 0 24px rgba(0,0,0,0.06);
+}
+
+.provenance-panel[hidden] {
+  display: none;
+}
+
+.panel-close {
+  position: absolute;
+  top: 1rem;
+  right: 1.25rem;
+  background: none;
+  border: none;
+  font-size: 1.4rem;
+  color: var(--muted);
+  cursor: pointer;
+  line-height: 1;
+}
+
+.panel-close:hover {
+  color: var(--text);
+}
+
+.panel-title {
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--muted);
+  margin-bottom: 1rem;
+}
+
+.panel-sentence {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--muted);
+  margin-bottom: 1.75rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+/* --- Fragment cards -------------------------------------- */
+.fragment-card {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--rule);
+}
+
+.fragment-card:last-child {
+  border-bottom: none;
+}
+
+.fragment-role {
+  font-family: var(--font-mono);
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--muted);
+  margin-bottom: 0.35rem;
+}
+
+.fragment-source {
+  font-size: 0.82rem;
+  margin-bottom: 0.6rem;
+  line-height: 1.4;
+}
+
+.fragment-source strong {
+  color: var(--text);
+}
+
+.fragment-source .source-meta {
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+
+.fragment-offsets {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  color: var(--muted);
+  margin-bottom: 0.5rem;
+}
+
+.fragment-text {
+  font-size: 0.9rem;
+  line-height: 1.6;
+  background: var(--accent-pale);
+  border-left: 3px solid var(--accent);
+  padding: 0.6rem 0.75rem;
+  border-radius: 0 2px 2px 0;
+}
+
+.fragment-text mark {
+  background: var(--highlight);
+  padding: 0 1px;
+}
+
+/* --- Loading / error states ------------------------------ */
+.loading {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  color: var(--muted);
+  padding: 2rem 0;
+}
+
+.error {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  color: #c0392b;
+  padding: 2rem 0;
+}
+
+/* --- Responsive ------------------------------------------ */
+@media (max-width: 600px) {
+  html { font-size: 16px; }
+  .provenance-panel {
+    width: 100vw;
+    border-left: none;
+    border-top: 1px solid var(--rule);
+    top: auto;
+    bottom: 0;
+    height: 70vh;
+  }
+}

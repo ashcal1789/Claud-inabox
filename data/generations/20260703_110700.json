@@ -1,0 +1,598 @@
+{
+  "run_id": "20260703_110700",
+  "run_date": "2026-07-03T11:07:00.030675Z",
+  "seed": 42,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "0ba064a98bc3",
+      "sentence": "Let dem take me, the princes once more, I will make.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Scenes in the Life of Harriet Tubman",
+          "author": "Kate Clifford Larson (ed.)",
+          "year": 1869,
+          "char_start": 28124,
+          "char_end": 28139,
+          "text": "let dem take me",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 585262,
+          "char_end": 585283,
+          "text": "the princes once more",
+          "role": "continuation"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 36475,
+          "char_end": 36486,
+          "text": "I will make",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "fa63ec7f14e8",
+      "sentence": "To burst forth in, and where the science, a peep at.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 39443,
+          "char_end": 39460,
+          "text": "to burst forth in",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 376101,
+          "char_end": 376122,
+          "text": "and where the science",
+          "role": "continuation"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 14726,
+          "char_end": 14735,
+          "text": "a peep at",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "6cc4466bdcc6",
+      "sentence": "Is so heavily weighed, the day of the.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 70464,
+          "char_end": 70485,
+          "text": "is so heavily weighed",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 71519,
+          "char_end": 71533,
+          "text": "the day of the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5732aec01ae4",
+      "sentence": "The weeping parents wept, well supplied at Paris.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 27104,
+          "char_end": 27128,
+          "text": "The weeping parents wept",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 203825,
+          "char_end": 203847,
+          "text": "well supplied at Paris",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a5b99337bb3c",
+      "sentence": "Or, do you mean, as the heavenly bride.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 49050,
+          "char_end": 49065,
+          "text": "Or, do you mean",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 493984,
+          "char_end": 494005,
+          "text": "as the heavenly bride",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "09688f01f81b",
+      "sentence": "In the merry scene, Elwin taught such of, cut nails and.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 7321,
+          "char_end": 7339,
+          "text": "in the merry scene",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 168782,
+          "char_end": 168802,
+          "text": "Elwin taught such of",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 743540,
+          "char_end": 743553,
+          "text": "cut nails and",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "a5f9515cd292",
+      "sentence": "Is not come back, the boats beached, and, incredible, what shall.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 118737,
+          "char_end": 118753,
+          "text": "is not come back",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 467961,
+          "char_end": 467983,
+          "text": "the boats beached, and",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 380647,
+          "char_end": 380669,
+          "text": "incredible, what shall",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "c8811d217313",
+      "sentence": "In expecting to find, divinity which Meletus ridicules, other modes of.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 21104,
+          "char_end": 21124,
+          "text": "in expecting to find",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 61873,
+          "char_end": 61905,
+          "text": "divinity which Meletus ridicules",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 54785,
+          "char_end": 54799,
+          "text": "other modes of",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "e4118ef7db11",
+      "sentence": "Mournful call of the, grief and fear, as, but we made.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 110959,
+          "char_end": 110979,
+          "text": "mournful call of the",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 296283,
+          "char_end": 296301,
+          "text": "grief and fear, as",
+          "role": "continuation"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 54084,
+          "char_end": 54095,
+          "text": "but we made",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "debda4c38b4d",
+      "sentence": "We have no idea, affection. And while peace.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 135160,
+          "char_end": 135175,
+          "text": "we have no idea",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 14229,
+          "char_end": 14255,
+          "text": "affection. And while peace",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c66c1f274810",
+      "sentence": "Vous m'appelez votre fille, out. I am sorry.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 72647,
+          "char_end": 72673,
+          "text": "Vous m'appelez votre fille",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 671747,
+          "char_end": 671762,
+          "text": "out. I am sorry",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ecba8d14fe13",
+      "sentence": "And another; to what, tu aimes le mieux.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 295568,
+          "char_end": 295588,
+          "text": "and another; to what",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 55356,
+          "char_end": 55373,
+          "text": "tu aimes le mieux",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5da987cd1a44",
+      "sentence": "Dared not to stir, only to be roughly.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 467300,
+          "char_end": 467317,
+          "text": "dared not to stir",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Scenes in the Life of Harriet Tubman",
+          "author": "Kate Clifford Larson (ed.)",
+          "year": 1869,
+          "char_start": 18064,
+          "char_end": 18082,
+          "text": "only to be roughly",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "39535c38af71",
+      "sentence": "From these facts, the, easy employment; for in.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 429135,
+          "char_end": 429156,
+          "text": "From these facts, the",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 51213,
+          "char_end": 51236,
+          "text": "easy employment; for in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "40d45a7e7079",
+      "sentence": "Give me just a, had come out again.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 313754,
+          "char_end": 313768,
+          "text": "Give me just a",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 462491,
+          "char_end": 462509,
+          "text": "had come out again",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ac63321d99f3",
+      "sentence": "The dip of the, bad, I permit to.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 216306,
+          "char_end": 216320,
+          "text": "the dip of the",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 35729,
+          "char_end": 35745,
+          "text": "bad, I permit to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f9755a5435e3",
+      "sentence": "They are Nature’s, at this entrance of.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 228009,
+          "char_end": 228026,
+          "text": "They are Nature’s",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 199021,
+          "char_end": 199040,
+          "text": "at this entrance of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "db946f93c13b",
+      "sentence": "Yule (b. 1795, d. 1873) was, all the night ashine.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 154900,
+          "char_end": 154927,
+          "text": "Yule (b. 1795, d. 1873) was",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 129026,
+          "char_end": 129046,
+          "text": "all the night ashine",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8f68c571f4a2",
+      "sentence": "Carried ten miles to, pictures of steamboats and, they say that.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Scenes in the Life of Harriet Tubman",
+          "author": "Kate Clifford Larson (ed.)",
+          "year": 1869,
+          "char_start": 114816,
+          "char_end": 114836,
+          "text": "carried ten miles to",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 328411,
+          "char_end": 328437,
+          "text": "pictures of steamboats and",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 406654,
+          "char_end": 406667,
+          "text": "they say that",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "d8bc1b98c49a",
+      "sentence": "Averting or dispelling sickness, to carry thyself towards.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 636710,
+          "char_end": 636741,
+          "text": "averting or dispelling sickness",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 299472,
+          "char_end": 299496,
+          "text": "to carry thyself towards",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
