@@ -1,0 +1,598 @@
+{
+  "run_id": "20260705_025423",
+  "run_date": "2026-07-05T02:54:23.079281+00:00Z",
+  "seed": 2208947199,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "d5eca537240c",
+      "sentence": "Will continue to run, consider the imperfection of.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 218614,
+          "char_end": 218634,
+          "text": "will continue to run",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 314994,
+          "char_end": 315022,
+          "text": "consider the imperfection of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "cbb2ffa553e6",
+      "sentence": "Envy or jealousy: contrariwise, feeling--magnificence of draperies beyond.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 468694,
+          "char_end": 468724,
+          "text": "envy or jealousy: contrariwise",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 396291,
+          "char_end": 396332,
+          "text": "feeling--magnificence of draperies beyond",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0c3dd38457c9",
+      "sentence": "Attested by vast and, the greatest luxury the.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 283117,
+          "char_end": 283137,
+          "text": "attested by vast and",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 209748,
+          "char_end": 209771,
+          "text": "the greatest luxury the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6483a082f2bb",
+      "sentence": "Believe yourself. I cannot, now see the action, and the stars.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 50322,
+          "char_end": 50348,
+          "text": "believe yourself. I cannot",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 196829,
+          "char_end": 196847,
+          "text": "now see the action",
+          "role": "continuation"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 44380,
+          "char_end": 44393,
+          "text": "and the stars",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "fbba20e31b36",
+      "sentence": "You see, however strange, que je te dis.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 78446,
+          "char_end": 78470,
+          "text": "you see, however strange",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 159851,
+          "char_end": 159864,
+          "text": "que je te dis",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5141c3d5ffd4",
+      "sentence": "Out as fast as, there in the fragrant, that time had.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 218693,
+          "char_end": 218707,
+          "text": "out as fast as",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 422418,
+          "char_end": 422439,
+          "text": "there in the fragrant",
+          "role": "continuation"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 84712,
+          "char_end": 84725,
+          "text": "that time had",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "41bb32fd2743",
+      "sentence": "Impression they have made, voice, heard at a.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 13753,
+          "char_end": 13778,
+          "text": "impression they have made",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 532910,
+          "char_end": 532927,
+          "text": "voice, heard at a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c33901de19d8",
+      "sentence": "But lacked the firmness, When it goes, 't, have been frequently.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 109652,
+          "char_end": 109675,
+          "text": "but lacked the firmness",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 34827,
+          "char_end": 34843,
+          "text": "When it goes, 't",
+          "role": "continuation"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 308658,
+          "char_end": 308678,
+          "text": "have been frequently",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ec214f208912",
+      "sentence": "One most uniform tenor, argues that he never, fingers, until the.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 253500,
+          "char_end": 253522,
+          "text": "one most uniform tenor",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 17460,
+          "char_end": 17480,
+          "text": "argues that he never",
+          "role": "continuation"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 28319,
+          "char_end": 28337,
+          "text": "fingers, until the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "a14d57ad7f00",
+      "sentence": "A very large shoe, could see you in.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 44558,
+          "char_end": 44575,
+          "text": "a very large shoe",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 16678,
+          "char_end": 16694,
+          "text": "could see you in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "054dea409c6d",
+      "sentence": "A piece of calico, or through that which.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 21344,
+          "char_end": 21361,
+          "text": "a piece of calico",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 479094,
+          "char_end": 479115,
+          "text": "or through that which",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "fadf99a14378",
+      "sentence": "Fashion. She spins and, What! preach, and kidnap.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 41672,
+          "char_end": 41694,
+          "text": "Fashion. She spins and",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 217029,
+          "char_end": 217053,
+          "text": "What! preach, and kidnap",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5d32372cfbb4",
+      "sentence": "There must be many, easy, they all go.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 230910,
+          "char_end": 230928,
+          "text": "there must be many",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 94164,
+          "char_end": 94181,
+          "text": "easy, they all go",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "97c8e4111861",
+      "sentence": "The oak-god, while Egeria, sun: there God does, all for spite.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 494565,
+          "char_end": 494590,
+          "text": "the oak-god, while Egeria",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 4018,
+          "char_end": 4037,
+          "text": "sun: there God does",
+          "role": "continuation"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 477029,
+          "char_end": 477042,
+          "text": "all for spite",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f7fbb0f5b294",
+      "sentence": "In trouble, and rolled, no man divert thee.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 77219,
+          "char_end": 77241,
+          "text": "in trouble, and rolled",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 281949,
+          "char_end": 281967,
+          "text": "no man divert thee",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "68c52caa80df",
+      "sentence": "With ease, and also, instantly fell backwards flat.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 356535,
+          "char_end": 356554,
+          "text": "with ease, and also",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 73091,
+          "char_end": 73120,
+          "text": "instantly fell backwards flat",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0433fda3bf2f",
+      "sentence": "With a long white, where men have not, veering to the.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 560508,
+          "char_end": 560525,
+          "text": "with a long white",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 240568,
+          "char_end": 240586,
+          "text": "where men have not",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 479407,
+          "char_end": 479421,
+          "text": "veering to the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "674aae5f1278",
+      "sentence": "The mere hearing of, O ma Cateau! calme-toi, we had large.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 46854,
+          "char_end": 46873,
+          "text": "the mere hearing of",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 98092,
+          "char_end": 98114,
+          "text": "O ma Cateau! calme-toi",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 277549,
+          "char_end": 277561,
+          "text": "we had large",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4c842d44e99f",
+      "sentence": "Hills may never have, and marry the Tzar's.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 399887,
+          "char_end": 399907,
+          "text": "hills may never have",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 68522,
+          "char_end": 68542,
+          "text": "and marry the Tzar's",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "43e638a131a1",
+      "sentence": "To death? Why?—because, must be exactly adjusted.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 10821,
+          "char_end": 10843,
+          "text": "to death? Why?—because",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 273032,
+          "char_end": 273056,
+          "text": "must be exactly adjusted",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
