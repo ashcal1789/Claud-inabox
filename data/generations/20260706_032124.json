@@ -1,0 +1,558 @@
+{
+  "run_id": "20260706_032124",
+  "run_date": "2026-07-06T03:21:24.016072+00:00Z",
+  "seed": 982769886,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "ab2cb4ff4773",
+      "sentence": "Many friends and multifarious, eyes into space! We.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 135285,
+          "char_end": 135314,
+          "text": "many friends and multifarious",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 35557,
+          "char_end": 35576,
+          "text": "eyes into space! We",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "09943c82646d",
+      "sentence": "Deep place, so that, in New Bedford since.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 249007,
+          "char_end": 249026,
+          "text": "deep place, so that",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 209695,
+          "char_end": 209715,
+          "text": "in New Bedford since",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "323c4f4e8f1f",
+      "sentence": "Mountain. Latinus, the legendary, and of perfect shape.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 489266,
+          "char_end": 489298,
+          "text": "Mountain. Latinus, the legendary",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 235116,
+          "char_end": 235136,
+          "text": "and of perfect shape",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a107898bbd12",
+      "sentence": "Hitherto merely verbal. For, that they did not.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 176230,
+          "char_end": 176257,
+          "text": "hitherto merely verbal. For",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 35071,
+          "char_end": 35088,
+          "text": "that they did not",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "09af19b8e26d",
+      "sentence": "Can do it better, all so dear to.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 113467,
+          "char_end": 113483,
+          "text": "can do it better",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 246082,
+          "char_end": 246096,
+          "text": "all so dear to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c9929fd94208",
+      "sentence": "It. I will find, as this know about, which was to.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 38822,
+          "char_end": 38837,
+          "text": "it. I will find",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 4112,
+          "char_end": 4130,
+          "text": "as this know about",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 81767,
+          "char_end": 81779,
+          "text": "which was to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "02451d47efb2",
+      "sentence": "Twist the sinews of, and are very amusing.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 21735,
+          "char_end": 21754,
+          "text": "twist the sinews of",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 126224,
+          "char_end": 126244,
+          "text": "and are very amusing",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "36f950ad319f",
+      "sentence": "Man after another, being, youth; such as watching.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 37872,
+          "char_end": 37896,
+          "text": "man after another, being",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 44876,
+          "char_end": 44899,
+          "text": "youth; such as watching",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c1c22b32adac",
+      "sentence": "Seeketh not itself to, call it three.  From, As well the.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 16016,
+          "char_end": 16037,
+          "text": "seeketh not itself to",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 244403,
+          "char_end": 244423,
+          "text": "call it three.  From",
+          "role": "continuation"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 72547,
+          "char_end": 72558,
+          "text": "As well the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "97f3ac1778e9",
+      "sentence": "Aimee, Veronique, and Marie, orgies as a mere.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 918,
+          "char_end": 945,
+          "text": "Aimee, Veronique, and Marie",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 448419,
+          "char_end": 448435,
+          "text": "orgies as a mere",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e68984c73d34",
+      "sentence": "Wings and flew away, my custom to give.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 155102,
+          "char_end": 155121,
+          "text": "wings and flew away",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 270803,
+          "char_end": 270820,
+          "text": "my custom to give",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ff93586e20f1",
+      "sentence": "Countrymen have a large, To whom this would.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 227074,
+          "char_end": 227097,
+          "text": "countrymen have a large",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 55838,
+          "char_end": 55856,
+          "text": "To whom this would",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8632ae5d3af5",
+      "sentence": "Will bear a moment, cutting to do for, it only on.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 404191,
+          "char_end": 404209,
+          "text": "will bear a moment",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 342683,
+          "char_end": 342700,
+          "text": "cutting to do for",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 410951,
+          "char_end": 410961,
+          "text": "it only on",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "7342a064b3cf",
+      "sentence": "Understanding: or once for, a sorrowful leave of.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 253619,
+          "char_end": 253645,
+          "text": "understanding: or once for",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 97151,
+          "char_end": 97171,
+          "text": "a sorrowful leave of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "008b6ccf6701",
+      "sentence": "Plus dans la boutique, stop and loiter all.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 125822,
+          "char_end": 125843,
+          "text": "plus dans la boutique",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 9829,
+          "char_end": 9848,
+          "text": "stop and loiter all",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "93a220e884a6",
+      "sentence": "Say depends on God, drank and grew merry.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 489366,
+          "char_end": 489384,
+          "text": "say depends on God",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 333046,
+          "char_end": 333066,
+          "text": "drank and grew merry",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "767320e3c15b",
+      "sentence": "Must believe in the, vous assurerez à ma fille.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 19534,
+          "char_end": 19553,
+          "text": "must believe in the",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 134304,
+          "char_end": 134329,
+          "text": "vous assurerez à ma fille",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "22ac04d57557",
+      "sentence": "The furze and most, the daguerreotypes of her.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 477920,
+          "char_end": 477938,
+          "text": "the furze and most",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 124621,
+          "char_end": 124646,
+          "text": "the daguerreotypes of her",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b3c2bfdec790",
+      "sentence": "And against both parties--and, once changed, shall never.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 490917,
+          "char_end": 490946,
+          "text": "and against both parties--and",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 292088,
+          "char_end": 292113,
+          "text": "once changed, shall never",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "df8ec6362e33",
+      "sentence": "Distinguished from their congeners, Andrea Polo of S.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 284888,
+          "char_end": 284922,
+          "text": "distinguished from their congeners",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 290250,
+          "char_end": 290266,
+          "text": "Andrea Polo of S",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
