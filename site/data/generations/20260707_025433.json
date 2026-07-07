@@ -1,0 +1,558 @@
+{
+  "run_id": "20260707_025433",
+  "run_date": "2026-07-07T02:54:33.212229+00:00Z",
+  "seed": 2125963410,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "54e2cfdfb0f1",
+      "sentence": "Ne connaissez ni ce, the breadths of blue.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 20443,
+          "char_end": 20462,
+          "text": "ne connaissez ni ce",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 100981,
+          "char_end": 101001,
+          "text": "the breadths of blue",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f2b7ac6ad04a",
+      "sentence": "Will of their genius, future by encountering a.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 182813,
+          "char_end": 182833,
+          "text": "will of their genius",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 249481,
+          "char_end": 249505,
+          "text": "future by encountering a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6ce3a530066c",
+      "sentence": "Fearless efforts of those, on. As charcoal burns.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 24052,
+          "char_end": 24077,
+          "text": "fearless efforts of those",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 175501,
+          "char_end": 175522,
+          "text": "on. As charcoal burns",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "18899388a616",
+      "sentence": "Here. He was unsuccessful, spoons in the plates.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 60447,
+          "char_end": 60472,
+          "text": "here. He was unsuccessful",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 1617,
+          "char_end": 1637,
+          "text": "spoons in the plates",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d6dedbda90cc",
+      "sentence": "Have left no doubt, of a grain parallel.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 514578,
+          "char_end": 514596,
+          "text": "have left no doubt",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 25347,
+          "char_end": 25366,
+          "text": "of a grain parallel",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f14bf6bc6240",
+      "sentence": "Among the Natchez Indians, fire on her hearth, my life wanted.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 697772,
+          "char_end": 697797,
+          "text": "Among the Natchez Indians",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 43658,
+          "char_end": 43676,
+          "text": "fire on her hearth",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 32979,
+          "char_end": 32993,
+          "text": "my life wanted",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "a7da60dae510",
+      "sentence": "The case of Mademoiselle, in this sea; but.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 238938,
+          "char_end": 238962,
+          "text": "the case of Mademoiselle",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 403874,
+          "char_end": 403890,
+          "text": "in this sea; but",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4fefce8e0846",
+      "sentence": "You, and while I, in the Channel, Keats.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 57151,
+          "char_end": 57167,
+          "text": "you, and while I",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 789210,
+          "char_end": 789231,
+          "text": "in the Channel, Keats",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7a958929baa9",
+      "sentence": "Few clothes, he had, and so a great.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 596691,
+          "char_end": 596710,
+          "text": "few clothes, he had",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 198917,
+          "char_end": 198931,
+          "text": "and so a great",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "da5e07ff0daa",
+      "sentence": "Was little in the, near the middle of.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 260894,
+          "char_end": 260911,
+          "text": "was little in the",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 63037,
+          "char_end": 63055,
+          "text": "near the middle of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2f0c235fc51f",
+      "sentence": "I tell you is, a Book concerning the.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 104580,
+          "char_end": 104593,
+          "text": "I tell you is",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 377551,
+          "char_end": 377572,
+          "text": "a Book concerning the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "60f1e3451a64",
+      "sentence": "God to be the, he took his stick.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 468221,
+          "char_end": 468234,
+          "text": "God to be the",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 191779,
+          "char_end": 191796,
+          "text": "he took his stick",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "abfd21117746",
+      "sentence": "Being written about it, if at the Church.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 409148,
+          "char_end": 409170,
+          "text": "being written about it",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 23779,
+          "char_end": 23795,
+          "text": "if at the Church",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "cceb00116582",
+      "sentence": "Arts, a mere shadow, six o'clock in the.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 588719,
+          "char_end": 588738,
+          "text": "arts, a mere shadow",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 194192,
+          "char_end": 194210,
+          "text": "six o'clock in the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c566dd5006fe",
+      "sentence": "Three years later, President, captain was likely to.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 97310,
+          "char_end": 97338,
+          "text": "three years later, President",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 427027,
+          "char_end": 427048,
+          "text": "captain was likely to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a0ded44f6f54",
+      "sentence": "Of knowledge was absolutely, TWO BROTHERS AS HIS.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 211365,
+          "char_end": 211392,
+          "text": "of knowledge was absolutely",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 208739,
+          "char_end": 208758,
+          "text": "TWO BROTHERS AS HIS",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c6b81a2498da",
+      "sentence": "Business, -- just a life, fear, and ate greedily.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 73425,
+          "char_end": 73449,
+          "text": "business, -- just a life",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 203430,
+          "char_end": 203452,
+          "text": "fear, and ate greedily",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5ce089f8dad9",
+      "sentence": "Fear’d of hell, and these protections were, interest about matters.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 135957,
+          "char_end": 135971,
+          "text": "fear’d of hell",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 163620,
+          "char_end": 163646,
+          "text": "and these protections were",
+          "role": "continuation"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 44113,
+          "char_end": 44135,
+          "text": "interest about matters",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "1e4bda4006c8",
+      "sentence": "Proceeding slowly and seemed, not let the taper, thyself, What? because.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 36143,
+          "char_end": 36171,
+          "text": "proceeding slowly and seemed",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 122834,
+          "char_end": 122851,
+          "text": "not let the taper",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 290604,
+          "char_end": 290626,
+          "text": "thyself, What? because",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "30876402cdef",
+      "sentence": "And onions, and the, right, without any injury.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 153641,
+          "char_end": 153660,
+          "text": "and onions, and the",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 374194,
+          "char_end": 374219,
+          "text": "right, without any injury",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
