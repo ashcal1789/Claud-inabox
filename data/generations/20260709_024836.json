@@ -1,0 +1,608 @@
+{
+  "run_id": "20260709_024836",
+  "run_date": "2026-07-09T02:48:36.040454+00:00Z",
+  "seed": 1168417219,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "c9306e5ba30d",
+      "sentence": "To work with me, and lay over the.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 177560,
+          "char_end": 177575,
+          "text": "to work with me",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 740862,
+          "char_end": 740878,
+          "text": "and lay over the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8d5822d8a335",
+      "sentence": "Abundance of figs, olives, had with them for.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 877112,
+          "char_end": 877137,
+          "text": "abundance of figs, olives",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 315458,
+          "char_end": 315475,
+          "text": "had with them for",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ff5f7ee297cb",
+      "sentence": "On what we have, now he's come an, As were they.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 77225,
+          "char_end": 77240,
+          "text": "on what we have",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 112650,
+          "char_end": 112666,
+          "text": "now he's come an",
+          "role": "continuation"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 128328,
+          "char_end": 128340,
+          "text": "As were they",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "79e42f4aa245",
+      "sentence": "I had lost my, stopped his playing for.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 175566,
+          "char_end": 175579,
+          "text": "I had lost my",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 42691,
+          "char_end": 42714,
+          "text": "stopped his playing for",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "be1da8a780c9",
+      "sentence": "The same man to, world were their improvers.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 34463,
+          "char_end": 34478,
+          "text": "the same man to",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 46235,
+          "char_end": 46261,
+          "text": "world were their improvers",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e124f233744e",
+      "sentence": "Serenely give birth to, though well concealed, was.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 489115,
+          "char_end": 489137,
+          "text": "serenely give birth to",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 82991,
+          "char_end": 83017,
+          "text": "though well concealed, was",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1a141dbd874f",
+      "sentence": "Carrying the child. Then, addition to the church, quarters in our.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 10680,
+          "char_end": 10704,
+          "text": "carrying the child. Then",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 130225,
+          "char_end": 130247,
+          "text": "addition to the church",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 660427,
+          "char_end": 660442,
+          "text": "quarters in our",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "861bf9746c05",
+      "sentence": "And the green hill, the existence of one, at its best.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 7203,
+          "char_end": 7221,
+          "text": "And the green hill",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 72172,
+          "char_end": 72192,
+          "text": "the existence of one",
+          "role": "continuation"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 21381,
+          "char_end": 21392,
+          "text": "at its best",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "c9c64fa3850e",
+      "sentence": "Kindness which attaches me, and sleeping alone, (and.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 125256,
+          "char_end": 125282,
+          "text": "kindness which attaches me",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 317620,
+          "char_end": 317644,
+          "text": "and sleeping alone, (and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "aacad6272df1",
+      "sentence": "Nor yet Anytus—they, And spreads his baits, of a hurricane.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 59409,
+          "char_end": 59428,
+          "text": "nor yet Anytus—they",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 25172,
+          "char_end": 25193,
+          "text": "And spreads his baits",
+          "role": "continuation"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 329781,
+          "char_end": 329795,
+          "text": "of a hurricane",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "5d5fc1636cbb",
+      "sentence": "The most inflexible firmness, until the fine is, board ship.  I.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 60661,
+          "char_end": 60689,
+          "text": "the most inflexible firmness",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 75136,
+          "char_end": 75153,
+          "text": "until the fine is",
+          "role": "continuation"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 565172,
+          "char_end": 565186,
+          "text": "board ship.  I",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "a0dce0b71d12",
+      "sentence": "The particles were so, my sister, Agathe, at, is making a.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 381446,
+          "char_end": 381467,
+          "text": "The particles were so",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 1369,
+          "char_end": 1390,
+          "text": "my sister, Agathe, at",
+          "role": "continuation"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 212431,
+          "char_end": 212442,
+          "text": "is making a",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "d775c963a742",
+      "sentence": "Own interest; but their, fundamental, is capable of.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 139421,
+          "char_end": 139444,
+          "text": "own interest; but their",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 456026,
+          "char_end": 456052,
+          "text": "fundamental, is capable of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "792d7a44fa0f",
+      "sentence": "Trees in the day-time, flew away with it.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 139034,
+          "char_end": 139055,
+          "text": "trees in the day-time",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 338354,
+          "char_end": 338371,
+          "text": "flew away with it",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "59bc2337cbe4",
+      "sentence": "On his way, which, expanded, until he became.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 341874,
+          "char_end": 341891,
+          "text": "on his way, which",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 117788,
+          "char_end": 117813,
+          "text": "expanded, until he became",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7d43c9410307",
+      "sentence": "Sitting under the oak, them lighted, thinking that.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 2561,
+          "char_end": 2582,
+          "text": "Sitting under the oak",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 12977,
+          "char_end": 13004,
+          "text": "them lighted, thinking that",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e989081efff6",
+      "sentence": "The body would not, to God in the, some lake, or.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 104149,
+          "char_end": 104167,
+          "text": "the body would not",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 52831,
+          "char_end": 52844,
+          "text": "to God in the",
+          "role": "continuation"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 267934,
+          "char_end": 267947,
+          "text": "some lake, or",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "05c2f2a56342",
+      "sentence": "Is dated. Travelling slowly, sell the imperial jewels.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 108125,
+          "char_end": 108152,
+          "text": "is dated. Travelling slowly",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 4005,
+          "char_end": 4029,
+          "text": "sell the imperial jewels",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a98d4e9fbe58",
+      "sentence": "Man is in his, stove, and strong wooden.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 456755,
+          "char_end": 456768,
+          "text": "man is in his",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 229482,
+          "char_end": 229506,
+          "text": "stove, and strong wooden",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1c677e89355a",
+      "sentence": "No! never can it, There is no doubt, the trees under.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 13876,
+          "char_end": 13892,
+          "text": "no! never can it",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 704592,
+          "char_end": 704609,
+          "text": "There is no doubt",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 372607,
+          "char_end": 372622,
+          "text": "the trees under",
+          "role": "closing"
+        }
+      ]
+    }
+  ]
+}
