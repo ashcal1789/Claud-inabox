@@ -1,0 +1,558 @@
+{
+  "run_id": "20260710_025116",
+  "run_date": "2026-07-10T02:51:16.593323+00:00Z",
+  "seed": 448601500,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "ce42ee7b78d9",
+      "sentence": "Few words will tell, with 60. We were, however.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 716645,
+          "char_end": 716664,
+          "text": "few words will tell",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 158803,
+          "char_end": 158828,
+          "text": "with 60. We were, however",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7427d2937f96",
+      "sentence": "That whatsoever partakes of, government? Is it not, games, wars, manners.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 71270,
+          "char_end": 71297,
+          "text": "that whatsoever partakes of",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 633897,
+          "char_end": 633918,
+          "text": "government? Is it not",
+          "role": "continuation"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 515000,
+          "char_end": 515020,
+          "text": "games, wars, manners",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "40a7c416bc32",
+      "sentence": "His late companion some, I may remember him.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 272238,
+          "char_end": 272261,
+          "text": "his late companion some",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 144324,
+          "char_end": 144342,
+          "text": "I may remember him",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "352d7706238f",
+      "sentence": "Things I wish I, moi ta pensée, car j'ai, the church and.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 142750,
+          "char_end": 142765,
+          "text": "things I wish I",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 24566,
+          "char_end": 24589,
+          "text": "moi ta pensée, car j'ai",
+          "role": "continuation"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 144058,
+          "char_end": 144072,
+          "text": "the church and",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4b0a12922a3f",
+      "sentence": "Heard it in the, you may say, derived.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 57208,
+          "char_end": 57223,
+          "text": "heard it in the",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 116277,
+          "char_end": 116297,
+          "text": "you may say, derived",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d91ef4eed6db",
+      "sentence": "There by thyself to, of it without giving, would rather give.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 287425,
+          "char_end": 287444,
+          "text": "There by thyself to",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 134358,
+          "char_end": 134378,
+          "text": "of it without giving",
+          "role": "continuation"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 355802,
+          "char_end": 355819,
+          "text": "would rather give",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "cfc966cc184c",
+      "sentence": "To this—that all, T was not thy.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 50783,
+          "char_end": 50799,
+          "text": "to this—that all",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 161634,
+          "char_end": 161647,
+          "text": "T was not thy",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5c9f1cf5b39b",
+      "sentence": "At the \"Big House, and cutting down the.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 73139,
+          "char_end": 73156,
+          "text": "At the \"Big House",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 314072,
+          "char_end": 314092,
+          "text": "and cutting down the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ba81a5b2ae28",
+      "sentence": "Each of us a, lodge, called Goose-green; and.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 5448,
+          "char_end": 5460,
+          "text": "each of us a",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 55785,
+          "char_end": 55815,
+          "text": "lodge, called Goose-green; and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "da6f5bb596a9",
+      "sentence": "All copies of Project, us who were on.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 167451,
+          "char_end": 167472,
+          "text": "all copies of Project",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 388983,
+          "char_end": 388997,
+          "text": "us who were on",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "56cf6051175f",
+      "sentence": "Of grenades through the, experience, that the moment.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 94586,
+          "char_end": 94609,
+          "text": "of grenades through the",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 50699,
+          "char_end": 50726,
+          "text": "experience, that the moment",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "869a87285c5b",
+      "sentence": "She had wandered long, not see how it.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 17277,
+          "char_end": 17298,
+          "text": "She had wandered long",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 538080,
+          "char_end": 538094,
+          "text": "not see how it",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c9ba165383f7",
+      "sentence": "And jokes while it, another and later occasion.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 222470,
+          "char_end": 222488,
+          "text": "and jokes while it",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 98858,
+          "char_end": 98884,
+          "text": "another and later occasion",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7d448272a7c7",
+      "sentence": "Future, et vous a, outfit of pumps, white.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 91570,
+          "char_end": 91587,
+          "text": "future, et vous a",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 515645,
+          "char_end": 515667,
+          "text": "outfit of pumps, white",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4afddeca7ac2",
+      "sentence": "The Russian Government, having, That which to him.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 192773,
+          "char_end": 192803,
+          "text": "The Russian Government, having",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 79069,
+          "char_end": 79086,
+          "text": "That which to him",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "65a004b4c5a2",
+      "sentence": "Rode up on horseback, strokes his beard. Then.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 292705,
+          "char_end": 292725,
+          "text": "rode up on horseback",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 192290,
+          "char_end": 192313,
+          "text": "strokes his beard. Then",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ae52a3f75ab2",
+      "sentence": "To change himself into, a vast appetite for.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 38352,
+          "char_end": 38374,
+          "text": "to change himself into",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 294525,
+          "char_end": 294544,
+          "text": "a vast appetite for",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e44cabcf3329",
+      "sentence": "Stirs the generous steed, in other words doubts.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 11822,
+          "char_end": 11846,
+          "text": "stirs the generous steed",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 294198,
+          "char_end": 294219,
+          "text": "in other words doubts",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "121d781d1d3b",
+      "sentence": "Hands three times, and, to the intellectual order.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 84078,
+          "char_end": 84100,
+          "text": "hands three times, and",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 459388,
+          "char_end": 459413,
+          "text": "to the intellectual order",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "283d2703a3c7",
+      "sentence": "Then should we give, may in the course.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 47796,
+          "char_end": 47815,
+          "text": "then should we give",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 211724,
+          "char_end": 211741,
+          "text": "may in the course",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
