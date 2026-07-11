@@ -1,0 +1,598 @@
+{
+  "run_id": "20260711_022913",
+  "run_date": "2026-07-11T02:29:13.876899+00:00Z",
+  "seed": 364645890,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "e1fd3a60ed67",
+      "sentence": "Of the Winter's Bark, thou dost use thyself.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 567912,
+          "char_end": 567932,
+          "text": "of the Winter's Bark",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 145529,
+          "char_end": 145550,
+          "text": "thou dost use thyself",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5d9629680abc",
+      "sentence": "Cousin, and I have, smiled on we, and.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 337255,
+          "char_end": 337273,
+          "text": "cousin, and I have",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 295,
+          "char_end": 312,
+          "text": "smiled on we, and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "732eeb8a4b0e",
+      "sentence": "The Rev. John Wilson_, but, I was the more.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 145352,
+          "char_end": 145378,
+          "text": "the Rev. John Wilson_, but",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 95874,
+          "char_end": 95888,
+          "text": "I was the more",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3f225f44c896",
+      "sentence": "Drew out his hatchet, on the rocks periodically, Here are a.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 57380,
+          "char_end": 57400,
+          "text": "drew out his hatchet",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 30148,
+          "char_end": 30173,
+          "text": "on the rocks periodically",
+          "role": "continuation"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 5670,
+          "char_end": 5680,
+          "text": "Here are a",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "1716756ee29a",
+      "sentence": "In her child-like, simple, Well, brother,\" says the.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 95754,
+          "char_end": 95779,
+          "text": "in her child-like, simple",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 278321,
+          "char_end": 278345,
+          "text": "Well, brother,\" says the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c0da2ffeaa99",
+      "sentence": "Will not suffer thee, And anchor off the.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 137298,
+          "char_end": 137318,
+          "text": "will not suffer thee",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 154219,
+          "char_end": 154237,
+          "text": "And anchor off the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ae39162cdb79",
+      "sentence": "Life of her, particularly, thence I brought this, hills, the ancient.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 168114,
+          "char_end": 168139,
+          "text": "life of her, particularly",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 222085,
+          "char_end": 222106,
+          "text": "thence I brought this",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 545404,
+          "char_end": 545422,
+          "text": "hills, the ancient",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "94b984f1cc44",
+      "sentence": "That the mind is, and blue, and green.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 55022,
+          "char_end": 55038,
+          "text": "that the mind is",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 9341,
+          "char_end": 9360,
+          "text": "and blue, and green",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c050e919f4f4",
+      "sentence": "And tell your cedar, of a human battle, that we met.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 138809,
+          "char_end": 138828,
+          "text": "And tell your cedar",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 406505,
+          "char_end": 406522,
+          "text": "of a human battle",
+          "role": "continuation"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 239981,
+          "char_end": 239992,
+          "text": "that we met",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "7ae2bc169442",
+      "sentence": "Discovered him, revealed to, the hen has sat.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 169441,
+          "char_end": 169468,
+          "text": "discovered him, revealed to",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 302463,
+          "char_end": 302478,
+          "text": "the hen has sat",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3014030a44ef",
+      "sentence": "Greater than the rest, all manner of conjectures, feet, had buried.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 651120,
+          "char_end": 651141,
+          "text": "greater than the rest",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 351639,
+          "char_end": 351664,
+          "text": "all manner of conjectures",
+          "role": "continuation"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 26035,
+          "char_end": 26051,
+          "text": "feet, had buried",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "67f197096ed3",
+      "sentence": "In the defence of, paid in honour, for.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 276441,
+          "char_end": 276458,
+          "text": "in the defence of",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 22913,
+          "char_end": 22932,
+          "text": "paid in honour, for",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d1c9dd92cc30",
+      "sentence": "Impaired; but I must, have been applied in, march, in search.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 216248,
+          "char_end": 216268,
+          "text": "impaired; but I must",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 267743,
+          "char_end": 267763,
+          "text": "have been applied in",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 651070,
+          "char_end": 651086,
+          "text": "march, in search",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "7f5f13538423",
+      "sentence": "Her with fatherly kindness, slave enough to eat.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 7211,
+          "char_end": 7237,
+          "text": "her with fatherly kindness",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 106364,
+          "char_end": 106383,
+          "text": "slave enough to eat",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ab20e544479b",
+      "sentence": "To the bells’ cheerful, was celebrated in the.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 2428,
+          "char_end": 2450,
+          "text": "To the bells’ cheerful",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 53720,
+          "char_end": 53741,
+          "text": "was celebrated in the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4ae19feefb31",
+      "sentence": "Fois mieux que je, other--that is, he will.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 64670,
+          "char_end": 64687,
+          "text": "fois mieux que je",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 160327,
+          "char_end": 160350,
+          "text": "other--that is, he will",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "70b346ba36b6",
+      "sentence": "Did not admit air, good supply of refreshments.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 80849,
+          "char_end": 80866,
+          "text": "did not admit air",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 387681,
+          "char_end": 387708,
+          "text": "good supply of refreshments",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8019c9687744",
+      "sentence": "Parted, the dervish going, The vex’d corrosion.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 448291,
+          "char_end": 448316,
+          "text": "parted, the dervish going",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 149239,
+          "char_end": 149258,
+          "text": "The vex’d corrosion",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ba962cb278e4",
+      "sentence": "Of any pleasure. I, Its excellent fruit was, your ears with.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 567280,
+          "char_end": 567298,
+          "text": "of any pleasure. I",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 49861,
+          "char_end": 49884,
+          "text": "Its excellent fruit was",
+          "role": "continuation"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 42559,
+          "char_end": 42573,
+          "text": "your ears with",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "cd828bc05ee1",
+      "sentence": "Right forms again. And, And though the skies, never be again.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 355370,
+          "char_end": 355392,
+          "text": "right forms again. And",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 128986,
+          "char_end": 129006,
+          "text": "And though the skies",
+          "role": "continuation"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 90378,
+          "char_end": 90392,
+          "text": "never be again",
+          "role": "closing"
+        }
+      ]
+    }
+  ]
+}
