@@ -1,0 +1,588 @@
+{
+  "run_id": "20260714_022048",
+  "run_date": "2026-07-14T02:20:48.668784+00:00Z",
+  "seed": 2712334205,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "499071df5c6c",
+      "sentence": "De quitter mon service, The little ones spend.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 39984,
+          "char_end": 40006,
+          "text": "de quitter mon service",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 29931,
+          "char_end": 29952,
+          "text": "The little ones spend",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b101e42dd38f",
+      "sentence": "That bind them to, boughs over my head, must be ready.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 195503,
+          "char_end": 195520,
+          "text": "that bind them to",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 358127,
+          "char_end": 358146,
+          "text": "boughs over my head",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 65494,
+          "char_end": 65507,
+          "text": "must be ready",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "983800db965e",
+      "sentence": "What but One’s-Self, men saw a light, act by impulse.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 611560,
+          "char_end": 611579,
+          "text": "what but One’s-Self",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 642353,
+          "char_end": 642368,
+          "text": "men saw a light",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 371125,
+          "char_end": 371139,
+          "text": "act by impulse",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "5033fd1e9ffa",
+      "sentence": "Flashed and her teeth, more descend into the.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 154234,
+          "char_end": 154255,
+          "text": "flashed and her teeth",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 118529,
+          "char_end": 118550,
+          "text": "more descend into the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8ce3fae320fd",
+      "sentence": "Of all the arguments, superstition, renders it in, who think that.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 41501,
+          "char_end": 41521,
+          "text": "of all the arguments",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 15862,
+          "char_end": 15889,
+          "text": "superstition, renders it in",
+          "role": "continuation"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 81879,
+          "char_end": 81893,
+          "text": "who think that",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ef39bc9bcd55",
+      "sentence": "De moi, je gage, and in good order.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 154995,
+          "char_end": 155010,
+          "text": "de moi, je gage",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 299958,
+          "char_end": 299975,
+          "text": "and in good order",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "169d45edc6ac",
+      "sentence": "About 160 leagues to the, And yet, as poor.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 133203,
+          "char_end": 133227,
+          "text": "about 160 leagues to the",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 7108,
+          "char_end": 7124,
+          "text": "And yet, as poor",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "264e0c1c3b0e",
+      "sentence": "Behind it, on and, jumped upon it boldly.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 342294,
+          "char_end": 342311,
+          "text": "behind it, on and",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 29881,
+          "char_end": 29902,
+          "text": "jumped upon it boldly",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "053c708e6f59",
+      "sentence": "And his thoughts are, now, by putting a.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 70807,
+          "char_end": 70827,
+          "text": "and his thoughts are",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 167932,
+          "char_end": 167949,
+          "text": "now, by putting a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5d3fc52c794c",
+      "sentence": "Forment que li nostre, the neighbourhood of Berend.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 27735,
+          "char_end": 27756,
+          "text": "forment que li nostre",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 152724,
+          "char_end": 152751,
+          "text": "the neighbourhood of Berend",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "37bba8198df4",
+      "sentence": "The same--others who look, if he avenged his, to the Roman.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 225388,
+          "char_end": 225413,
+          "text": "the same--others who look",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 54316,
+          "char_end": 54333,
+          "text": "if he avenged his",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 28885,
+          "char_end": 28897,
+          "text": "to the Roman",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "743e5ab57e62",
+      "sentence": "Such a withdrawn, but, am.\" The fallacy of, impunity because he.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 154261,
+          "char_end": 154282,
+          "text": "such a withdrawn, but",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 204535,
+          "char_end": 204554,
+          "text": "am.\" The fallacy of",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 41829,
+          "char_end": 41848,
+          "text": "impunity because he",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "c6c462a3b3af",
+      "sentence": "Understanding to proper objects, to me the best, and rain, and.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 345503,
+          "char_end": 345534,
+          "text": "understanding to proper objects",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 327477,
+          "char_end": 327491,
+          "text": "to me the best",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 216032,
+          "char_end": 216045,
+          "text": "and rain, and",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "151aa9e19f49",
+      "sentence": "Nuptials of the Sultan's, recovered, he is high-spirited--I.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 545709,
+          "char_end": 545733,
+          "text": "nuptials of the Sultan's",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 231185,
+          "char_end": 231218,
+          "text": "recovered, he is high-spirited--I",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e6b3967ce57e",
+      "sentence": "Easily answered. Do not, of nature. It was.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 46634,
+          "char_end": 46657,
+          "text": "easily answered. Do not",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 209724,
+          "char_end": 209741,
+          "text": "of nature. It was",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b12f6c11f7ef",
+      "sentence": "Edition of this grand, ought ever to be.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 7208,
+          "char_end": 7229,
+          "text": "edition of this grand",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 274383,
+          "char_end": 274399,
+          "text": "ought ever to be",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6b3422b7a542",
+      "sentence": "Our wants might be, she was doing this.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 557941,
+          "char_end": 557959,
+          "text": "our wants might be",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 228299,
+          "char_end": 228317,
+          "text": "she was doing this",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f07be657a9f8",
+      "sentence": "Les plus naturels de, I was going in.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 2330,
+          "char_end": 2350,
+          "text": "les plus naturels de",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 548939,
+          "char_end": 548953,
+          "text": "I was going in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1d03a7849d15",
+      "sentence": "That necessity must teach, whether the Prince of.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 41895,
+          "char_end": 41920,
+          "text": "that necessity must teach",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 235879,
+          "char_end": 235900,
+          "text": "whether the Prince of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3eef78c1fa58",
+      "sentence": "That of the Sedge, ma douce amie, nous.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 127073,
+          "char_end": 127090,
+          "text": "that of the Sedge",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 123323,
+          "char_end": 123342,
+          "text": "ma douce amie, nous",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
