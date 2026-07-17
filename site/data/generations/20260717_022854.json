@@ -1,0 +1,578 @@
+{
+  "run_id": "20260717_022854",
+  "run_date": "2026-07-17T02:28:54.464340+00:00Z",
+  "seed": 992821882,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "2155b1c9c53c",
+      "sentence": "Next house Aimee was, and hoisted out two.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 24800,
+          "char_end": 24820,
+          "text": "next house Aimee was",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 159146,
+          "char_end": 159165,
+          "text": "and hoisted out two",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b832bc52754c",
+      "sentence": "We conceive as possible, with good reason, that.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 453751,
+          "char_end": 453774,
+          "text": "we conceive as possible",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 213449,
+          "char_end": 213471,
+          "text": "with good reason, that",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8897666a90f3",
+      "sentence": "Great numbers of huachos, it published. If the.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 212651,
+          "char_end": 212675,
+          "text": "great numbers of huachos",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 8669,
+          "char_end": 8689,
+          "text": "it published. If the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8596b847f223",
+      "sentence": "Ideas, to think out, last, and then we.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 315303,
+          "char_end": 315322,
+          "text": "ideas, to think out",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 75579,
+          "char_end": 75596,
+          "text": "last, and then we",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7024804bbea7",
+      "sentence": "One exposed to it, by herself, but were.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 44887,
+          "char_end": 44904,
+          "text": "one exposed to it",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 77858,
+          "char_end": 77878,
+          "text": "by herself, but were",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c8b542875be7",
+      "sentence": "While Aladdin lay down, running this way and.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 419170,
+          "char_end": 419192,
+          "text": "while Aladdin lay down",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 185424,
+          "char_end": 185444,
+          "text": "running this way and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "35fee7950386",
+      "sentence": "Should reach the heart, northern verge of the.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 119876,
+          "char_end": 119898,
+          "text": "Should reach the heart",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 280390,
+          "char_end": 280411,
+          "text": "northern verge of the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6bf2a89eaec6",
+      "sentence": "Down and scrubbed one, of evil as regards.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 738853,
+          "char_end": 738874,
+          "text": "down and scrubbed one",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 329062,
+          "char_end": 329080,
+          "text": "of evil as regards",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9e0c1e637422",
+      "sentence": "Au diable, fou de, lay, so as to, furling a royal.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 101954,
+          "char_end": 101971,
+          "text": "Au diable, fou de",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 56361,
+          "char_end": 56374,
+          "text": "lay, so as to",
+          "role": "continuation"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 776817,
+          "char_end": 776832,
+          "text": "furling a royal",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "cd4d1d629659",
+      "sentence": "Which I am liable, the meal before the.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 693023,
+          "char_end": 693040,
+          "text": "which I am liable",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 81703,
+          "char_end": 81722,
+          "text": "the meal before the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "25c2a86ab012",
+      "sentence": "Had been forced to, rain and thick hazy, you?\" and \"What.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 102281,
+          "char_end": 102299,
+          "text": "had been forced to",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 270317,
+          "char_end": 270336,
+          "text": "rain and thick hazy",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 55623,
+          "char_end": 55638,
+          "text": "you?\" and \"What",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "cd8efaf0681c",
+      "sentence": "Lord Houghton, and in, For he could no.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 788269,
+          "char_end": 788290,
+          "text": "Lord Houghton, and in",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 196624,
+          "char_end": 196639,
+          "text": "For he could no",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "88d3032f7327",
+      "sentence": "Is said to be, concur in the cause, a child; it.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 42308,
+          "char_end": 42321,
+          "text": "is said to be",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 105627,
+          "char_end": 105646,
+          "text": "concur in the cause",
+          "role": "continuation"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 61999,
+          "char_end": 62010,
+          "text": "a child; it",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "895b0cad0d89",
+      "sentence": "Give heed to that, in the latter parish.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 28738,
+          "char_end": 28755,
+          "text": "give heed to that",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 325853,
+          "char_end": 325873,
+          "text": "in the latter parish",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1d09df29d795",
+      "sentence": "GRUMIO.--Vous frapper ici, as snug as a, they also thought.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 38830,
+          "char_end": 38855,
+          "text": "GRUMIO.--Vous frapper ici",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 463416,
+          "char_end": 463428,
+          "text": "as snug as a",
+          "role": "continuation"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 74387,
+          "char_end": 74404,
+          "text": "they also thought",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "99510a02b95e",
+      "sentence": "Ne suis pas enchaînée aux, was wroth with his.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 81214,
+          "char_end": 81239,
+          "text": "ne suis pas enchaînée aux",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 701395,
+          "char_end": 701413,
+          "text": "was wroth with his",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5832c5fea5a2",
+      "sentence": "Did He smile His, on the surface of.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 22045,
+          "char_end": 22061,
+          "text": "Did He smile His",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 401134,
+          "char_end": 401151,
+          "text": "on the surface of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4f78d887f51d",
+      "sentence": "Hind; but the motion, in a course and.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 246605,
+          "char_end": 246625,
+          "text": "hind; but the motion",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 341890,
+          "char_end": 341905,
+          "text": "in a course and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "cd5d0d84567e",
+      "sentence": "The grand scope of, Pennsylvania, or on deck.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 300912,
+          "char_end": 300930,
+          "text": "the grand scope of",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 392058,
+          "char_end": 392082,
+          "text": "Pennsylvania, or on deck",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c7fbf533d556",
+      "sentence": "My friends was decidedly, could have produced such, are necessarily as.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 195559,
+          "char_end": 195583,
+          "text": "my friends was decidedly",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 133000,
+          "char_end": 133024,
+          "text": "could have produced such",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 275795,
+          "char_end": 275813,
+          "text": "are necessarily as",
+          "role": "closing"
+        }
+      ]
+    }
+  ]
+}
