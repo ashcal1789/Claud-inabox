@@ -1,0 +1,608 @@
+{
+  "run_id": "20260718_021417",
+  "run_date": "2026-07-18T02:14:17.519002+00:00Z",
+  "seed": 2031928636,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "1d09ee7a6bb7",
+      "sentence": "And finally, the whole, the roof. It was.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 116083,
+          "char_end": 116105,
+          "text": "and finally, the whole",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 19870,
+          "char_end": 19886,
+          "text": "the roof. It was",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4bf382a920ca",
+      "sentence": "Chapel was built in, the evidence of sense, assurance, and I.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 23153,
+          "char_end": 23172,
+          "text": "Chapel was built in",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 299984,
+          "char_end": 300005,
+          "text": "the evidence of sense",
+          "role": "continuation"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 138395,
+          "char_end": 138411,
+          "text": "assurance, and I",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "238803beb837",
+      "sentence": "Condense: this body will, orders, I started off.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 78467,
+          "char_end": 78491,
+          "text": "condense: this body will",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 134642,
+          "char_end": 134663,
+          "text": "orders, I started off",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "46c3211c6e88",
+      "sentence": "The upward and downward, after the dead friend.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 107729,
+          "char_end": 107752,
+          "text": "the upward and downward",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 11600,
+          "char_end": 11621,
+          "text": "after the dead friend",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "eb90802a1f4a",
+      "sentence": "Or eighth journey, she, gained the last time.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 38108,
+          "char_end": 38130,
+          "text": "or eighth journey, she",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 118615,
+          "char_end": 118635,
+          "text": "gained the last time",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5e341e5e7578",
+      "sentence": "And change of any, to buy another pair.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 190905,
+          "char_end": 190922,
+          "text": "and change of any",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 139188,
+          "char_end": 139207,
+          "text": "to buy another pair",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9f831cd5136f",
+      "sentence": "Black, and he from, day and the following.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 4671,
+          "char_end": 4689,
+          "text": "black, and he from",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 257477,
+          "char_end": 257498,
+          "text": "day and the following",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d2af11ba9f2d",
+      "sentence": "They fear lest the, My darling, this is, the hydrogen burn.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 342612,
+          "char_end": 342630,
+          "text": "They fear lest the",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 186379,
+          "char_end": 186398,
+          "text": "My darling, this is",
+          "role": "continuation"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 104063,
+          "char_end": 104080,
+          "text": "the hydrogen burn",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "5b574fe4a51c",
+      "sentence": "He has been sprinkled, I had killed, in, stamped as it.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 113878,
+          "char_end": 113899,
+          "text": "he has been sprinkled",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 242391,
+          "char_end": 242407,
+          "text": "I had killed, in",
+          "role": "continuation"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 323159,
+          "char_end": 323172,
+          "text": "stamped as it",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f482d1bfabe2",
+      "sentence": "Species, and are very, His priest and king, say, he began.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 136243,
+          "char_end": 136264,
+          "text": "species, and are very",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 19888,
+          "char_end": 19907,
+          "text": "His priest and king",
+          "role": "continuation"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 218039,
+          "char_end": 218052,
+          "text": "say, he began",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "baf8a73ebf92",
+      "sentence": "Sent ambassador to Egypt, Nor that years will, ma maison, mon.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 352630,
+          "char_end": 352654,
+          "text": "sent ambassador to Egypt",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 542757,
+          "char_end": 542776,
+          "text": "Nor that years will",
+          "role": "continuation"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 99070,
+          "char_end": 99084,
+          "text": "ma maison, mon",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "9447b7f855d5",
+      "sentence": "Side of the street, and began to work.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 128563,
+          "char_end": 128581,
+          "text": "side of the street",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 202234,
+          "char_end": 202251,
+          "text": "and began to work",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "fd06cbb0691d",
+      "sentence": "Ne suis pas enchaînée aux, that before I went, insensible:) or in.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 81214,
+          "char_end": 81239,
+          "text": "ne suis pas enchaînée aux",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 136031,
+          "char_end": 136049,
+          "text": "that before I went",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 219262,
+          "char_end": 219280,
+          "text": "insensible:) or in",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "47da9b753a5b",
+      "sentence": "To the village in, my duty to those.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 352007,
+          "char_end": 352024,
+          "text": "to the village in",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 413719,
+          "char_end": 413735,
+          "text": "my duty to those",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5490f278f129",
+      "sentence": "In the close of, in vision and in, The ducking was.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 459200,
+          "char_end": 459215,
+          "text": "In the close of",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 15308,
+          "char_end": 15324,
+          "text": "in vision and in",
+          "role": "continuation"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 83044,
+          "char_end": 83059,
+          "text": "The ducking was",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "51a13a4dd250",
+      "sentence": "Two to the \"dog's, smell. Out of the, insist upon the.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 67673,
+          "char_end": 67690,
+          "text": "two to the \"dog's",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 232479,
+          "char_end": 232496,
+          "text": "smell. Out of the",
+          "role": "continuation"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 478425,
+          "char_end": 478440,
+          "text": "insist upon the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "1c0f1dd5c0d8",
+      "sentence": "Discover the least degree, concerned, only the finest.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 220949,
+          "char_end": 220974,
+          "text": "discover the least degree",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 252863,
+          "char_end": 252889,
+          "text": "concerned, only the finest",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1a2110e645ec",
+      "sentence": "Of ice, may have, with stars, and was.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 118916,
+          "char_end": 118932,
+          "text": "of ice, may have",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 19517,
+          "char_end": 19536,
+          "text": "with stars, and was",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b4e217da1066",
+      "sentence": "The ordinary criticisms of, infinity would be twelve.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 343472,
+          "char_end": 343498,
+          "text": "The ordinary criticisms of",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 25092,
+          "char_end": 25116,
+          "text": "infinity would be twelve",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f5e7eb884c9a",
+      "sentence": "Object, as when it, My arms are strong.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 237808,
+          "char_end": 237826,
+          "text": "object, as when it",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 38581,
+          "char_end": 38599,
+          "text": "My arms are strong",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
