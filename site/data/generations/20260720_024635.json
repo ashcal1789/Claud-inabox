@@ -1,0 +1,538 @@
+{
+  "run_id": "20260720_024635",
+  "run_date": "2026-07-20T02:46:35.261513+00:00Z",
+  "seed": 204792065,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "02ee19845424",
+      "sentence": "Fowls very daintily.’ ‘I, not one of them.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 206594,
+          "char_end": 206618,
+          "text": "fowls very daintily.’ ‘I",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 7210,
+          "char_end": 7225,
+          "text": "not one of them",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "364529cfc90f",
+      "sentence": "Depend on the dew, any self-assertion or want.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 225678,
+          "char_end": 225695,
+          "text": "depend on the dew",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 69247,
+          "char_end": 69273,
+          "text": "any self-assertion or want",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "26003eac26a7",
+      "sentence": "We suppose the case, long ere this, almost.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 245130,
+          "char_end": 245149,
+          "text": "we suppose the case",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 119703,
+          "char_end": 119724,
+          "text": "long ere this, almost",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4f3ade93495f",
+      "sentence": "The small boats put, by irrational actions withdraws.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 106930,
+          "char_end": 106949,
+          "text": "the small boats put",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 99810,
+          "char_end": 99841,
+          "text": "by irrational actions withdraws",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d18e94e64fe6",
+      "sentence": "Et qui attriste notre, made of coarse negro.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 91444,
+          "char_end": 91465,
+          "text": "et qui attriste notre",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 40814,
+          "char_end": 40834,
+          "text": "made of coarse negro",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3029efbc114c",
+      "sentence": "Attributes of God to, beneficial to me about.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 477175,
+          "char_end": 477195,
+          "text": "attributes of God to",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 716977,
+          "char_end": 716999,
+          "text": "beneficial to me about",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "58aa06d357f9",
+      "sentence": "Follow from causes, which, us about two hundred.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 104335,
+          "char_end": 104360,
+          "text": "follow from causes, which",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 324851,
+          "char_end": 324871,
+          "text": "us about two hundred",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8797a111ccd4",
+      "sentence": "Burning brand repeatedly into, this was the condition.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 264331,
+          "char_end": 264360,
+          "text": "burning brand repeatedly into",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 57017,
+          "char_end": 57039,
+          "text": "this was the condition",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7aa65ca4e08b",
+      "sentence": "The size of the, speaking-trumpet held close to.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 223228,
+          "char_end": 223243,
+          "text": "the size of the",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 371181,
+          "char_end": 371211,
+          "text": "speaking-trumpet held close to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "85dee5ca3179",
+      "sentence": "Thy father and mother, am Little Red-Cap, and.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 19525,
+          "char_end": 19546,
+          "text": "thy father and mother",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 178841,
+          "char_end": 178863,
+          "text": "am Little Red-Cap, and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3948885b4b88",
+      "sentence": "And say how many, my city is that.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 100876,
+          "char_end": 100892,
+          "text": "And say how many",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 643504,
+          "char_end": 643519,
+          "text": "my city is that",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "fab30e9cb688",
+      "sentence": "It appears, then, that, together, in the way.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 136595,
+          "char_end": 136617,
+          "text": "It appears, then, that",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 157444,
+          "char_end": 157464,
+          "text": "together, in the way",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e836f6f639c8",
+      "sentence": "Seen, which are not, look upon half a.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 89404,
+          "char_end": 89423,
+          "text": "seen, which are not",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 153677,
+          "char_end": 153693,
+          "text": "look upon half a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "92eeab659b16",
+      "sentence": "Its oldest members, Messrs, freshening up the sea.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 117699,
+          "char_end": 117725,
+          "text": "its oldest members, Messrs",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 758530,
+          "char_end": 758551,
+          "text": "freshening up the sea",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "59a583f6094e",
+      "sentence": "A hail in their, let in by opinion.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 327212,
+          "char_end": 327227,
+          "text": "a hail in their",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 219540,
+          "char_end": 219557,
+          "text": "let in by opinion",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6da40c7a0786",
+      "sentence": "To consider it only, earth doth properly belong, at first goes.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 3707,
+          "char_end": 3726,
+          "text": "to consider it only",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 165068,
+          "char_end": 165094,
+          "text": "earth doth properly belong",
+          "role": "continuation"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 167153,
+          "char_end": 167166,
+          "text": "at first goes",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "2454516ad5ff",
+      "sentence": "Difficult then to think, appeared at door or.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 164355,
+          "char_end": 164378,
+          "text": "difficult then to think",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 26436,
+          "char_end": 26455,
+          "text": "appeared at door or",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9e85ab7f9a81",
+      "sentence": "The surface of the, his clothes, his horses.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 332936,
+          "char_end": 332954,
+          "text": "the surface of the",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 211785,
+          "char_end": 211808,
+          "text": "his clothes, his horses",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e295e74bbb3b",
+      "sentence": "The time to enjoy, only seem harbingers of.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 166524,
+          "char_end": 166541,
+          "text": "the time to enjoy",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 34749,
+          "char_end": 34772,
+          "text": "only seem harbingers of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b2e9e741fdaf",
+      "sentence": "The steward to lead, strength from food which.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 22979,
+          "char_end": 22998,
+          "text": "the steward to lead",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 508302,
+          "char_end": 508326,
+          "text": "strength from food which",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
