@@ -1,0 +1,598 @@
+{
+  "run_id": "20260721_022954",
+  "run_date": "2026-07-21T02:29:54.621255+00:00Z",
+  "seed": 173349634,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "7092bdc9247b",
+      "sentence": "Platinum next (so that, of him will not, recruits, even boys.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 185797,
+          "char_end": 185819,
+          "text": "platinum next (so that",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 594357,
+          "char_end": 594372,
+          "text": "of him will not",
+          "role": "continuation"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 388985,
+          "char_end": 389004,
+          "text": "recruits, even boys",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "e957c93cb944",
+      "sentence": "Its provisions into execution, of a party employed.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 178459,
+          "char_end": 178488,
+          "text": "its provisions into execution",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 485057,
+          "char_end": 485076,
+          "text": "of a party employed",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e0e5f7745e2d",
+      "sentence": "Very cold weather, we, heure à la musique, vous.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 479980,
+          "char_end": 480001,
+          "text": "very cold weather, we",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 80583,
+          "char_end": 80607,
+          "text": "heure à la musique, vous",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e5e4ed62c1b1",
+      "sentence": "That I know of, was shot, and answered.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 323543,
+          "char_end": 323557,
+          "text": "that I know of",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 186596,
+          "char_end": 186618,
+          "text": "was shot, and answered",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1a2035e2a201",
+      "sentence": "Fluid would consequently run, suddenly the dimples ceased, hair rolled down.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 15296,
+          "char_end": 15324,
+          "text": "fluid would consequently run",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 336641,
+          "char_end": 336668,
+          "text": "suddenly the dimples ceased",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 488935,
+          "char_end": 488951,
+          "text": "hair rolled down",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4f3d30c4aa5e",
+      "sentence": "Often as desirous to, a bad one. I.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 285792,
+          "char_end": 285812,
+          "text": "often as desirous to",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 663889,
+          "char_end": 663901,
+          "text": "a bad one. I",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "085bf5c7c60d",
+      "sentence": "A more ready attention, it is. C. translates.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 11281,
+          "char_end": 11303,
+          "text": "a more ready attention",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 383378,
+          "char_end": 383398,
+          "text": "it is. C. translates",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3b46b399b6be",
+      "sentence": "The latter becomes the, yellow flowers, which the.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 43792,
+          "char_end": 43814,
+          "text": "the latter becomes the",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 397250,
+          "char_end": 397275,
+          "text": "yellow flowers, which the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8546da5e412f",
+      "sentence": "The order to loose, vingt boeufs gras dans.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 400451,
+          "char_end": 400469,
+          "text": "the order to loose",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 76959,
+          "char_end": 76981,
+          "text": "vingt boeufs gras dans",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ca43935e4080",
+      "sentence": "Under that of the, resolved never to rest, and seven little.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 34329,
+          "char_end": 34346,
+          "text": "under that of the",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 114810,
+          "char_end": 114832,
+          "text": "resolved never to rest",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 242890,
+          "char_end": 242906,
+          "text": "and seven little",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "5a1b4776b020",
+      "sentence": "Gallop of their hordes, as possible, to cause.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 9817,
+          "char_end": 9839,
+          "text": "gallop of their hordes",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 237136,
+          "char_end": 237157,
+          "text": "as possible, to cause",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d458c53bad48",
+      "sentence": "Purpose. He made her, supposed to depend on.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 36965,
+          "char_end": 36985,
+          "text": "purpose. He made her",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 45024,
+          "char_end": 45045,
+          "text": "supposed to depend on",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9b79e7c0ea8f",
+      "sentence": "Blasts of winter appear, to me for Harriet--and.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 30676,
+          "char_end": 30699,
+          "text": "blasts of winter appear",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 148078,
+          "char_end": 148100,
+          "text": "to me for Harriet--and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "67b574cead72",
+      "sentence": "D-up skeletons of kings, Youth and maiden bright.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 652934,
+          "char_end": 652957,
+          "text": "d-up skeletons of kings",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 27556,
+          "char_end": 27579,
+          "text": "Youth and maiden bright",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "70787b9219e0",
+      "sentence": "Eyes sought mine momentarily, city with such a.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 13165,
+          "char_end": 13193,
+          "text": "eyes sought mine momentarily",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 431251,
+          "char_end": 431267,
+          "text": "city with such a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "984103cd9828",
+      "sentence": "From that experience are, be affected with hatred, to obtain the.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 53385,
+          "char_end": 53409,
+          "text": "from that experience are",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 230333,
+          "char_end": 230356,
+          "text": "be affected with hatred",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 605297,
+          "char_end": 605310,
+          "text": "to obtain the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "9a6478b4909a",
+      "sentence": "Picture, I hold it, To be sure I, at first appear.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 219158,
+          "char_end": 219176,
+          "text": "picture, I hold it",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 52159,
+          "char_end": 52171,
+          "text": "To be sure I",
+          "role": "continuation"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 160580,
+          "char_end": 160595,
+          "text": "at first appear",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "a163b3ca3ca3",
+      "sentence": "The early part of, it up again safe, of the best.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 253965,
+          "char_end": 253982,
+          "text": "the early part of",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 102602,
+          "char_end": 102618,
+          "text": "it up again safe",
+          "role": "continuation"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 60576,
+          "char_end": 60587,
+          "text": "of the best",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4da26d7421c2",
+      "sentence": "Beings, of every power, apple-orchard and the orange-orchard, under the command.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 129010,
+          "char_end": 129032,
+          "text": "beings, of every power",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 509767,
+          "char_end": 509803,
+          "text": "apple-orchard and the orange-orchard",
+          "role": "continuation"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 157136,
+          "char_end": 157153,
+          "text": "under the command",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "72728c378d23",
+      "sentence": "Of the Punjab campaign, entered, displayed the comfort.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 68995,
+          "char_end": 69017,
+          "text": "of the Punjab campaign",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 262415,
+          "char_end": 262445,
+          "text": "entered, displayed the comfort",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
