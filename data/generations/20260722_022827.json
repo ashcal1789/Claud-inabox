@@ -1,0 +1,578 @@
+{
+  "run_id": "20260722_022827",
+  "run_date": "2026-07-22T02:28:27.056404+00:00Z",
+  "seed": 440949882,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "fb9aed0cdaf4",
+      "sentence": "Est-il prêt, la maison rangée, les, good has ever happened.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 103004,
+          "char_end": 103038,
+          "text": "est-il prêt, la maison rangée, les",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 58167,
+          "char_end": 58189,
+          "text": "good has ever happened",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a58d686ec9b4",
+      "sentence": "Thy conversation, as neither, made many a raid.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 268612,
+          "char_end": 268640,
+          "text": "thy conversation, as neither",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 177146,
+          "char_end": 177162,
+          "text": "made many a raid",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1531d61abf25",
+      "sentence": "I confined to live, place that pleased him.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 157017,
+          "char_end": 157035,
+          "text": "I confined to live",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 110329,
+          "char_end": 110351,
+          "text": "place that pleased him",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "76a649bcdbf4",
+      "sentence": "That magic is older, nearer, and pick up, I don’t.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 186437,
+          "char_end": 186456,
+          "text": "that magic is older",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 481396,
+          "char_end": 481415,
+          "text": "nearer, and pick up",
+          "role": "continuation"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 28790,
+          "char_end": 28797,
+          "text": "I don’t",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "6cc7e397ff2c",
+      "sentence": "Of most on board, magnificent house which he.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 206413,
+          "char_end": 206429,
+          "text": "of most on board",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 163572,
+          "char_end": 163598,
+          "text": "magnificent house which he",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "65a9a280cd9c",
+      "sentence": "Be more of a, conform to his disposition, blow with your.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 322456,
+          "char_end": 322468,
+          "text": "be more of a",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 122402,
+          "char_end": 122428,
+          "text": "conform to his disposition",
+          "role": "continuation"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 72507,
+          "char_end": 72521,
+          "text": "blow with your",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "fda2923a0c3b",
+      "sentence": "With a great sea, old ones of last.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 131251,
+          "char_end": 131267,
+          "text": "with a great sea",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 410271,
+          "char_end": 410287,
+          "text": "old ones of last",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5846c3b1fce8",
+      "sentence": "Now but the struggling, chill seized us. We.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 278898,
+          "char_end": 278920,
+          "text": "now but the struggling",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 25333,
+          "char_end": 25352,
+          "text": "chill seized us. We",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "459f5e05786c",
+      "sentence": "Vanilla ASCII” or other, and gross. It is.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 172734,
+          "char_end": 172757,
+          "text": "Vanilla ASCII” or other",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 132672,
+          "char_end": 132688,
+          "text": "and gross. It is",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1105317b3ed6",
+      "sentence": "Same time, with a, laws of its nature, man, His child.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 168303,
+          "char_end": 168320,
+          "text": "same time, with a",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 193111,
+          "char_end": 193129,
+          "text": "laws of its nature",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 8824,
+          "char_end": 8838,
+          "text": "man, His child",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "7fd660b3dbcb",
+      "sentence": "The course of his, the fact, the party.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 82684,
+          "char_end": 82701,
+          "text": "the course of his",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 41196,
+          "char_end": 41215,
+          "text": "the fact, the party",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7d1b045d9395",
+      "sentence": "In the world, thou, for the particulars of.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 256420,
+          "char_end": 256438,
+          "text": "in the world, thou",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 63778,
+          "char_end": 63800,
+          "text": "for the particulars of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8518905924e5",
+      "sentence": "Trees in the day-time, Every subject was proper.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 139034,
+          "char_end": 139055,
+          "text": "trees in the day-time",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 53615,
+          "char_end": 53639,
+          "text": "Every subject was proper",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "46c2e61db1da",
+      "sentence": "Will observe on the, such a hut, it.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 213702,
+          "char_end": 213721,
+          "text": "will observe on the",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 227898,
+          "char_end": 227912,
+          "text": "such a hut, it",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "488870617499",
+      "sentence": "A sofa, \"come and, with it, and when.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 554818,
+          "char_end": 554835,
+          "text": "a sofa, \"come and",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 121972,
+          "char_end": 121989,
+          "text": "with it, and when",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a0fed5c1719d",
+      "sentence": "The goats in the, of informing and convincing.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 392771,
+          "char_end": 392787,
+          "text": "the goats in the",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 70836,
+          "char_end": 70863,
+          "text": "of informing and convincing",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ccc72c3c5ce4",
+      "sentence": "Seen at hand or, a man of woe.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 316042,
+          "char_end": 316057,
+          "text": "Seen at hand or",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 14352,
+          "char_end": 14364,
+          "text": "a man of woe",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7f1fa3b2fc7a",
+      "sentence": "For my little damask, the evil spirits or, subject of the.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 88218,
+          "char_end": 88238,
+          "text": "For my little damask",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 292289,
+          "char_end": 292308,
+          "text": "the evil spirits or",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 607308,
+          "char_end": 607322,
+          "text": "subject of the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "d096db1601d8",
+      "sentence": "Mes il est voirs, out of the field, t let him.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 28609,
+          "char_end": 28625,
+          "text": "mes il est voirs",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 45245,
+          "char_end": 45261,
+          "text": "out of the field",
+          "role": "continuation"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 25068,
+          "char_end": 25077,
+          "text": "t let him",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "17da86248701",
+      "sentence": "Sister, if you are, I am sure they.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 12137,
+          "char_end": 12155,
+          "text": "sister, if you are",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 576954,
+          "char_end": 576968,
+          "text": "I am sure they",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
