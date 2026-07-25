@@ -1,0 +1,618 @@
+{
+  "run_id": "20260725_022831",
+  "run_date": "2026-07-25T02:28:31.887569+00:00Z",
+  "seed": 3413300261,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "d95e2e8f1393",
+      "sentence": "After nightfall he came, Selfish father of men.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 71739,
+          "char_end": 71762,
+          "text": "after nightfall he came",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 15553,
+          "char_end": 15574,
+          "text": "Selfish father of men",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5385ac499f42",
+      "sentence": "For pore ole master, the giant as he, moi, et me.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 23206,
+          "char_end": 23225,
+          "text": "for pore ole master",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 333740,
+          "char_end": 333755,
+          "text": "the giant as he",
+          "role": "continuation"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 121888,
+          "char_end": 121898,
+          "text": "moi, et me",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "0ef1ca30a5d3",
+      "sentence": "Would be impossible, if, splendor, and, really, the.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 11887,
+          "char_end": 11910,
+          "text": "would be impossible, if",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 669534,
+          "char_end": 669560,
+          "text": "splendor, and, really, the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "689b390b6106",
+      "sentence": "Baker, that is, come, pour lui montrer les.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 104650,
+          "char_end": 104670,
+          "text": "Baker, that is, come",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 29870,
+          "char_end": 29890,
+          "text": "pour lui montrer les",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2b8e2f184cdc",
+      "sentence": "Bite or to run, with an eye or, cataract, the roaring.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 119650,
+          "char_end": 119664,
+          "text": "bite or to run",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 122020,
+          "char_end": 122034,
+          "text": "with an eye or",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 196686,
+          "char_end": 196707,
+          "text": "cataract, the roaring",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "867eecfb5047",
+      "sentence": "New object, considered in, changed; but it does, very sore. ‘I.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 289892,
+          "char_end": 289917,
+          "text": "new object, considered in",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 40155,
+          "char_end": 40175,
+          "text": "changed; but it does",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 476322,
+          "char_end": 476335,
+          "text": "very sore. ‘I",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "77db6670e06e",
+      "sentence": "Platinum; and I shew, Every one, even his, London. We shall.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 192725,
+          "char_end": 192745,
+          "text": "platinum; and I shew",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 331394,
+          "char_end": 331413,
+          "text": "Every one, even his",
+          "role": "continuation"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 264382,
+          "char_end": 264398,
+          "text": "London. We shall",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "2449be4caa0e",
+      "sentence": "Antiquest felt at noon, embraced me. This was.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 102125,
+          "char_end": 102147,
+          "text": "Antiquest felt at noon",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 316437,
+          "char_end": 316458,
+          "text": "embraced me. This was",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "156f1d1a528d",
+      "sentence": "Some hours after, with, a close translation; and, broad band of.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 219187,
+          "char_end": 219209,
+          "text": "some hours after, with",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 381450,
+          "char_end": 381474,
+          "text": "a close translation; and",
+          "role": "continuation"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 138408,
+          "char_end": 138421,
+          "text": "broad band of",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f5f20fb6bbfb",
+      "sentence": "Districts, as if it, the west, but the.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 283647,
+          "char_end": 283666,
+          "text": "districts, as if it",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 504439,
+          "char_end": 504456,
+          "text": "the west, but the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "55a14bef54bb",
+      "sentence": "With dust, and our, house, when I took, priests, and those.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 222099,
+          "char_end": 222117,
+          "text": "with dust, and our",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 464514,
+          "char_end": 464532,
+          "text": "house, when I took",
+          "role": "continuation"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 724870,
+          "char_end": 724888,
+          "text": "priests, and those",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "7846b1636023",
+      "sentence": "Comparatively disregarded now, when, out into the snow.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 470428,
+          "char_end": 470463,
+          "text": "comparatively disregarded now, when",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 64437,
+          "char_end": 64454,
+          "text": "out into the snow",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "091a59530e87",
+      "sentence": "It possible for the, then was Lucilla herself, the marvellous is.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 18143,
+          "char_end": 18162,
+          "text": "it possible for the",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 217417,
+          "char_end": 217441,
+          "text": "then was Lucilla herself",
+          "role": "continuation"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 646541,
+          "char_end": 646558,
+          "text": "the marvellous is",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "6d5e45287e45",
+      "sentence": "His leg and said, hunger and struggling. They.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 465348,
+          "char_end": 465364,
+          "text": "his leg and said",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 457888,
+          "char_end": 457915,
+          "text": "hunger and struggling. They",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6fe0a160eb4d",
+      "sentence": "Remained at Addiscombe a, the whole family were.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 154199,
+          "char_end": 154223,
+          "text": "remained at Addiscombe a",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 138746,
+          "char_end": 138767,
+          "text": "the whole family were",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "69a913e05aae",
+      "sentence": "Pigs, and like so, And weeping in the.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 67945,
+          "char_end": 67962,
+          "text": "pigs, and like so",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 14857,
+          "char_end": 14875,
+          "text": "And weeping in the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "faac4ac2ec7e",
+      "sentence": "Has been said of, sort they call 'despair.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 35562,
+          "char_end": 35578,
+          "text": "has been said of",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 133935,
+          "char_end": 133958,
+          "text": "sort they call 'despair",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0efd22923a22",
+      "sentence": "They sight the land, If you are outside.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 70949,
+          "char_end": 70968,
+          "text": "they sight the land",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 169578,
+          "char_end": 169596,
+          "text": "If you are outside",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d55c6f10aa13",
+      "sentence": "Will see whatever you, little stream, and Catherine, fusible metal, and.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 30575,
+          "char_end": 30596,
+          "text": "will see whatever you",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 75360,
+          "char_end": 75388,
+          "text": "little stream, and Catherine",
+          "role": "continuation"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 185846,
+          "char_end": 185864,
+          "text": "fusible metal, and",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ec9838a3d783",
+      "sentence": "Martial, the “Lion of, spots; and some small, same sense of.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 4583,
+          "char_end": 4604,
+          "text": "Martial, the “Lion of",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 233467,
+          "char_end": 233488,
+          "text": "spots; and some small",
+          "role": "continuation"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 9062,
+          "char_end": 9075,
+          "text": "same sense of",
+          "role": "closing"
+        }
+      ]
+    }
+  ]
+}
