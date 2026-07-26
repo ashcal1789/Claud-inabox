@@ -1,0 +1,598 @@
+{
+  "run_id": "20260726_023540",
+  "run_date": "2026-07-26T02:35:40.588865+00:00Z",
+  "seed": 1108520082,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "a59087d46b05",
+      "sentence": "Shows that they have, pale, with feverish hands, we take into.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 336543,
+          "char_end": 336563,
+          "text": "shows that they have",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 13651,
+          "char_end": 13676,
+          "text": "pale, with feverish hands",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 68586,
+          "char_end": 68598,
+          "text": "we take into",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f771dc6c5425",
+      "sentence": "In the timber; they, iv. and vi.) one.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 386456,
+          "char_end": 386475,
+          "text": "in the timber; they",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 85947,
+          "char_end": 85963,
+          "text": "iv. and vi.) one",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "529124d01091",
+      "sentence": "And then we lost, a more than arbitrary, so eager to.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 132618,
+          "char_end": 132634,
+          "text": "and then we lost",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 323446,
+          "char_end": 323467,
+          "text": "a more than arbitrary",
+          "role": "continuation"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 44056,
+          "char_end": 44067,
+          "text": "so eager to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "429387a874f3",
+      "sentence": "Please you?’ ‘Yes,’ answered, be nigh neighbours. It, out of my.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 495546,
+          "char_end": 495574,
+          "text": "please you?’ ‘Yes,’ answered",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 49499,
+          "char_end": 49521,
+          "text": "be nigh neighbours. It",
+          "role": "continuation"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 168978,
+          "char_end": 168987,
+          "text": "out of my",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "95e9896626c2",
+      "sentence": "The world at no, himself from common nature's.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 170510,
+          "char_end": 170525,
+          "text": "the world at no",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 99608,
+          "char_end": 99636,
+          "text": "himself from common nature's",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0f1ada4b13fb",
+      "sentence": "And the child can, of nature: his uniformity.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 282089,
+          "char_end": 282106,
+          "text": "and the child can",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 158574,
+          "char_end": 158599,
+          "text": "of nature: his uniformity",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2bdcdbe827f3",
+      "sentence": "Birth, identity, form--no object, Note.--If these statements.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 701586,
+          "char_end": 701618,
+          "text": "birth, identity, form--no object",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 415696,
+          "char_end": 415722,
+          "text": "Note.--If these statements",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b0f802bc7a19",
+      "sentence": "He had fenced with, will always be in, bird am I.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 22005,
+          "char_end": 22023,
+          "text": "he had fenced with",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 176447,
+          "char_end": 176464,
+          "text": "will always be in",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 325212,
+          "char_end": 325221,
+          "text": "bird am I",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "8cbc8f79cd7b",
+      "sentence": "Season: day to night, very few things of.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 6542,
+          "char_end": 6562,
+          "text": "season: day to night",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 436205,
+          "char_end": 436223,
+          "text": "very few things of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b5d3148632ef",
+      "sentence": "Purchase. Just before the, the fluid and attaching.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 93678,
+          "char_end": 93703,
+          "text": "purchase. Just before the",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 212208,
+          "char_end": 212231,
+          "text": "the fluid and attaching",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "353fb4f0072d",
+      "sentence": "For a considerable space, saying as he did.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 29113,
+          "char_end": 29137,
+          "text": "for a considerable space",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 286190,
+          "char_end": 286206,
+          "text": "saying as he did",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f59c9eb5424f",
+      "sentence": "Boughs of a tree, or six hours, took, a bird; no.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 115891,
+          "char_end": 115907,
+          "text": "boughs of a tree",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 107444,
+          "char_end": 107462,
+          "text": "or six hours, took",
+          "role": "continuation"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 275965,
+          "char_end": 275975,
+          "text": "a bird; no",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "288fbf101905",
+      "sentence": "The matter with them, Round the laps of.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 9327,
+          "char_end": 9347,
+          "text": "the matter with them",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 2858,
+          "char_end": 2875,
+          "text": "Round the laps of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ef1d49f98693",
+      "sentence": "Temporary weakness which a, and that it was.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 708735,
+          "char_end": 708761,
+          "text": "temporary weakness which a",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 535219,
+          "char_end": 535234,
+          "text": "and that it was",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "adf3a044dc36",
+      "sentence": "Twenty or twenty-two inches, at a book window.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 405573,
+          "char_end": 405600,
+          "text": "twenty or twenty-two inches",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 426416,
+          "char_end": 426432,
+          "text": "at a book window",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "887301d40192",
+      "sentence": "To return to what, if he avenged his, je ne bougerai.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 390752,
+          "char_end": 390769,
+          "text": "to return to what",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 54316,
+          "char_end": 54333,
+          "text": "if he avenged his",
+          "role": "continuation"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 7196,
+          "char_end": 7210,
+          "text": "je ne bougerai",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4f495f68685f",
+      "sentence": "Universe, then, is God, TRANIO.--Je n'aime pas, secrets.  He knew.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 12776,
+          "char_end": 12798,
+          "text": "universe, then, is God",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 51384,
+          "char_end": 51406,
+          "text": "TRANIO.--Je n'aime pas",
+          "role": "continuation"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 434189,
+          "char_end": 434206,
+          "text": "secrets.  He knew",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "3894d4b652db",
+      "sentence": "Intense heat it has, in the wind. These.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 48949,
+          "char_end": 48968,
+          "text": "intense heat it has",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 295345,
+          "char_end": 295363,
+          "text": "in the wind. These",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b80fc4566e2f",
+      "sentence": "Get out of this, to many of the.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 129409,
+          "char_end": 129424,
+          "text": "get out of this",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 217994,
+          "char_end": 218008,
+          "text": "to many of the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7d8d30db836c",
+      "sentence": "Is volcanic, but probably, singular in my opinion.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 26408,
+          "char_end": 26433,
+          "text": "is volcanic, but probably",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 271421,
+          "char_end": 271443,
+          "text": "singular in my opinion",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
