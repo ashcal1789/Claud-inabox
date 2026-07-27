@@ -1,0 +1,578 @@
+{
+  "run_id": "20260727_024331",
+  "run_date": "2026-07-27T02:43:31.623159+00:00Z",
+  "seed": 1792553692,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "5880ff131f40",
+      "sentence": "Views in one particular, to himself, ‘If my.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 102298,
+          "char_end": 102321,
+          "text": "views in one particular",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 225994,
+          "char_end": 226012,
+          "text": "to himself, ‘If my",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d2781f9c291a",
+      "sentence": "House, but they were, her tender limbs with.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 181965,
+          "char_end": 181985,
+          "text": "house, but they were",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 28116,
+          "char_end": 28137,
+          "text": "her tender limbs with",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "355eb7ad2e61",
+      "sentence": "The steeple. But what, it reach the member.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 21100,
+          "char_end": 21121,
+          "text": "the steeple. But what",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 118617,
+          "char_end": 118636,
+          "text": "it reach the member",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8722efce4c94",
+      "sentence": "Says man--and did not, been in the habit, And spreads his.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 626481,
+          "char_end": 626502,
+          "text": "says man--and did not",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 49450,
+          "char_end": 49467,
+          "text": "been in the habit",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 25172,
+          "char_end": 25187,
+          "text": "And spreads his",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "d670a49927c6",
+      "sentence": "The image of any, A flower expected everywhere.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 338874,
+          "char_end": 338890,
+          "text": "the image of any",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 86858,
+          "char_end": 86886,
+          "text": "A flower expected everywhere",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a966506bcd55",
+      "sentence": "Thus making it unnecessary, Sheet home the fore.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 194281,
+          "char_end": 194307,
+          "text": "thus making it unnecessary",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 616797,
+          "char_end": 616816,
+          "text": "Sheet home the fore",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b24af17020f8",
+      "sentence": "Heat, but a means, something like the state, at all strange.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 208247,
+          "char_end": 208264,
+          "text": "heat, but a means",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 360410,
+          "char_end": 360434,
+          "text": "something like the state",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 58055,
+          "char_end": 58069,
+          "text": "at all strange",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "de2fd9403520",
+      "sentence": "A most instructive pattern, nature; so that whatsoever, was, reposed upon.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 282126,
+          "char_end": 282152,
+          "text": "a most instructive pattern",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 424398,
+          "char_end": 424424,
+          "text": "nature; so that whatsoever",
+          "role": "continuation"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 165637,
+          "char_end": 165654,
+          "text": "was, reposed upon",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "bb6b21a0cc09",
+      "sentence": "One; his case may, and then write to.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 11446,
+          "char_end": 11463,
+          "text": "one; his case may",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 146485,
+          "char_end": 146502,
+          "text": "and then write to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7c9ab3bd7958",
+      "sentence": "All Seas, All Ships, add, I pray you.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 368425,
+          "char_end": 368444,
+          "text": "All Seas, All Ships",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 556288,
+          "char_end": 556303,
+          "text": "add, I pray you",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "702ce9c8e06a",
+      "sentence": "Erewhile saw, with erect, think on Him who, Here is a.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 655324,
+          "char_end": 655348,
+          "text": "erewhile saw, with erect",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 11220,
+          "char_end": 11236,
+          "text": "think on Him who",
+          "role": "continuation"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 36719,
+          "char_end": 36728,
+          "text": "Here is a",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "08090e57f76a",
+      "sentence": "Corruption too, in some, known from the first, the East the.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 249827,
+          "char_end": 249850,
+          "text": "corruption too, in some",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 281168,
+          "char_end": 281188,
+          "text": "known from the first",
+          "role": "continuation"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 282458,
+          "char_end": 282470,
+          "text": "the East the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ccf24b1ee842",
+      "sentence": "La bride; je sais, break his spirit down.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 52755,
+          "char_end": 52772,
+          "text": "la bride; je sais",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 286664,
+          "char_end": 286685,
+          "text": "break his spirit down",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a4e5d063d08a",
+      "sentence": "And the shoes suited, by themselves do not.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 307220,
+          "char_end": 307240,
+          "text": "and the shoes suited",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 79942,
+          "char_end": 79962,
+          "text": "by themselves do not",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7aae6774021b",
+      "sentence": "Be enclosed in a, of the wild animals.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 616990,
+          "char_end": 617006,
+          "text": "be enclosed in a",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 270257,
+          "char_end": 270276,
+          "text": "of the wild animals",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "110c52b01ed9",
+      "sentence": "Religion, and other Subjects, to one entirely unused.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 527612,
+          "char_end": 527640,
+          "text": "Religion, and other Subjects",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 129380,
+          "char_end": 129402,
+          "text": "to one entirely unused",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ccf809b4348d",
+      "sentence": "Being too bulky for, cellar. We drank to.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 18447,
+          "char_end": 18466,
+          "text": "being too bulky for",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 6582,
+          "char_end": 6601,
+          "text": "cellar. We drank to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "53c2e79f81cc",
+      "sentence": "A spring as a, in the Thirteenth Century.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 237648,
+          "char_end": 237661,
+          "text": "a spring as a",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 185529,
+          "char_end": 185554,
+          "text": "in the Thirteenth Century",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4c4178b2c503",
+      "sentence": "Debauchee and an idiot, his audacity, “regarding not.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 227557,
+          "char_end": 227579,
+          "text": "debauchee and an idiot",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 21289,
+          "char_end": 21317,
+          "text": "his audacity, “regarding not",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2fd0d698c606",
+      "sentence": "Never required in kind, Oh, misery!\" thought the.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 130450,
+          "char_end": 130472,
+          "text": "never required in kind",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 271415,
+          "char_end": 271439,
+          "text": "Oh, misery!\" thought the",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
