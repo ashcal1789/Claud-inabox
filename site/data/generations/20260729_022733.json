@@ -1,0 +1,568 @@
+{
+  "run_id": "20260729_022733",
+  "run_date": "2026-07-29T02:27:33.035534+00:00Z",
+  "seed": 3358659836,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "41c6b5f3c629",
+      "sentence": "Be, the freedom of, the defense was organized.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 62388,
+          "char_end": 62406,
+          "text": "be, the freedom of",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 27841,
+          "char_end": 27866,
+          "text": "the defense was organized",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d018747668b6",
+      "sentence": "Of compact all-diffused truth, idea or knowledge of.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 645156,
+          "char_end": 645185,
+          "text": "of compact all-diffused truth",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 129975,
+          "char_end": 129995,
+          "text": "idea or knowledge of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "da783ed3143a",
+      "sentence": "Almost as well as, of like actions, with.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 165383,
+          "char_end": 165400,
+          "text": "almost as well as",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 180756,
+          "char_end": 180777,
+          "text": "of like actions, with",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "fb99dfd91a15",
+      "sentence": "Moments, in rode Mr, birds have discovered their.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 166328,
+          "char_end": 166347,
+          "text": "moments, in rode Mr",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 431795,
+          "char_end": 431822,
+          "text": "birds have discovered their",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e22ab9601919",
+      "sentence": "This spring (viz., 1784) in, abated, so as to.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 56968,
+          "char_end": 56995,
+          "text": "this spring (viz., 1784) in",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 435371,
+          "char_end": 435387,
+          "text": "abated, so as to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "19f17eb94f18",
+      "sentence": "Leaves, whirling in bands, to many of the, is but one.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 15615,
+          "char_end": 15640,
+          "text": "leaves, whirling in bands",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 217994,
+          "char_end": 218008,
+          "text": "to many of the",
+          "role": "continuation"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 133827,
+          "char_end": 133837,
+          "text": "is but one",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "09a21998d358",
+      "sentence": "Whether the Prince of, each other’s masquerade.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 235879,
+          "char_end": 235900,
+          "text": "whether the Prince of",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 42695,
+          "char_end": 42718,
+          "text": "each other’s masquerade",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4ea081909a05",
+      "sentence": "In Patagonia (lat. 48 degs, how it makes it.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 214379,
+          "char_end": 214405,
+          "text": "in Patagonia (lat. 48 degs",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 104581,
+          "char_end": 104596,
+          "text": "how it makes it",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7f4bd3d73b77",
+      "sentence": "Is taken, and the, its true nature: as.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 293417,
+          "char_end": 293434,
+          "text": "is taken, and the",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 279770,
+          "char_end": 279789,
+          "text": "its true nature: as",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c4083ad1576e",
+      "sentence": "His legs to put, undoubted source of the, a cloth, and.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 383837,
+          "char_end": 383852,
+          "text": "his legs to put",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 499935,
+          "char_end": 499958,
+          "text": "undoubted source of the",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 435372,
+          "char_end": 435384,
+          "text": "a cloth, and",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "775aa54f3889",
+      "sentence": "Let in by opinion, Hurrah! now we’ll.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 219540,
+          "char_end": 219557,
+          "text": "let in by opinion",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 467641,
+          "char_end": 467658,
+          "text": "Hurrah! now we’ll",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2124a30312e0",
+      "sentence": "O my veterans passing, his fire, pulled it.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 437563,
+          "char_end": 437584,
+          "text": "O my veterans passing",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 464467,
+          "char_end": 464486,
+          "text": "his fire, pulled it",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "dbf594dc89db",
+      "sentence": "At our feet, had, gone down by a.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 26028,
+          "char_end": 26044,
+          "text": "at our feet, had",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 568022,
+          "char_end": 568036,
+          "text": "gone down by a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "42b23f9f348e",
+      "sentence": "But not an hour, the ground. The children, But as, after.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 23824,
+          "char_end": 23839,
+          "text": "But not an hour",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 67889,
+          "char_end": 67913,
+          "text": "the ground. The children",
+          "role": "continuation"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 22264,
+          "char_end": 22277,
+          "text": "But as, after",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f0ec7f21c741",
+      "sentence": "Danger of my life, contains carbon. Here also, a coalition, to.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 68618,
+          "char_end": 68635,
+          "text": "danger of my life",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 160986,
+          "char_end": 161012,
+          "text": "contains carbon. Here also",
+          "role": "continuation"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 192842,
+          "char_end": 192857,
+          "text": "a coalition, to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "8cd7cd5be119",
+      "sentence": "Passes into hate; unless, some Charity, I wish.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 432759,
+          "char_end": 432783,
+          "text": "passes into hate; unless",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 32079,
+          "char_end": 32099,
+          "text": "some Charity, I wish",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "fa0d4796d738",
+      "sentence": "Agree about this at, so greatly that one.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 646749,
+          "char_end": 646768,
+          "text": "agree about this at",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 294908,
+          "char_end": 294927,
+          "text": "so greatly that one",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a13f2a87da90",
+      "sentence": "Law, an attempt was, seized us, carried us.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 178420,
+          "char_end": 178439,
+          "text": "Law, an attempt was",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 33029,
+          "char_end": 33050,
+          "text": "seized us, carried us",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "006189f35e34",
+      "sentence": "Highest mountains, it is, age of sixty he.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 110855,
+          "char_end": 110879,
+          "text": "highest mountains, it is",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 53776,
+          "char_end": 53791,
+          "text": "age of sixty he",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "fbe0ce81b12e",
+      "sentence": "Ta douceur, parler de, invited a number of.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 66565,
+          "char_end": 66586,
+          "text": "ta douceur, parler de",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 262191,
+          "char_end": 262210,
+          "text": "invited a number of",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
