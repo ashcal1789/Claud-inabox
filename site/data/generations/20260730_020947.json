@@ -1,0 +1,598 @@
+{
+  "run_id": "20260730_020947",
+  "run_date": "2026-07-30T02:09:47.698144+00:00Z",
+  "seed": 2177700284,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "f5cfc8daa74a",
+      "sentence": "Children! do they cry, Listener jumped out and.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 13196,
+          "char_end": 13217,
+          "text": "children! do they cry",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 79948,
+          "char_end": 79971,
+          "text": "Listener jumped out and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "950945afc816",
+      "sentence": "Direst slavery; as if, and many of the, pass the winter.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 181976,
+          "char_end": 181997,
+          "text": "direst slavery; as if",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 21444,
+          "char_end": 21459,
+          "text": "and many of the",
+          "role": "continuation"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 709457,
+          "char_end": 709472,
+          "text": "pass the winter",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "373a36dee1e7",
+      "sentence": "Sacred on board ship, the morning she came.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 557020,
+          "char_end": 557040,
+          "text": "sacred on board ship",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 127974,
+          "char_end": 127994,
+          "text": "the morning she came",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ee60a3da11b5",
+      "sentence": "Novelty! And still more, I was one.  When, fall, to aid.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 22795,
+          "char_end": 22818,
+          "text": "novelty! And still more",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 240750,
+          "char_end": 240766,
+          "text": "I was one.  When",
+          "role": "continuation"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 297078,
+          "char_end": 297090,
+          "text": "fall, to aid",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "75b432c488e9",
+      "sentence": "Roaring and a crashing, may imagine the unarmed.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 143026,
+          "char_end": 143048,
+          "text": "roaring and a crashing",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 196999,
+          "char_end": 197022,
+          "text": "may imagine the unarmed",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ffcd18d303c9",
+      "sentence": "Sauver la vie, prend, constituting one group; and.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 36825,
+          "char_end": 36845,
+          "text": "sauver la vie, prend",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 184664,
+          "char_end": 184691,
+          "text": "constituting one group; and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0a81276e2ebe",
+      "sentence": "GRUMIO.--A deux pas, Look on the rising, summer, still increasing.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 106648,
+          "char_end": 106667,
+          "text": "GRUMIO.--A deux pas",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 3999,
+          "char_end": 4017,
+          "text": "Look on the rising",
+          "role": "continuation"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 430692,
+          "char_end": 430716,
+          "text": "summer, still increasing",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "9766f77eba8a",
+      "sentence": "Sprung from shame and, professors of knowledge had, bought leather enough.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 29222,
+          "char_end": 29243,
+          "text": "sprung from shame and",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 9044,
+          "char_end": 9071,
+          "text": "professors of knowledge had",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 307352,
+          "char_end": 307373,
+          "text": "bought leather enough",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "9fc84da98326",
+      "sentence": "Mind was sufficient to, believe in divine beings, trust the morn.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 194065,
+          "char_end": 194087,
+          "text": "mind was sufficient to",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 52072,
+          "char_end": 52096,
+          "text": "believe in divine beings",
+          "role": "continuation"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 43336,
+          "char_end": 43350,
+          "text": "trust the morn",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "893589f410b5",
+      "sentence": "Down thy dwelling, for, a Genoese prison; it, were what they.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 384960,
+          "char_end": 384982,
+          "text": "down thy dwelling, for",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 378824,
+          "char_end": 378844,
+          "text": "a Genoese prison; it",
+          "role": "continuation"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 342096,
+          "char_end": 342110,
+          "text": "were what they",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "64d8a2e5f61c",
+      "sentence": "Every one, “this will, one blow struck an.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 11021,
+          "char_end": 11042,
+          "text": "every one, “this will",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 470138,
+          "char_end": 470156,
+          "text": "one blow struck an",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4400c083166c",
+      "sentence": "In the windows of, winter, was delightful.  The.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 133124,
+          "char_end": 133141,
+          "text": "in the windows of",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 68029,
+          "char_end": 68057,
+          "text": "winter, was delightful.  The",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "feabfcde068a",
+      "sentence": "Delightful to watch the, as in all other.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 75518,
+          "char_end": 75541,
+          "text": "delightful to watch the",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 123029,
+          "char_end": 123044,
+          "text": "as in all other",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "330a37ee4741",
+      "sentence": "To kneel down and, abound in my gardens.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 359427,
+          "char_end": 359444,
+          "text": "to kneel down and",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 137093,
+          "char_end": 137113,
+          "text": "abound in my gardens",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d58cd68e90c3",
+      "sentence": "And was for many, kind of action or.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 27631,
+          "char_end": 27647,
+          "text": "and was for many",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 19053,
+          "char_end": 19070,
+          "text": "kind of action or",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6cdc583db8a8",
+      "sentence": "She has to show, many times these low.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 218864,
+          "char_end": 218879,
+          "text": "she has to show",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 38503,
+          "char_end": 38523,
+          "text": "many times these low",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "bd85eec85b30",
+      "sentence": "Raimbeau house collapsed. We, So I turned to.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 23840,
+          "char_end": 23868,
+          "text": "Raimbeau house collapsed. We",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 23309,
+          "char_end": 23323,
+          "text": "So I turned to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "45f32efa65ab",
+      "sentence": "Faire.--Bref, mon maître, puisque, of the wall; from, mother and child.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 35817,
+          "char_end": 35850,
+          "text": "faire.--Bref, mon maître, puisque",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 377563,
+          "char_end": 377580,
+          "text": "of the wall; from",
+          "role": "continuation"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 21615,
+          "char_end": 21631,
+          "text": "mother and child",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "26fd55f3a0f6",
+      "sentence": "Fat. I am satisfied, could tend to promote.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 378592,
+          "char_end": 378611,
+          "text": "fat. I am satisfied",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 37373,
+          "char_end": 37394,
+          "text": "could tend to promote",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f2f12177ed37",
+      "sentence": "Would never call any, sunk down to the.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 29129,
+          "char_end": 29149,
+          "text": "would never call any",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 173746,
+          "char_end": 173762,
+          "text": "sunk down to the",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
