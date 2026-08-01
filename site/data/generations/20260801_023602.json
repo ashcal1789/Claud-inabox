@@ -1,0 +1,568 @@
+{
+  "run_id": "20260801_023602",
+  "run_date": "2026-08-01T02:36:02.755531+00:00Z",
+  "seed": 1793410415,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "c4bd57505d51",
+      "sentence": "Name. There are three, while we feel, that.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 213710,
+          "char_end": 213731,
+          "text": "name. There are three",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 114751,
+          "char_end": 114770,
+          "text": "while we feel, that",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d02ddcdf0531",
+      "sentence": "Most painfully feel. I, des vents courroucés comme un.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 181304,
+          "char_end": 181326,
+          "text": "most painfully feel. I",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 49841,
+          "char_end": 49870,
+          "text": "des vents courroucés comme un",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "524f89bddbd5",
+      "sentence": "At San Pedro.  Nearly, the country, stopping only, discovered in what.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 455452,
+          "char_end": 455473,
+          "text": "at San Pedro.  Nearly",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 206644,
+          "char_end": 206670,
+          "text": "the country, stopping only",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 145284,
+          "char_end": 145302,
+          "text": "discovered in what",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "13662236fa41",
+      "sentence": "And throwing himself down, men I knew. He, I had of.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 380071,
+          "char_end": 380096,
+          "text": "and throwing himself down",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 660158,
+          "char_end": 660172,
+          "text": "men I knew. He",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 163490,
+          "char_end": 163498,
+          "text": "I had of",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "a432ea9ad83a",
+      "sentence": "Necessary. For what shall, then, many philosophers think.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 334727,
+          "char_end": 334752,
+          "text": "necessary. For what shall",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 126187,
+          "char_end": 126216,
+          "text": "then, many philosophers think",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b6b91cb9cd77",
+      "sentence": "Fall, the sun to, and Cliffs onto the.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 388615,
+          "char_end": 388631,
+          "text": "fall, the sun to",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 535351,
+          "char_end": 535370,
+          "text": "and Cliffs onto the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e68f069ac432",
+      "sentence": "Allowing several shots to, the course of a.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 389147,
+          "char_end": 389172,
+          "text": "allowing several shots to",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 697157,
+          "char_end": 697172,
+          "text": "the course of a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "84e057a456f6",
+      "sentence": "We landed at Balsora, I lived like the, Ivan began to.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 235449,
+          "char_end": 235469,
+          "text": "we landed at Balsora",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 197611,
+          "char_end": 197627,
+          "text": "I lived like the",
+          "role": "continuation"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 140132,
+          "char_end": 140145,
+          "text": "Ivan began to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "b6faa721b3e2",
+      "sentence": "Constrains a man's power, Government, found his work.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 244764,
+          "char_end": 244788,
+          "text": "constrains a man's power",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 88725,
+          "char_end": 88751,
+          "text": "Government, found his work",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d76c44d0152d",
+      "sentence": "His, all torn, patched, Harriet could work no.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 320264,
+          "char_end": 320286,
+          "text": "his, all torn, patched",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 20501,
+          "char_end": 20522,
+          "text": "Harriet could work no",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "47e9b409d0ba",
+      "sentence": "To bring all the, the dry and sterile.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 262909,
+          "char_end": 262925,
+          "text": "to bring all the",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 543004,
+          "char_end": 543023,
+          "text": "the dry and sterile",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "002a29b0a68b",
+      "sentence": "Understands more things by, any drifting, wrapping up.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 490473,
+          "char_end": 490499,
+          "text": "understands more things by",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 459737,
+          "char_end": 459762,
+          "text": "any drifting, wrapping up",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d41496fd4e9e",
+      "sentence": "The rocks leads to, person were to select.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 153379,
+          "char_end": 153397,
+          "text": "the rocks leads to",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 82465,
+          "char_end": 82486,
+          "text": "person were to select",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d04d58f5c6d8",
+      "sentence": "Or anything, more than, me, especially where your.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 85330,
+          "char_end": 85352,
+          "text": "or anything, more than",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 165990,
+          "char_end": 166015,
+          "text": "me, especially where your",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "67487cd30c3d",
+      "sentence": "The jailer said, “Come, a country town in.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 617725,
+          "char_end": 617747,
+          "text": "the jailer said, “Come",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 33754,
+          "char_end": 33771,
+          "text": "a country town in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a113f7d012a9",
+      "sentence": "Or if they were, their troops to go.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 221558,
+          "char_end": 221573,
+          "text": "or if they were",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 622397,
+          "char_end": 622415,
+          "text": "their troops to go",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "cf724b729c2e",
+      "sentence": "The time to be, has burned, leaving a.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 299814,
+          "char_end": 299828,
+          "text": "the time to be",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 74272,
+          "char_end": 74293,
+          "text": "has burned, leaving a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7195b863ac6a",
+      "sentence": "The safety of their, for it my soul.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 86790,
+          "char_end": 86809,
+          "text": "the safety of their",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 228873,
+          "char_end": 228887,
+          "text": "for it my soul",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "37286e63d889",
+      "sentence": "And so many children, very early in the, where his wife.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 16636,
+          "char_end": 16656,
+          "text": "And so many children",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 116696,
+          "char_end": 116713,
+          "text": "very early in the",
+          "role": "continuation"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 224502,
+          "char_end": 224516,
+          "text": "where his wife",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "92b0c00fd200",
+      "sentence": "Any thing I have, but it is produced.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 157106,
+          "char_end": 157122,
+          "text": "any thing I have",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 28547,
+          "char_end": 28565,
+          "text": "but it is produced",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
