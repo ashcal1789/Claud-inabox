@@ -1,0 +1,608 @@
+{
+  "run_id": "20260802_023505",
+  "run_date": "2026-08-02T02:35:05.612150+00:00Z",
+  "seed": 636531257,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "84adca32b4f3",
+      "sentence": "Et cependant, vous êtes bien, of its solidity. He, lately excluded to.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 69705,
+          "char_end": 69733,
+          "text": "Et cependant, vous êtes bien",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 29949,
+          "char_end": 29968,
+          "text": "of its solidity. He",
+          "role": "continuation"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 417045,
+          "char_end": 417063,
+          "text": "lately excluded to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "7552542a9a0a",
+      "sentence": "Cried. “We will drink, ran away quickly to.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 4171,
+          "char_end": 4192,
+          "text": "cried. “We will drink",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 435159,
+          "char_end": 435178,
+          "text": "ran away quickly to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2e3d7ce5952c",
+      "sentence": "Thou shalt not’ writ, out of his covert.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 23273,
+          "char_end": 23293,
+          "text": "Thou shalt not’ writ",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 98524,
+          "char_end": 98541,
+          "text": "out of his covert",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "91dbbe3f6b12",
+      "sentence": "Show away ahead thy, imperfect work time is, we certainly know.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 618078,
+          "char_end": 618097,
+          "text": "show away ahead thy",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 570099,
+          "char_end": 570121,
+          "text": "imperfect work time is",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 321632,
+          "char_end": 321649,
+          "text": "we certainly know",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "d1ec3e23443c",
+      "sentence": "O ma Cateau! calme-toi, She tried and tried, who had come.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 98092,
+          "char_end": 98114,
+          "text": "O ma Cateau! calme-toi",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 187999,
+          "char_end": 188018,
+          "text": "She tried and tried",
+          "role": "continuation"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 40442,
+          "char_end": 40454,
+          "text": "who had come",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "e415aeb7c51b",
+      "sentence": "The most eminent rank, in the world will.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 226412,
+          "char_end": 226433,
+          "text": "the most eminent rank",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 468656,
+          "char_end": 468673,
+          "text": "in the world will",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "958741c1e327",
+      "sentence": "Tell her how I, pour l'amour que je.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 166581,
+          "char_end": 166595,
+          "text": "tell her how I",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 29762,
+          "char_end": 29781,
+          "text": "pour l'amour que je",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f7bdbb7c161c",
+      "sentence": "And a cubic foot, the easiest and the.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 126086,
+          "char_end": 126102,
+          "text": "and a cubic foot",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 80390,
+          "char_end": 80409,
+          "text": "the easiest and the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ffc103be4eed",
+      "sentence": "Can give. Huge heaps, To my plain Northern, a mother sees.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 174789,
+          "char_end": 174809,
+          "text": "can give. Huge heaps",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 711891,
+          "char_end": 711911,
+          "text": "To my plain Northern",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 732917,
+          "char_end": 732930,
+          "text": "a mother sees",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "7132124956e7",
+      "sentence": "To have sensation, it, a large wooden tray.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 499668,
+          "char_end": 499689,
+          "text": "to have sensation, it",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 67840,
+          "char_end": 67859,
+          "text": "a large wooden tray",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ea33dcc4c010",
+      "sentence": "Of his own Fauna, hillside rudely cleared, with.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 240461,
+          "char_end": 240477,
+          "text": "of his own Fauna",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 77352,
+          "char_end": 77381,
+          "text": "hillside rudely cleared, with",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0793b903037b",
+      "sentence": "Finest spirits, will not, They've got pistols,\" said.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 364155,
+          "char_end": 364179,
+          "text": "finest spirits, will not",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 186845,
+          "char_end": 186871,
+          "text": "They've got pistols,\" said",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2032f43adc7c",
+      "sentence": "When winter shakes the, two and ate it, law in Norway.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 7883,
+          "char_end": 7905,
+          "text": "When winter shakes the",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 296045,
+          "char_end": 296059,
+          "text": "two and ate it",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 191261,
+          "char_end": 191274,
+          "text": "law in Norway",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "43580c6a220d",
+      "sentence": "So sailors say, on, a diminution of its.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 171727,
+          "char_end": 171745,
+          "text": "So sailors say, on",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 214012,
+          "char_end": 214031,
+          "text": "a diminution of its",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c9bf40c08e00",
+      "sentence": "Cruel man. I have, the end of two, as he is.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 42883,
+          "char_end": 42900,
+          "text": "cruel man. I have",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 277082,
+          "char_end": 277096,
+          "text": "the end of two",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 74708,
+          "char_end": 74716,
+          "text": "as he is",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4f45e0092526",
+      "sentence": "Is of this particular, the seashore. And when.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 32372,
+          "char_end": 32393,
+          "text": "is of this particular",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 48455,
+          "char_end": 48477,
+          "text": "the seashore. And when",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5d78c8b34b9e",
+      "sentence": "Gave almost a solemnity, favor in a more.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 308510,
+          "char_end": 308533,
+          "text": "gave almost a solemnity",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 565373,
+          "char_end": 565388,
+          "text": "favor in a more",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "55aeb328f24f",
+      "sentence": "And her life problem, conceives himself to be, can persuade or.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 11952,
+          "char_end": 11972,
+          "text": "and her life problem",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 269797,
+          "char_end": 269820,
+          "text": "conceives himself to be",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 175565,
+          "char_end": 175580,
+          "text": "can persuade or",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "68bec3c2643e",
+      "sentence": "Wall-trees with mats or, she came up and.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 479076,
+          "char_end": 479099,
+          "text": "wall-trees with mats or",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 110212,
+          "char_end": 110227,
+          "text": "she came up and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ea3ec410dad7",
+      "sentence": "Stripped him to his, and the soldier was, bird and animal.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 27143,
+          "char_end": 27162,
+          "text": "stripped him to his",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 69194,
+          "char_end": 69213,
+          "text": "and the soldier was",
+          "role": "continuation"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 269270,
+          "char_end": 269285,
+          "text": "bird and animal",
+          "role": "closing"
+        }
+      ]
+    }
+  ]
+}

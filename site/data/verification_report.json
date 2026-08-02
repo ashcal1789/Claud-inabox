@@ -1,8 +1,8 @@
 {
-  "verified_at": "2026-08-01T02:36:03.979005+00:00Z",
-  "generation_files": 30,
-  "sentences_checked": 600,
-  "fragments_checked": 1378,
+  "verified_at": "2026-08-02T02:35:07.046810+00:00Z",
+  "generation_files": 31,
+  "sentences_checked": 620,
+  "fragments_checked": 1426,
   "total_failures": 0,
   "all_passed": true,
   "results": [
@@ -273,6 +273,15 @@
       "run_date": "2026-08-01T02:36:02.755531+00:00Z",
       "sentences_checked": 20,
       "fragments_checked": 44,
+      "failures": [],
+      "passed": true
+    },
+    {
+      "file": "20260802_023505.json",
+      "run_id": "20260802_023505",
+      "run_date": "2026-08-02T02:35:05.612150+00:00Z",
+      "sentences_checked": 20,
+      "fragments_checked": 48,
       "failures": [],
       "passed": true
     }
