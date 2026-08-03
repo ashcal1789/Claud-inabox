@@ -1,0 +1,578 @@
+{
+  "run_id": "20260803_023641",
+  "run_date": "2026-08-03T02:36:41.986792+00:00Z",
+  "seed": 3790602025,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "3cbf12d1a3eb",
+      "sentence": "A circle on the, of California, where it.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 419300,
+          "char_end": 419315,
+          "text": "a circle on the",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 478417,
+          "char_end": 478440,
+          "text": "of California, where it",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "29e2b61eb5b9",
+      "sentence": "A considerable iron-work, which, age, and the scorching.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 81475,
+          "char_end": 81506,
+          "text": "a considerable iron-work, which",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 5768,
+          "char_end": 5790,
+          "text": "age, and the scorching",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "139155320a31",
+      "sentence": "Safety. When the water, full refund of any.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 40425,
+          "char_end": 40447,
+          "text": "safety. When the water",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 174366,
+          "char_end": 174384,
+          "text": "full refund of any",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4f1b9a306fae",
+      "sentence": "Oblige the compilers by, hope I shall soon.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 199774,
+          "char_end": 199797,
+          "text": "oblige the compilers by",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 227450,
+          "char_end": 227467,
+          "text": "hope I shall soon",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b65e6ec296cd",
+      "sentence": "I see the regions, it did not overflow.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 197962,
+          "char_end": 197979,
+          "text": "I see the regions",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 7216,
+          "char_end": 7235,
+          "text": "it did not overflow",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3554e76a4b42",
+      "sentence": "What could it hinder, Tzar woke and looked.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 78487,
+          "char_end": 78507,
+          "text": "What could it hinder",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 85285,
+          "char_end": 85305,
+          "text": "Tzar woke and looked",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "751a335d91d3",
+      "sentence": "To answer, and, in, thing be till tomorrow, solid layer of.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 125664,
+          "char_end": 125682,
+          "text": "to answer, and, in",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 184140,
+          "char_end": 184162,
+          "text": "thing be till tomorrow",
+          "role": "continuation"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 155589,
+          "char_end": 155603,
+          "text": "solid layer of",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ca7219edbcc9",
+      "sentence": "So long a separation, speculations have not had.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 333693,
+          "char_end": 333713,
+          "text": "so long a separation",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 645004,
+          "char_end": 645029,
+          "text": "speculations have not had",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8591ac835d58",
+      "sentence": "The winter’s snow, of repe, plantain, and.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 19664,
+          "char_end": 19681,
+          "text": "the winter’s snow",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 655097,
+          "char_end": 655119,
+          "text": "of repe, plantain, and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "258eaf1d3cc7",
+      "sentence": "SLY.--Vous êtes ma femme, pilfering and stealing in.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 21072,
+          "char_end": 21096,
+          "text": "SLY.--Vous êtes ma femme",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 173534,
+          "char_end": 173559,
+          "text": "pilfering and stealing in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b59c142be83e",
+      "sentence": "Would be the captain's, had been squeezed out, My farm outgoes.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 808332,
+          "char_end": 808354,
+          "text": "would be the captain's",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 655619,
+          "char_end": 655640,
+          "text": "had been squeezed out",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 95596,
+          "char_end": 95611,
+          "text": "My farm outgoes",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "9cce0143bac2",
+      "sentence": "On the day of, s loss or safety.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 126892,
+          "char_end": 126905,
+          "text": "on the day of",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 714983,
+          "char_end": 714999,
+          "text": "s loss or safety",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "15f273d23446",
+      "sentence": "My brother has always, thou therefore I say, hole in the.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 233204,
+          "char_end": 233225,
+          "text": "my brother has always",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 74526,
+          "char_end": 74546,
+          "text": "thou therefore I say",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 614997,
+          "char_end": 615008,
+          "text": "hole in the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "155dc2fddbca",
+      "sentence": "The contrary is the, sprang up in the.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 347760,
+          "char_end": 347779,
+          "text": "the contrary is the",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 153426,
+          "char_end": 153442,
+          "text": "sprang up in the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8e26f788fe46",
+      "sentence": "Not so ignorant as, length he showed me, fugitives, forewarned as.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 10263,
+          "char_end": 10281,
+          "text": "not so ignorant as",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 619770,
+          "char_end": 619789,
+          "text": "length he showed me",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 31523,
+          "char_end": 31547,
+          "text": "fugitives, forewarned as",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "396bbe5861eb",
+      "sentence": "Make my parlor orderly, Sleswick, we passed through.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 164120,
+          "char_end": 164142,
+          "text": "make my parlor orderly",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 268977,
+          "char_end": 269004,
+          "text": "Sleswick, we passed through",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5328e0b10b58",
+      "sentence": "Must soon go, the, He sits down with.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 485029,
+          "char_end": 485046,
+          "text": "must soon go, the",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 25206,
+          "char_end": 25223,
+          "text": "He sits down with",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e35a62b209be",
+      "sentence": "If I let them, driven oxen before, and, Died 287 B.C.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 93539,
+          "char_end": 93552,
+          "text": "if I let them",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 117106,
+          "char_end": 117129,
+          "text": "driven oxen before, and",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 397591,
+          "char_end": 397603,
+          "text": "Died 287 B.C",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4aea24b5b6d5",
+      "sentence": "Months. Let us rest, Bacchus always kept a.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 292733,
+          "char_end": 292752,
+          "text": "months. Let us rest",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 436088,
+          "char_end": 436109,
+          "text": "Bacchus always kept a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "fcc55847e006",
+      "sentence": "Come to Thee an, last, prosperity smiled on.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 385571,
+          "char_end": 385586,
+          "text": "Come to Thee an",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 278,
+          "char_end": 304,
+          "text": "last, prosperity smiled on",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
