@@ -1,0 +1,608 @@
+{
+  "run_id": "20260805_022055",
+  "run_date": "2026-08-05T02:20:55.898684+00:00Z",
+  "seed": 1251790912,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "b8fd37a6b560",
+      "sentence": "My heart is at, this superiority encreases, and.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 12103,
+          "char_end": 12117,
+          "text": "My heart is at",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 100917,
+          "char_end": 100948,
+          "text": "this superiority encreases, and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5bce917d9025",
+      "sentence": "Had been as picturesque, emotion contrary to pride.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 93464,
+          "char_end": 93487,
+          "text": "had been as picturesque",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 399904,
+          "char_end": 399929,
+          "text": "emotion contrary to pride",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d84f2db1933c",
+      "sentence": "Great magnificence and small, you next Chuesday.'\" On.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 145019,
+          "char_end": 145047,
+          "text": "great magnificence and small",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 155323,
+          "char_end": 155346,
+          "text": "you next Chuesday.'\" On",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3ba4d0089556",
+      "sentence": "As content, and heaven, be able to traverse, our expectations, Mr.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 59506,
+          "char_end": 59528,
+          "text": "as content, and heaven",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 73519,
+          "char_end": 73538,
+          "text": "be able to traverse",
+          "role": "continuation"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 172616,
+          "char_end": 172636,
+          "text": "our expectations, Mr",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "01ec1763abd4",
+      "sentence": "Lido Maggiore; in 1154 a, she knew he was, owned a large.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 306344,
+          "char_end": 306368,
+          "text": "Lido Maggiore; in 1154 a",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 67367,
+          "char_end": 67382,
+          "text": "she knew he was",
+          "role": "continuation"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 39526,
+          "char_end": 39539,
+          "text": "owned a large",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "36e7811c8faa",
+      "sentence": "At sea, I observe, monsieur, ils se heurtent, gravity, laboriousness, contempt.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 382129,
+          "char_end": 382146,
+          "text": "at sea, I observe",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 153626,
+          "char_end": 153651,
+          "text": "monsieur, ils se heurtent",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 116247,
+          "char_end": 116279,
+          "text": "gravity, laboriousness, contempt",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4c51b6d52c63",
+      "sentence": "Reached that which from, way in which this.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 494443,
+          "char_end": 494466,
+          "text": "reached that which from",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 473606,
+          "char_end": 473623,
+          "text": "way in which this",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "648611122f30",
+      "sentence": "To be fed by, to get whisky enough.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 666368,
+          "char_end": 666380,
+          "text": "to be fed by",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 143463,
+          "char_end": 143483,
+          "text": "to get whisky enough",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "50da575adedd",
+      "sentence": "Possible que vous vouliez, at the mocking sky, degree of wit.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 96617,
+          "char_end": 96642,
+          "text": "possible que vous vouliez",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 56402,
+          "char_end": 56420,
+          "text": "at the mocking sky",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 267654,
+          "char_end": 267667,
+          "text": "degree of wit",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "0444186e8938",
+      "sentence": "Shall not have this, OF THE KINGDOM OF.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 54729,
+          "char_end": 54748,
+          "text": "shall not have this",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 213052,
+          "char_end": 213069,
+          "text": "OF THE KINGDOM OF",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "eebc9154a56b",
+      "sentence": "Song, religion, behavior, or, grew near the waters.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 318898,
+          "char_end": 318926,
+          "text": "song, religion, behavior, or",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 103282,
+          "char_end": 103302,
+          "text": "grew near the waters",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6b5e947c80a8",
+      "sentence": "City, ... and merchants descend, I presume, be a.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 311877,
+          "char_end": 311908,
+          "text": "city, ... and merchants descend",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 40769,
+          "char_end": 40784,
+          "text": "I presume, be a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "263ebf65a49d",
+      "sentence": "On the tiles. We, he will not cease.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 23238,
+          "char_end": 23254,
+          "text": "on the tiles. We",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 11507,
+          "char_end": 11524,
+          "text": "he will not cease",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "bfb9ab81d4c5",
+      "sentence": "Horses, we were told, came and settled on, up to our.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 205767,
+          "char_end": 205787,
+          "text": "horses, we were told",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 115439,
+          "char_end": 115458,
+          "text": "came and settled on",
+          "role": "continuation"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 387681,
+          "char_end": 387690,
+          "text": "up to our",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "12962b7e19b5",
+      "sentence": "The south point of, have no feel of, she said to.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 331395,
+          "char_end": 331413,
+          "text": "the south point of",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 198753,
+          "char_end": 198768,
+          "text": "have no feel of",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 175941,
+          "char_end": 175952,
+          "text": "she said to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "11251060ba7a",
+      "sentence": "Well, he went on, stood looking on for.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 277778,
+          "char_end": 277794,
+          "text": "Well, he went on",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 23618,
+          "char_end": 23638,
+          "text": "stood looking on for",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "eadbc3eee997",
+      "sentence": "Grief thereof to have, of small birds. The.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 55684,
+          "char_end": 55705,
+          "text": "grief thereof to have",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 232991,
+          "char_end": 233010,
+          "text": "of small birds. The",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "33456d57d1fc",
+      "sentence": "Came to an old, interest to the joy, intercessor between God.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 108849,
+          "char_end": 108863,
+          "text": "came to an old",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 96513,
+          "char_end": 96532,
+          "text": "interest to the joy",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 179581,
+          "char_end": 179604,
+          "text": "intercessor between God",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "1a03f3c1dfa1",
+      "sentence": "Her in the face, part way across, and, thousands of sweepers.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 137605,
+          "char_end": 137620,
+          "text": "her in the face",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 485163,
+          "char_end": 485183,
+          "text": "part way across, and",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 5735,
+          "char_end": 5756,
+          "text": "thousands of sweepers",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "debbe2cf6700",
+      "sentence": "Action of heat on, meant; and on hearing.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 68673,
+          "char_end": 68690,
+          "text": "action of heat on",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 132271,
+          "char_end": 132292,
+          "text": "meant; and on hearing",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
