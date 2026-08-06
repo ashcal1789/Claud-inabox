@@ -1,0 +1,578 @@
+{
+  "run_id": "20260806_022341",
+  "run_date": "2026-08-06T02:23:41.669188+00:00Z",
+  "seed": 3038283587,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "6b86c0372925",
+      "sentence": "Her death, Master Andrew, with regard to the.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 99634,
+          "char_end": 99658,
+          "text": "her death, Master Andrew",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 175906,
+          "char_end": 175924,
+          "text": "with regard to the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "37b89f8aa378",
+      "sentence": "Plaisanterie. Je suis en, Know that in a, appeared a genius.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 43190,
+          "char_end": 43214,
+          "text": "plaisanterie. Je suis en",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 27444,
+          "char_end": 27458,
+          "text": "Know that in a",
+          "role": "continuation"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 35678,
+          "char_end": 35695,
+          "text": "appeared a genius",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "e093552acc36",
+      "sentence": "In.  But we found, to individual things in.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 728230,
+          "char_end": 728247,
+          "text": "in.  But we found",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 201138,
+          "char_end": 201161,
+          "text": "to individual things in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f1f47647e7cc",
+      "sentence": "Me here, twelve years, things outside the human.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 417390,
+          "char_end": 417411,
+          "text": "me here, twelve years",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 123638,
+          "char_end": 123662,
+          "text": "things outside the human",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1796125755b0",
+      "sentence": "Island sixteen miles long, they found themselves in, get their livelihood.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 643675,
+          "char_end": 643700,
+          "text": "island sixteen miles long",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 268873,
+          "char_end": 268897,
+          "text": "they found themselves in",
+          "role": "continuation"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 277052,
+          "char_end": 277072,
+          "text": "get their livelihood",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "817649930e5b",
+      "sentence": "Reason. But if thou, of the performances that, Latin by R.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 118963,
+          "char_end": 118982,
+          "text": "reason. But if thou",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 247042,
+          "char_end": 247066,
+          "text": "of the performances that",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 162,
+          "char_end": 172,
+          "text": "Latin by R",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4ed295b8ef29",
+      "sentence": "I will return if, Of fingers going by.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 21296,
+          "char_end": 21312,
+          "text": "I will return if",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 173537,
+          "char_end": 173556,
+          "text": "Of fingers going by",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "902388ab0b8b",
+      "sentence": "Italians in the thirteenth, serait de vous peigner.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 354875,
+          "char_end": 354901,
+          "text": "Italians in the thirteenth",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 27148,
+          "char_end": 27170,
+          "text": "serait de vous peigner",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "da536d19f59a",
+      "sentence": "Of it. For, when, off, with their fine.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 162922,
+          "char_end": 162938,
+          "text": "of it. For, when",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 69139,
+          "char_end": 69159,
+          "text": "off, with their fine",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1a93c6a701c7",
+      "sentence": "More to me than, needed a dozen pair.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 208201,
+          "char_end": 208216,
+          "text": "more to me than",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 175391,
+          "char_end": 175410,
+          "text": "needed a dozen pair",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "35742054f41d",
+      "sentence": "We had taken refuge, is not to be.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 36853,
+          "char_end": 36872,
+          "text": "We had taken refuge",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 20119,
+          "char_end": 20131,
+          "text": "is not to be",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0b10452e5d03",
+      "sentence": "Good licking. Now strip, X. Of Catulus, not, appeared like a.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 40218,
+          "char_end": 40241,
+          "text": "good licking. Now strip",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 37211,
+          "char_end": 37229,
+          "text": "X. Of Catulus, not",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 153152,
+          "char_end": 153167,
+          "text": "appeared like a",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ab11d0db7839",
+      "sentence": "The pure element, but, I can foresee other, them to mind.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 16769,
+          "char_end": 16790,
+          "text": "the pure element, but",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 185114,
+          "char_end": 185133,
+          "text": "I can foresee other",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 84620,
+          "char_end": 84632,
+          "text": "them to mind",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "fb2ff3653f3f",
+      "sentence": "Red bull do we, Your most affectionate Brother.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 61783,
+          "char_end": 61797,
+          "text": "red bull do we",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 128483,
+          "char_end": 128513,
+          "text": "Your most affectionate Brother",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d00bd2808255",
+      "sentence": "Spear or dart was, days, I reached the.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 623075,
+          "char_end": 623092,
+          "text": "spear or dart was",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 106236,
+          "char_end": 106255,
+          "text": "days, I reached the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ccb7cf2ca679",
+      "sentence": "And flopped down flat, night! I have had.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 174146,
+          "char_end": 174167,
+          "text": "and flopped down flat",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 37637,
+          "char_end": 37654,
+          "text": "night! I have had",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "89db8f35a352",
+      "sentence": "Serait de vous peigner, of it; but if.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 27148,
+          "char_end": 27170,
+          "text": "serait de vous peigner",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 613347,
+          "char_end": 613360,
+          "text": "of it; but if",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4a64954beadf",
+      "sentence": "The defence of Socrates, would be king, and.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 19192,
+          "char_end": 19215,
+          "text": "the defence of Socrates",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 291602,
+          "char_end": 291620,
+          "text": "would be king, and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7b5059504c3e",
+      "sentence": "Old ship of Zion, sure to attend the.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 64089,
+          "char_end": 64105,
+          "text": "old ship of Zion",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 440541,
+          "char_end": 440559,
+          "text": "sure to attend the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3f895c27209f",
+      "sentence": "K’ien-lung. From a, his accusers as death.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 251030,
+          "char_end": 251048,
+          "text": "K’ien-lung. From a",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 15107,
+          "char_end": 15128,
+          "text": "his accusers as death",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
