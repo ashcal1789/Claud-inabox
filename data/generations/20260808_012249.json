@@ -1,0 +1,608 @@
+{
+  "run_id": "20260808_012249",
+  "run_date": "2026-08-08T01:22:49.732365+00:00Z",
+  "seed": 2361171132,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "09380ce7571a",
+      "sentence": "Finished eating Noureddin asked, every particular circumstance of, To lift their.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 392969,
+          "char_end": 393000,
+          "text": "finished eating Noureddin asked",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 160928,
+          "char_end": 160960,
+          "text": "every particular circumstance of",
+          "role": "continuation"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 581639,
+          "char_end": 581652,
+          "text": "To lift their",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "e0a17e8dbe2c",
+      "sentence": "Of something as unique, notions of Anaxagoras, as.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 2284,
+          "char_end": 2306,
+          "text": "of something as unique",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 49909,
+          "char_end": 49934,
+          "text": "notions of Anaxagoras, as",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9648d9d4e856",
+      "sentence": "Hand was sunk in, at least to possess.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 373509,
+          "char_end": 373525,
+          "text": "hand was sunk in",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 309069,
+          "char_end": 309088,
+          "text": "at least to possess",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "01d6f70a98e5",
+      "sentence": "Stood up on his, above all, the valuable, desires (III. xx.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 108345,
+          "char_end": 108360,
+          "text": "stood up on his",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 10520,
+          "char_end": 10543,
+          "text": "above all, the valuable",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 294454,
+          "char_end": 294470,
+          "text": "desires (III. xx",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "8b0e08e76a47",
+      "sentence": "The wild wood-pigeon, the, which appears to be.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 188126,
+          "char_end": 188151,
+          "text": "the wild wood-pigeon, the",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 132730,
+          "char_end": 132749,
+          "text": "which appears to be",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "810f8033ce9b",
+      "sentence": "This faithful creature will, than if he had.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 161152,
+          "char_end": 161179,
+          "text": "This faithful creature will",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 247179,
+          "char_end": 247193,
+          "text": "than if he had",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9b66e1e4b687",
+      "sentence": "Beautiful peculiarity which Argand, Ayres exclusively inhabits the.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 149504,
+          "char_end": 149538,
+          "text": "beautiful peculiarity which Argand",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 293005,
+          "char_end": 293035,
+          "text": "Ayres exclusively inhabits the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "81ee6804cce6",
+      "sentence": "Seized it, and drew, seeing a single bird.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 481344,
+          "char_end": 481363,
+          "text": "seized it, and drew",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 270993,
+          "char_end": 271013,
+          "text": "seeing a single bird",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "bc42bea784a0",
+      "sentence": "Brightening the interest of, I have heard him, Astolaf Press, Guildford.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 651364,
+          "char_end": 651391,
+          "text": "brightening the interest of",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 63592,
+          "char_end": 63608,
+          "text": "I have heard him",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 270,
+          "char_end": 294,
+          "text": "Astolaf Press, Guildford",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f7ccef3573df",
+      "sentence": "The assigned time for, the kingdom of my, It was they.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 447241,
+          "char_end": 447262,
+          "text": "the assigned time for",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 96703,
+          "char_end": 96720,
+          "text": "the kingdom of my",
+          "role": "continuation"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 9145,
+          "char_end": 9156,
+          "text": "It was they",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "48bf8a8ea74c",
+      "sentence": "The yards all the, not find any information, to the human.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 474670,
+          "char_end": 474687,
+          "text": "the yards all the",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 339832,
+          "char_end": 339856,
+          "text": "not find any information",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 9038,
+          "char_end": 9050,
+          "text": "to the human",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "752d91b7e409",
+      "sentence": "Housewife in the grass, yourself. The greatest gains.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 45478,
+          "char_end": 45500,
+          "text": "housewife in the grass",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 380121,
+          "char_end": 380149,
+          "text": "yourself. The greatest gains",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ba5640068506",
+      "sentence": "And scooper of storms, write directly. I have, on so fair.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 67179,
+          "char_end": 67200,
+          "text": "and scooper of storms",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 615392,
+          "char_end": 615414,
+          "text": "write directly. I have",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 120104,
+          "char_end": 120114,
+          "text": "on so fair",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "2435c5d87a61",
+      "sentence": "On my head. For, may confess that Peter.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 132556,
+          "char_end": 132571,
+          "text": "on my head. For",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 675375,
+          "char_end": 675397,
+          "text": "may confess that Peter",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "33ddfcd430bc",
+      "sentence": "Et de cuivre, et, and robust, she bears, such a thing.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 76799,
+          "char_end": 76815,
+          "text": "et de cuivre, et",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 256349,
+          "char_end": 256370,
+          "text": "and robust, she bears",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 30042,
+          "char_end": 30054,
+          "text": "such a thing",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "b4e74597d91d",
+      "sentence": "An eagle and took, of the bay, from.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 132483,
+          "char_end": 132500,
+          "text": "an eagle and took",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 510797,
+          "char_end": 510813,
+          "text": "of the bay, from",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b67552c7c7d5",
+      "sentence": "His letters from Edinburgh, the southern hemisphere.  On.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 127462,
+          "char_end": 127488,
+          "text": "His letters from Edinburgh",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 580842,
+          "char_end": 580870,
+          "text": "the southern hemisphere.  On",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c99da9a33981",
+      "sentence": "From an emerald ghost, neck like a collar.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 95797,
+          "char_end": 95818,
+          "text": "from an emerald ghost",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 322057,
+          "char_end": 322075,
+          "text": "neck like a collar",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e11e92d442e2",
+      "sentence": "Came miledi to give, vii.); from this alone, was angry with.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 529365,
+          "char_end": 529384,
+          "text": "came miledi to give",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 353094,
+          "char_end": 353116,
+          "text": "vii.); from this alone",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 26051,
+          "char_end": 26065,
+          "text": "was angry with",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "53ebc1d901fd",
+      "sentence": "Worshippers to be incarnate, other, it will surely.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 309673,
+          "char_end": 309700,
+          "text": "worshippers to be incarnate",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 585090,
+          "char_end": 585111,
+          "text": "other, it will surely",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
