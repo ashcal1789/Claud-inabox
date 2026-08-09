@@ -1,0 +1,538 @@
+{
+  "run_id": "20260809_012823",
+  "run_date": "2026-08-09T01:28:23.645956+00:00Z",
+  "seed": 3536389250,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "7f9747c2463a",
+      "sentence": "Body being affected with, she had done this.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 331545,
+          "char_end": 331569,
+          "text": "body being affected with",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 371359,
+          "char_end": 371376,
+          "text": "she had done this",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a531ab47ba77",
+      "sentence": "The rigging. We found, babes in swaddling clothes.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 231849,
+          "char_end": 231870,
+          "text": "the rigging. We found",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 42370,
+          "char_end": 42396,
+          "text": "babes in swaddling clothes",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "846341455f9f",
+      "sentence": "Know what to ask, flame as you see.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 229834,
+          "char_end": 229850,
+          "text": "know what to ask",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 25500,
+          "char_end": 25516,
+          "text": "flame as you see",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "be3518cd811e",
+      "sentence": "Dr. Tyndall is kindly, after nightfall he came.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 214410,
+          "char_end": 214431,
+          "text": "Dr. Tyndall is kindly",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 71739,
+          "char_end": 71762,
+          "text": "after nightfall he came",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "03969d397cf1",
+      "sentence": "Year. The Cazembes of, have conciliated the favour.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 658394,
+          "char_end": 658415,
+          "text": "year. The Cazembes of",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 447,
+          "char_end": 474,
+          "text": "have conciliated the favour",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6ca7403d399e",
+      "sentence": "Were rolling across the, you, do as Anytus.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 496731,
+          "char_end": 496754,
+          "text": "were rolling across the",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 58784,
+          "char_end": 58801,
+          "text": "you, do as Anytus",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e99fb91e2686",
+      "sentence": "Que je reste et, easier conveyed off without.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 84004,
+          "char_end": 84019,
+          "text": "que je reste et",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 263923,
+          "char_end": 263950,
+          "text": "easier conveyed off without",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "cb4dd1be64fb",
+      "sentence": "Got outside the church, in the north of.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 348356,
+          "char_end": 348378,
+          "text": "got outside the church",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 385782,
+          "char_end": 385797,
+          "text": "in the north of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "bb889d27b6f7",
+      "sentence": "To wipe them off, autres; qu'ils aient grand.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 312578,
+          "char_end": 312594,
+          "text": "to wipe them off",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 105301,
+          "char_end": 105327,
+          "text": "autres; qu'ils aient grand",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "42d7bef56a03",
+      "sentence": "Own pass. I consoled, and Berkeley's theory that.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 92764,
+          "char_end": 92784,
+          "text": "own pass. I consoled",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 344241,
+          "char_end": 344267,
+          "text": "and Berkeley's theory that",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "69a5add8b97c",
+      "sentence": "Generals who had not, art thou with both.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 63242,
+          "char_end": 63262,
+          "text": "generals who had not",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 277433,
+          "char_end": 277451,
+          "text": "art thou with both",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "800856b86023",
+      "sentence": "When virtues are styled, large lakes; while the.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 127267,
+          "char_end": 127290,
+          "text": "when virtues are styled",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 290633,
+          "char_end": 290655,
+          "text": "large lakes; while the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9bc90b792502",
+      "sentence": "Dabbled hair, I note, ground that among them.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 45551,
+          "char_end": 45571,
+          "text": "dabbled hair, I note",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 449220,
+          "char_end": 449242,
+          "text": "ground that among them",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "461a48baa1cd",
+      "sentence": "Came out quietly, and, quieted by a naked.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 69190,
+          "char_end": 69211,
+          "text": "came out quietly, and",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 36442,
+          "char_end": 36460,
+          "text": "quieted by a naked",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "05006416bd8c",
+      "sentence": "Down to dinner, she, He ran down for.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 86982,
+          "char_end": 87001,
+          "text": "down to dinner, she",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 85143,
+          "char_end": 85158,
+          "text": "He ran down for",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f4abef9d2115",
+      "sentence": "Harriet could work no, fire-balls like the rest, they may in.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 20501,
+          "char_end": 20522,
+          "text": "Harriet could work no",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 89815,
+          "char_end": 89839,
+          "text": "fire-balls like the rest",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 15715,
+          "char_end": 15726,
+          "text": "they may in",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "7da26fa7462a",
+      "sentence": "Voulez pas m'accompagner jusqu', poles of a voltaic.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 44287,
+          "char_end": 44318,
+          "text": "voulez pas m'accompagner jusqu'",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 214135,
+          "char_end": 214153,
+          "text": "poles of a voltaic",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "94fb927c9715",
+      "sentence": "The earlier transition periods, the remaining twenty, scattered.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 52245,
+          "char_end": 52275,
+          "text": "the earlier transition periods",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 210077,
+          "char_end": 210108,
+          "text": "the remaining twenty, scattered",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6173c370dc89",
+      "sentence": "Upon me I was, of something to do.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 242984,
+          "char_end": 242997,
+          "text": "upon me I was",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 329217,
+          "char_end": 329235,
+          "text": "of something to do",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "75937c4dba3f",
+      "sentence": "The Elder, at Constantinople, freeze my bones around.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 291267,
+          "char_end": 291295,
+          "text": "the Elder, at Constantinople",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 15875,
+          "char_end": 15897,
+          "text": "freeze my bones around",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
