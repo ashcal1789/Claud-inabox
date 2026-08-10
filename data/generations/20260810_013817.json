@@ -1,0 +1,588 @@
+{
+  "run_id": "20260810_013817",
+  "run_date": "2026-08-10T01:38:17.277353+00:00Z",
+  "seed": 1636188287,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "b892abf8a216",
+      "sentence": "Not lightly to be, steps, you will see, himself behind a.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 52930,
+          "char_end": 52947,
+          "text": "not lightly to be",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 591258,
+          "char_end": 591277,
+          "text": "steps, you will see",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 646529,
+          "char_end": 646545,
+          "text": "himself behind a",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "27cfff3d2019",
+      "sentence": "Considered as a wise, between the present temperature.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 188624,
+          "char_end": 188644,
+          "text": "considered as a wise",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 215423,
+          "char_end": 215454,
+          "text": "between the present temperature",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "55607de5661e",
+      "sentence": "His old acquaintance Colonel, not feel so bad, will let you.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 106472,
+          "char_end": 106500,
+          "text": "his old acquaintance Colonel",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 91488,
+          "char_end": 91503,
+          "text": "not feel so bad",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 9162,
+          "char_end": 9174,
+          "text": "will let you",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "0cc6fc10571b",
+      "sentence": "Mind, that neither that, I have dissembled nothing.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 224874,
+          "char_end": 224897,
+          "text": "mind, that neither that",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 43043,
+          "char_end": 43068,
+          "text": "I have dissembled nothing",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1b517c82b309",
+      "sentence": "Take in the lee, O what care did.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 156007,
+          "char_end": 156022,
+          "text": "take in the lee",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 220996,
+          "char_end": 221011,
+          "text": "O what care did",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e541bccaef34",
+      "sentence": "Things which more intelligent, results are modified by.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 193272,
+          "char_end": 193301,
+          "text": "things which more intelligent",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 116742,
+          "char_end": 116765,
+          "text": "results are modified by",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3aea7ab058ab",
+      "sentence": "Of justice, by helping, of that little beast.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 54211,
+          "char_end": 54233,
+          "text": "of justice, by helping",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 3948,
+          "char_end": 3968,
+          "text": "of that little beast",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "75cb780ac230",
+      "sentence": "Up his brother, of, joining again in Queen.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 32191,
+          "char_end": 32209,
+          "text": "up his brother, of",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 1718,
+          "char_end": 1740,
+          "text": "joining again in Queen",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "28331c0bf4be",
+      "sentence": "Reasoning with regard to, was an infant small.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 276563,
+          "char_end": 276587,
+          "text": "reasoning with regard to",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 8358,
+          "char_end": 8377,
+          "text": "was an infant small",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "89732bffcccc",
+      "sentence": "To try the impossible, in Talbot county, Maryland.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 21439,
+          "char_end": 21460,
+          "text": "to try the impossible",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 163505,
+          "char_end": 163531,
+          "text": "in Talbot county, Maryland",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a8785136fe6e",
+      "sentence": "The Beagle arrived here, have never met with.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 189736,
+          "char_end": 189759,
+          "text": "The Beagle arrived here",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 85432,
+          "char_end": 85451,
+          "text": "have never met with",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2538d5347bdd",
+      "sentence": "And weeping in the, Walthamstow we walked to, cannot fall the.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 14857,
+          "char_end": 14875,
+          "text": "And weeping in the",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 371498,
+          "char_end": 371522,
+          "text": "Walthamstow we walked to",
+          "role": "continuation"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 112150,
+          "char_end": 112165,
+          "text": "cannot fall the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "5b9202a2b676",
+      "sentence": "Is it more in, messieurs à mes filles, et, of the treatment.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 358992,
+          "char_end": 359005,
+          "text": "is it more in",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 61581,
+          "char_end": 61607,
+          "text": "messieurs à mes filles, et",
+          "role": "continuation"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 316295,
+          "char_end": 316311,
+          "text": "of the treatment",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "100d2e0f9c8f",
+      "sentence": "Which seems to have, these were the oldest.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 28979,
+          "char_end": 28998,
+          "text": "which seems to have",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 44111,
+          "char_end": 44132,
+          "text": "these were the oldest",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c23c02562b2a",
+      "sentence": "Our arms in our, tindrent li roy si.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 36261,
+          "char_end": 36276,
+          "text": "our arms in our",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 24537,
+          "char_end": 24555,
+          "text": "tindrent li roy si",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "be9df0e939fe",
+      "sentence": "Not drunken,\" because it, standing on de shore, a commencé à s'emporter, comme.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 121369,
+          "char_end": 121393,
+          "text": "not drunken,\" because it",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 50503,
+          "char_end": 50523,
+          "text": "standing on de shore",
+          "role": "continuation"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 33460,
+          "char_end": 33490,
+          "text": "a commencé à s'emporter, comme",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "971ba43ac1e0",
+      "sentence": "Already burnt. If I, to Goose Cove (named, riches. The youth.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 37921,
+          "char_end": 37940,
+          "text": "already burnt. If I",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 191212,
+          "char_end": 191232,
+          "text": "to Goose Cove (named",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 470623,
+          "char_end": 470640,
+          "text": "riches. The youth",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "a27f65060259",
+      "sentence": "Endeavour to persist in, the bed, the cakes.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 329959,
+          "char_end": 329982,
+          "text": "endeavour to persist in",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 215653,
+          "char_end": 215671,
+          "text": "the bed, the cakes",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9c229a25c47f",
+      "sentence": "Woods around the pond, of a great variety.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 557101,
+          "char_end": 557122,
+          "text": "woods around the pond",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 111099,
+          "char_end": 111117,
+          "text": "of a great variety",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "79451f83ddf7",
+      "sentence": "Feed and clothe herself, love was not return.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 7743,
+          "char_end": 7766,
+          "text": "feed and clothe herself",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 186247,
+          "char_end": 186266,
+          "text": "love was not return",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
