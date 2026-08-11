@@ -1,0 +1,578 @@
+{
+  "run_id": "20260811_012742",
+  "run_date": "2026-08-11T01:27:42.397927+00:00Z",
+  "seed": 3972048763,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "0844a1df4ce7",
+      "sentence": "A jar across the, HORTENSIO.--D'accord.--Quelle est.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 29057,
+          "char_end": 29073,
+          "text": "A jar across the",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 155473,
+          "char_end": 155506,
+          "text": "HORTENSIO.--D'accord.--Quelle est",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1fb6eb56590c",
+      "sentence": "The most ancient kings, he threw away the, I remember not.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 504988,
+          "char_end": 505010,
+          "text": "the most ancient kings",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 34300,
+          "char_end": 34317,
+          "text": "he threw away the",
+          "role": "continuation"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 130983,
+          "char_end": 130997,
+          "text": "I remember not",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "1d0a2dda667f",
+      "sentence": "Do not take place, Exploration of Indo-China has.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 218709,
+          "char_end": 218726,
+          "text": "do not take place",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 17567,
+          "char_end": 17596,
+          "text": "Exploration of Indo-China has",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6c2ddafabedb",
+      "sentence": "Into the yard. Saint-Jory, of light and reflections, the idea of.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 8766,
+          "char_end": 8791,
+          "text": "into the yard. Saint-Jory",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 151780,
+          "char_end": 151804,
+          "text": "of light and reflections",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 43933,
+          "char_end": 43944,
+          "text": "the idea of",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4588683a88f5",
+      "sentence": "Learnt by rote; and, a high mountain, a.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 266627,
+          "char_end": 266646,
+          "text": "learnt by rote; and",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 315805,
+          "char_end": 315823,
+          "text": "a high mountain, a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3f0de39ee0fa",
+      "sentence": "Pleased with those things, own. Such is the.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 84707,
+          "char_end": 84732,
+          "text": "pleased with those things",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 43799,
+          "char_end": 43815,
+          "text": "own. Such is the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "874280bdc606",
+      "sentence": "Valleys, the great sides, they devoured. In the.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 174789,
+          "char_end": 174813,
+          "text": "valleys, the great sides",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 248689,
+          "char_end": 248710,
+          "text": "they devoured. In the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c8482bb25337",
+      "sentence": "For months, and knew, some _Eava_ root, and then.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 227705,
+          "char_end": 227725,
+          "text": "for months, and knew",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 372858,
+          "char_end": 372884,
+          "text": "some _Eava_ root, and then",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9dc4617d23be",
+      "sentence": "A former letter, no, all the materials of, as they may.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 175844,
+          "char_end": 175863,
+          "text": "a former letter, no",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 345912,
+          "char_end": 345932,
+          "text": "all the materials of",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 496714,
+          "char_end": 496725,
+          "text": "as they may",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "be7e503dc2d3",
+      "sentence": "Up its image in, but two Fur caps.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 128620,
+          "char_end": 128635,
+          "text": "up its image in",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 315888,
+          "char_end": 315904,
+          "text": "but two Fur caps",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c612c47c1277",
+      "sentence": "Of this river, also, Who replied, ‘What wailing, He ran down.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 541369,
+          "char_end": 541388,
+          "text": "of this river, also",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 13365,
+          "char_end": 13391,
+          "text": "Who replied, ‘What wailing",
+          "role": "continuation"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 85143,
+          "char_end": 85154,
+          "text": "He ran down",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "6e1c0dbe2169",
+      "sentence": "Them all from harm, you have been accustomed.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 10560,
+          "char_end": 10578,
+          "text": "them all from harm",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 78298,
+          "char_end": 78322,
+          "text": "you have been accustomed",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6270f6b3a690",
+      "sentence": "The church and the, to say we need.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 144058,
+          "char_end": 144076,
+          "text": "the church and the",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 149831,
+          "char_end": 149845,
+          "text": "to say we need",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e34db00bae90",
+      "sentence": "Me. My cart was, me catch pleasure on.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 117760,
+          "char_end": 117775,
+          "text": "me. My cart was",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 150239,
+          "char_end": 150259,
+          "text": "me catch pleasure on",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "08509b75b6a8",
+      "sentence": "The earth opened, and, hot aspects, were so.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 413714,
+          "char_end": 413735,
+          "text": "the earth opened, and",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 465111,
+          "char_end": 465131,
+          "text": "hot aspects, were so",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0f5bf9afe016",
+      "sentence": "Power, to say truly, which sum they will.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 292918,
+          "char_end": 292937,
+          "text": "power, to say truly",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 77256,
+          "char_end": 77275,
+          "text": "which sum they will",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d4fb6196752a",
+      "sentence": "Change had happened there, Shall brush my wing.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 556765,
+          "char_end": 556790,
+          "text": "change had happened there",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 20742,
+          "char_end": 20761,
+          "text": "Shall brush my wing",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3cad164cdde5",
+      "sentence": "Hate, and that what, woman for a whole, form, styling the.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 263433,
+          "char_end": 263452,
+          "text": "hate, and that what",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 718770,
+          "char_end": 718787,
+          "text": "woman for a whole",
+          "role": "continuation"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 285046,
+          "char_end": 285063,
+          "text": "form, styling the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f5793688e71a",
+      "sentence": "Give me the goose, be the cynosure of.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 22502,
+          "char_end": 22519,
+          "text": "give me the goose",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 498831,
+          "char_end": 498849,
+          "text": "be the cynosure of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "99de485fa58e",
+      "sentence": "To this zone of, nurtured in the dark.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 581550,
+          "char_end": 581565,
+          "text": "to this zone of",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 56841,
+          "char_end": 56861,
+          "text": "nurtured in the dark",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
