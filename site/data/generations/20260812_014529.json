@@ -1,0 +1,578 @@
+{
+  "run_id": "20260812_014529",
+  "run_date": "2026-08-12T01:45:29.237579+00:00Z",
+  "seed": 4180147186,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "cec4cf4fecc9",
+      "sentence": "I walked through it, and so may we, bloody purpose. The.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 44082,
+          "char_end": 44101,
+          "text": "I walked through it",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 230672,
+          "char_end": 230685,
+          "text": "and so may we",
+          "role": "continuation"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 34669,
+          "char_end": 34688,
+          "text": "bloody purpose. The",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "a9cc88c248ae",
+      "sentence": "Sick and died in, betrayed a lively horror.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 899897,
+          "char_end": 899913,
+          "text": "sick and died in",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 627980,
+          "char_end": 628004,
+          "text": "betrayed a lively horror",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "da6339469331",
+      "sentence": "Was eating his dinner, to be the length, of that world.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 77611,
+          "char_end": 77632,
+          "text": "was eating his dinner",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 501772,
+          "char_end": 501788,
+          "text": "to be the length",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 327013,
+          "char_end": 327026,
+          "text": "of that world",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f91f7ebd4b85",
+      "sentence": "Few horses arrive at, over formerly, or left.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 141030,
+          "char_end": 141050,
+          "text": "few horses arrive at",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 338245,
+          "char_end": 338267,
+          "text": "over formerly, or left",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b144a227943b",
+      "sentence": "The eldest, ‘it is, no one on board.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 65093,
+          "char_end": 65111,
+          "text": "the eldest, ‘it is",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 633356,
+          "char_end": 633371,
+          "text": "no one on board",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "aa9f93b788b9",
+      "sentence": "Maffio and his father, him at his ease, crucible of carbon.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 268713,
+          "char_end": 268734,
+          "text": "Maffio and his father",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 458376,
+          "char_end": 458391,
+          "text": "him at his ease",
+          "role": "continuation"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 197183,
+          "char_end": 197201,
+          "text": "crucible of carbon",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "9ee1a1fc8e30",
+      "sentence": "Worst evil. But the, love, that the lover.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 81364,
+          "char_end": 81383,
+          "text": "worst evil. But the",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 291650,
+          "char_end": 291670,
+          "text": "love, that the lover",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c0d1550496dd",
+      "sentence": "And die where one, two-thirds of an inch.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 2529,
+          "char_end": 2546,
+          "text": "and die where one",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 136292,
+          "char_end": 136313,
+          "text": "two-thirds of an inch",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d7566592e154",
+      "sentence": "Might clear himself of, carried us quite beyond.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 185914,
+          "char_end": 185936,
+          "text": "might clear himself of",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 130315,
+          "char_end": 130338,
+          "text": "carried us quite beyond",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9b0458f33995",
+      "sentence": "Till they reached the, Voyons, je crois qu'il.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 111131,
+          "char_end": 111152,
+          "text": "till they reached the",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 131105,
+          "char_end": 131127,
+          "text": "Voyons, je crois qu'il",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "02b56d80c27a",
+      "sentence": "She. \"People may very, to her could doubt, have never been.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 196434,
+          "char_end": 196455,
+          "text": "she. \"People may very",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 6111,
+          "char_end": 6129,
+          "text": "to her could doubt",
+          "role": "continuation"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 196836,
+          "char_end": 196851,
+          "text": "have never been",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "7b358dffd4f1",
+      "sentence": "Obstacle commun nous rend, his imprisonment, which will.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 31229,
+          "char_end": 31254,
+          "text": "obstacle commun nous rend",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 182745,
+          "char_end": 182773,
+          "text": "his imprisonment, which will",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e3f08cc223aa",
+      "sentence": "Letters from God dropt, church-yard was shut up.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 122937,
+          "char_end": 122959,
+          "text": "letters from God dropt",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 239849,
+          "char_end": 239872,
+          "text": "church-yard was shut up",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9b90a697f37a",
+      "sentence": "Bolder and more abrupt, and more worthy dispositions--and, polypus was removed.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 51825,
+          "char_end": 51847,
+          "text": "bolder and more abrupt",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 286454,
+          "char_end": 286487,
+          "text": "and more worthy dispositions--and",
+          "role": "continuation"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 470445,
+          "char_end": 470464,
+          "text": "polypus was removed",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "565363cb67d9",
+      "sentence": "He trims the lamps, as a melancholy emblem.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 110496,
+          "char_end": 110514,
+          "text": "he trims the lamps",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 122922,
+          "char_end": 122944,
+          "text": "as a melancholy emblem",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b8b5edc9336c",
+      "sentence": "Chalybeate; at any rate, of prison faces, a.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 113459,
+          "char_end": 113482,
+          "text": "chalybeate; at any rate",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 521799,
+          "char_end": 521817,
+          "text": "of prison faces, a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "63a8e08d4c83",
+      "sentence": "To? If he should, whole matter to cause.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 170083,
+          "char_end": 170099,
+          "text": "to? If he should",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 97416,
+          "char_end": 97437,
+          "text": "whole matter to cause",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d3b84f17d2a2",
+      "sentence": "Contemplating himself, he only, A difference, a daisy.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 394022,
+          "char_end": 394052,
+          "text": "contemplating himself, he only",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 118353,
+          "char_end": 118374,
+          "text": "A difference, a daisy",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "acd76bab6e7b",
+      "sentence": "Come to the castle, It is a little.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 7808,
+          "char_end": 7826,
+          "text": "come to the castle",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 830508,
+          "char_end": 830522,
+          "text": "It is a little",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "450da4d513d2",
+      "sentence": "To John, then to, were to compare with.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 158921,
+          "char_end": 158937,
+          "text": "to John, then to",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 82552,
+          "char_end": 82572,
+          "text": "were to compare with",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
