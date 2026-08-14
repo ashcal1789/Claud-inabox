@@ -1,0 +1,608 @@
+{
+  "run_id": "20260814_014555",
+  "run_date": "2026-08-14T01:45:55.471727+00:00Z",
+  "seed": 1563706976,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "ac73846870b3",
+      "sentence": "End were these: \"My, of the nature of, Ride swiftly back.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 344394,
+          "char_end": 344413,
+          "text": "end were these: \"My",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 53354,
+          "char_end": 53370,
+          "text": "of the nature of",
+          "role": "continuation"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 266437,
+          "char_end": 266454,
+          "text": "Ride swiftly back",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "982566a06b30",
+      "sentence": "Will shew only the, repay the same service, days when you.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 142554,
+          "char_end": 142572,
+          "text": "will shew only the",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 118077,
+          "char_end": 118099,
+          "text": "repay the same service",
+          "role": "continuation"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 701291,
+          "char_end": 701304,
+          "text": "days when you",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "0463ac6ef98b",
+      "sentence": "Never deign to look, an honest calling, and, not have talked.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 268897,
+          "char_end": 268916,
+          "text": "never deign to look",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 344654,
+          "char_end": 344676,
+          "text": "an honest calling, and",
+          "role": "continuation"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 39068,
+          "char_end": 39083,
+          "text": "not have talked",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "e7dd46dd4af6",
+      "sentence": "Different at the Cape, I stained the water.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 205259,
+          "char_end": 205280,
+          "text": "different at the Cape",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 1820,
+          "char_end": 1839,
+          "text": "I stained the water",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9579f97f9ec5",
+      "sentence": "A murmur of human, qui avoit non |Bayan.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 35255,
+          "char_end": 35272,
+          "text": "a murmur of human",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 20757,
+          "char_end": 20777,
+          "text": "qui avoit non |Bayan",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b8c68fc49ca7",
+      "sentence": "When it is in, could not be heard, and emulation, as.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 162800,
+          "char_end": 162813,
+          "text": "when it is in",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 27080,
+          "char_end": 27098,
+          "text": "could not be heard",
+          "role": "continuation"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 407704,
+          "char_end": 407721,
+          "text": "and emulation, as",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "bbbfc26cd8b2",
+      "sentence": "I shall suppose myself, seeks to hide itself, sacrifices and rites.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 259275,
+          "char_end": 259297,
+          "text": "I shall suppose myself",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 168702,
+          "char_end": 168722,
+          "text": "seeks to hide itself",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 9931,
+          "char_end": 9951,
+          "text": "sacrifices and rites",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "670ee407dda1",
+      "sentence": "Even fell into the, que l'amour, de doux.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 30294,
+          "char_end": 30312,
+          "text": "even fell into the",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 161075,
+          "char_end": 161095,
+          "text": "que l'amour, de doux",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "bb983d55b88f",
+      "sentence": "Since he had done, say, be of service, not keep the.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 136337,
+          "char_end": 136354,
+          "text": "since he had done",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 582896,
+          "char_end": 582914,
+          "text": "say, be of service",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 585570,
+          "char_end": 585582,
+          "text": "not keep the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "04a144da01d8",
+      "sentence": "And shut the door, was cold, Tom was.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 166876,
+          "char_end": 166893,
+          "text": "And shut the door",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 6327,
+          "char_end": 6344,
+          "text": "was cold, Tom was",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3ad0f6cb9471",
+      "sentence": "Little enjoyment from the, is the life of.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 71557,
+          "char_end": 71582,
+          "text": "little enjoyment from the",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 81997,
+          "char_end": 82011,
+          "text": "is the life of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d1ef434d765d",
+      "sentence": "Loose-gown’d women look, of Athens, that he.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 92220,
+          "char_end": 92243,
+          "text": "loose-gown’d women look",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 51312,
+          "char_end": 51330,
+          "text": "of Athens, that he",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1199e9ba3afc",
+      "sentence": "Beautiful, said, \"A little, namely, the voltaic battery.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 324463,
+          "char_end": 324489,
+          "text": "beautiful, said, \"A little",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 194869,
+          "char_end": 194896,
+          "text": "namely, the voltaic battery",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "30c7487efd9d",
+      "sentence": "Words was so wild, At length we took.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 36186,
+          "char_end": 36203,
+          "text": "words was so wild",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 316951,
+          "char_end": 316968,
+          "text": "At length we took",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "794233cad6b3",
+      "sentence": "Found?’ asked the dwarf, event which did not.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 399778,
+          "char_end": 399801,
+          "text": "found?’ asked the dwarf",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 319151,
+          "char_end": 319170,
+          "text": "event which did not",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "551c71e87d19",
+      "sentence": "Coast, for the same, necessarily been thus conditioned, had finished his.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 768701,
+          "char_end": 768720,
+          "text": "Coast, for the same",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 47580,
+          "char_end": 47613,
+          "text": "necessarily been thus conditioned",
+          "role": "continuation"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 275227,
+          "char_end": 275243,
+          "text": "had finished his",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "a0ffbbde0037",
+      "sentence": "Hunt who from a, the guanaco, and a.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 342850,
+          "char_end": 342865,
+          "text": "Hunt who from a",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 553945,
+          "char_end": 553963,
+          "text": "the guanaco, and a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8b2f2dfa902a",
+      "sentence": "Doubtful upon one or, of the Bizcacha, it.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 181620,
+          "char_end": 181640,
+          "text": "doubtful upon one or",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 163812,
+          "char_end": 163831,
+          "text": "of the Bizcacha, it",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0883eb2177d0",
+      "sentence": "And south turn the, might not be blown, are filled with.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 189455,
+          "char_end": 189473,
+          "text": "and south turn the",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 700466,
+          "char_end": 700484,
+          "text": "might not be blown",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 531746,
+          "char_end": 531761,
+          "text": "are filled with",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "bfbe8ef9eba4",
+      "sentence": "On the unity of, than ever; but she.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 16075,
+          "char_end": 16090,
+          "text": "on the unity of",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 29053,
+          "char_end": 29071,
+          "text": "than ever; but she",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
