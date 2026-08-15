@@ -1,0 +1,608 @@
+{
+  "run_id": "20260815_010536",
+  "run_date": "2026-08-15T01:05:36.182528+00:00Z",
+  "seed": 354311711,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "0b3d57ad64bd",
+      "sentence": "But as that term, are in the dale.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 305916,
+          "char_end": 305932,
+          "text": "But as that term",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 20041,
+          "char_end": 20056,
+          "text": "are in the dale",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6e5f78a5992d",
+      "sentence": "Shown still more readily, for some time there.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 5866,
+          "char_end": 5890,
+          "text": "shown still more readily",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 596951,
+          "char_end": 596970,
+          "text": "for some time there",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c18a66968c0d",
+      "sentence": "Sun lied when he, jardin cueillir du persil.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 16486,
+          "char_end": 16502,
+          "text": "sun lied when he",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 137216,
+          "char_end": 137241,
+          "text": "jardin cueillir du persil",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "71708570dc4c",
+      "sentence": "All day long and, do for us. In.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 60358,
+          "char_end": 60374,
+          "text": "all day long and",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 268852,
+          "char_end": 268865,
+          "text": "do for us. In",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0eb444c072df",
+      "sentence": "Unnoticed by the Father, by _Abstraction_, an opinion, which.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 109607,
+          "char_end": 109630,
+          "text": "unnoticed by the Father",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 298582,
+          "char_end": 298617,
+          "text": "by _Abstraction_, an opinion, which",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8b9e4ff2ce8e",
+      "sentence": "Cannot tell why, but, wherever there were any.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 196415,
+          "char_end": 196435,
+          "text": "cannot tell why, but",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 276356,
+          "char_end": 276379,
+          "text": "wherever there were any",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a172658c9049",
+      "sentence": "When fed on hempseed, with a grateful heart.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 170031,
+          "char_end": 170051,
+          "text": "when fed on hempseed",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 208137,
+          "char_end": 208158,
+          "text": "with a grateful heart",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "37cd80aa0cab",
+      "sentence": "A very deep bay, have some peace, why.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 237852,
+          "char_end": 237867,
+          "text": "a very deep bay",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 208660,
+          "char_end": 208680,
+          "text": "have some peace, why",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e61dbaae17bc",
+      "sentence": "Look at his Essay, and high;--the two, whether it still.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 348811,
+          "char_end": 348828,
+          "text": "look at his Essay",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 741506,
+          "char_end": 741524,
+          "text": "and high;--the two",
+          "role": "continuation"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 76822,
+          "char_end": 76838,
+          "text": "whether it still",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "e18eb824d21a",
+      "sentence": "The little ones, weary, slavery, and a prayer.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 2762,
+          "char_end": 2784,
+          "text": "the little ones, weary",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 47481,
+          "char_end": 47502,
+          "text": "slavery, and a prayer",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a35ee34fa25f",
+      "sentence": "Ought not to do, of the deck, and, pardon me for.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 78419,
+          "char_end": 78434,
+          "text": "ought not to do",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 722273,
+          "char_end": 722289,
+          "text": "of the deck, and",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 37823,
+          "char_end": 37836,
+          "text": "pardon me for",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "452dc42a541e",
+      "sentence": "In the vales are, nature both of the.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 340436,
+          "char_end": 340452,
+          "text": "in the vales are",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 52458,
+          "char_end": 52476,
+          "text": "nature both of the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "84a570ec4c6a",
+      "sentence": "Dwarf, who, when he, king how it struck, know whether to.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 402380,
+          "char_end": 402399,
+          "text": "dwarf, who, when he",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 208992,
+          "char_end": 209010,
+          "text": "king how it struck",
+          "role": "continuation"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 37029,
+          "char_end": 37044,
+          "text": "know whether to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "0392a3ed9d42",
+      "sentence": "With my son, Jacques, tides continually rush or, it be moved.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 2715,
+          "char_end": 2735,
+          "text": "with my son, Jacques",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 409151,
+          "char_end": 409176,
+          "text": "tides continually rush or",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 113456,
+          "char_end": 113467,
+          "text": "it be moved",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "3577dfed68dd",
+      "sentence": "Enough for effective intellectual, confervae a few inches.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 157949,
+          "char_end": 157982,
+          "text": "enough for effective intellectual",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 35143,
+          "char_end": 35165,
+          "text": "confervae a few inches",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1536e2e493cc",
+      "sentence": "In March last, two, Was grateful for the, dire qu'elle se.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 71653,
+          "char_end": 71671,
+          "text": "in March last, two",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 118089,
+          "char_end": 118109,
+          "text": "Was grateful for the",
+          "role": "continuation"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 63982,
+          "char_end": 63997,
+          "text": "dire qu'elle se",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "62c904baab9c",
+      "sentence": "The drivers used their, any _connexion_, which we perceive, near the gardens.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 105476,
+          "char_end": 105498,
+          "text": "the drivers used their",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 210704,
+          "char_end": 210738,
+          "text": "any _connexion_, which we perceive",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 453366,
+          "char_end": 453382,
+          "text": "near the gardens",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "84572c96c843",
+      "sentence": "Lost her buoyancy by, Minnows, Mice, Ticklebacks, Dace, offering finally to.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 298221,
+          "char_end": 298241,
+          "text": "lost her buoyancy by",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 514951,
+          "char_end": 514983,
+          "text": "Minnows, Mice, Ticklebacks, Dace",
+          "role": "continuation"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 367176,
+          "char_end": 367195,
+          "text": "offering finally to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "56d48420500a",
+      "sentence": "Gained a great reputation, cocoa-nuts. These are not, to help her.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 286602,
+          "char_end": 286627,
+          "text": "gained a great reputation",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 412828,
+          "char_end": 412853,
+          "text": "cocoa-nuts. These are not",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 145419,
+          "char_end": 145430,
+          "text": "to help her",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "9db17a2026d6",
+      "sentence": "Over the unruffled deep, command, his amorous phrases.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 110875,
+          "char_end": 110898,
+          "text": "over the unruffled deep",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 395146,
+          "char_end": 395174,
+          "text": "command, his amorous phrases",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
