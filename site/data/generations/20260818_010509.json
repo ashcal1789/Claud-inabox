@@ -1,0 +1,588 @@
+{
+  "run_id": "20260818_010509",
+  "run_date": "2026-08-18T01:05:09.710780+00:00Z",
+  "seed": 737729872,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "be6f772fb050",
+      "sentence": "I have this load, is a dozen times.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 15959,
+          "char_end": 15975,
+          "text": "I have this load",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 115517,
+          "char_end": 115533,
+          "text": "is a dozen times",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "03816ac23487",
+      "sentence": "Love was not return, and rode off as.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 186247,
+          "char_end": 186266,
+          "text": "love was not return",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 47655,
+          "char_end": 47670,
+          "text": "and rode off as",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0170a4234dc0",
+      "sentence": "Having many enemies of, They came because they, statement from the.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 40441,
+          "char_end": 40463,
+          "text": "having many enemies of",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 155966,
+          "char_end": 155988,
+          "text": "They came because they",
+          "role": "continuation"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 378741,
+          "char_end": 378759,
+          "text": "statement from the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "99c40a2115bb",
+      "sentence": "The human form a, in mental capacity: indeed.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 28457,
+          "char_end": 28473,
+          "text": "The human form a",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 539874,
+          "char_end": 539900,
+          "text": "in mental capacity: indeed",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ebd9898ab01a",
+      "sentence": "The captain; and up, but often like silvery.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 41894,
+          "char_end": 41913,
+          "text": "the captain; and up",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 434053,
+          "char_end": 434075,
+          "text": "but often like silvery",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3456a9bbb59e",
+      "sentence": "Of the judge and, Hic steterat Priam regia, sometimes thrash each.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 813999,
+          "char_end": 814015,
+          "text": "of the judge and",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 81830,
+          "char_end": 81854,
+          "text": "Hic steterat Priam regia",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 222855,
+          "char_end": 222876,
+          "text": "sometimes thrash each",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "55e67d521d07",
+      "sentence": "In cold climates. This, I get home, 't, tenure that he.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 212268,
+          "char_end": 212290,
+          "text": "in cold climates. This",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 62271,
+          "char_end": 62285,
+          "text": "I get home, 't",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 372791,
+          "char_end": 372805,
+          "text": "tenure that he",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "6c883128ae33",
+      "sentence": "Cruelty of Mrs. Hamilton, took was followed by.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 81156,
+          "char_end": 81180,
+          "text": "cruelty of Mrs. Hamilton",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 334928,
+          "char_end": 334948,
+          "text": "took was followed by",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "25fc4608de54",
+      "sentence": "Literally spending years without, December 25th.--Close by the.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 776,
+          "char_end": 808,
+          "text": "literally spending years without",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 497149,
+          "char_end": 497177,
+          "text": "December 25th.--Close by the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "254ef929929b",
+      "sentence": "Take part in your, matter which is appointed, Cateau; mais Cateau.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 63708,
+          "char_end": 63725,
+          "text": "take part in your",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 178762,
+          "char_end": 178787,
+          "text": "matter which is appointed",
+          "role": "continuation"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 66303,
+          "char_end": 66322,
+          "text": "Cateau; mais Cateau",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "9c3f954c8e19",
+      "sentence": "Always a knit of, advanced to swallow her.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 38218,
+          "char_end": 38234,
+          "text": "Always a knit of",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 131907,
+          "char_end": 131930,
+          "text": "advanced to swallow her",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "af4d948895b9",
+      "sentence": "And politicians. To bring, within, and all bedaubed.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 314377,
+          "char_end": 314402,
+          "text": "and politicians. To bring",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 67978,
+          "char_end": 68002,
+          "text": "within, and all bedaubed",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "86e2abd78f7a",
+      "sentence": "Part, be placed in, for if he allowed.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 218459,
+          "char_end": 218477,
+          "text": "part, be placed in",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 287192,
+          "char_end": 287209,
+          "text": "for if he allowed",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5e727c6e7dc2",
+      "sentence": "On the north side, only ghost I ever.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 197732,
+          "char_end": 197749,
+          "text": "on the north side",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 108813,
+          "char_end": 108830,
+          "text": "only ghost I ever",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e0a00e3d6770",
+      "sentence": "Either by captain or, cannot bear to think.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 364868,
+          "char_end": 364888,
+          "text": "either by captain or",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 114645,
+          "char_end": 114665,
+          "text": "cannot bear to think",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "acfb92758071",
+      "sentence": "Retreat. They continued to, the impending rock on.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 10489,
+          "char_end": 10515,
+          "text": "retreat. They continued to",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 212079,
+          "char_end": 212100,
+          "text": "the impending rock on",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "365386841bb7",
+      "sentence": "Seems to have been, be enabled to alleviate, de birds stop.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 355395,
+          "char_end": 355413,
+          "text": "seems to have been",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 693536,
+          "char_end": 693559,
+          "text": "be enabled to alleviate",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 112410,
+          "char_end": 112423,
+          "text": "de birds stop",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "a7af2ba47230",
+      "sentence": "Thy body or life, have no more of.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 328359,
+          "char_end": 328375,
+          "text": "thy body or life",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 194051,
+          "char_end": 194066,
+          "text": "have no more of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a1fdcd092373",
+      "sentence": "Such as lapwings, snipes, that kind, which are.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 40104,
+          "char_end": 40128,
+          "text": "such as lapwings, snipes",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 194881,
+          "char_end": 194901,
+          "text": "that kind, which are",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "51896994e128",
+      "sentence": "My commission obeying, to, occupations. We also began, childhood, I bowed.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 680876,
+          "char_end": 680901,
+          "text": "my commission obeying, to",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 162648,
+          "char_end": 162674,
+          "text": "occupations. We also began",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 111899,
+          "char_end": 111917,
+          "text": "childhood, I bowed",
+          "role": "closing"
+        }
+      ]
+    }
+  ]
+}
