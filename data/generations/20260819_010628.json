@@ -1,0 +1,588 @@
+{
+  "run_id": "20260819_010628",
+  "run_date": "2026-08-19T01:06:28.463748+00:00Z",
+  "seed": 2647030034,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "c9f348af04a4",
+      "sentence": "Friends and kinsmen, but, under our courses; and.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 299815,
+          "char_end": 299839,
+          "text": "friends and kinsmen, but",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 265445,
+          "char_end": 265467,
+          "text": "under our courses; and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "fe3f1be78d77",
+      "sentence": "Of so pure a, seen, a man endeavours.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 19537,
+          "char_end": 19549,
+          "text": "of so pure a",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 119758,
+          "char_end": 119780,
+          "text": "seen, a man endeavours",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a3e7d7d340e1",
+      "sentence": "The augmented bulk of, of which it seems.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 16670,
+          "char_end": 16691,
+          "text": "the augmented bulk of",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 178969,
+          "char_end": 178986,
+          "text": "of which it seems",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "15563bbef4cd",
+      "sentence": "Greater, so also is, by seven houses. Our.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 245143,
+          "char_end": 245162,
+          "text": "greater, so also is",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 20759,
+          "char_end": 20779,
+          "text": "by seven houses. Our",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "bd192f681d2a",
+      "sentence": "Is extreme, and their, I saw a child, the poor lady.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 380673,
+          "char_end": 380694,
+          "text": "is extreme, and their",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 1352,
+          "char_end": 1365,
+          "text": "I saw a child",
+          "role": "continuation"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 549651,
+          "char_end": 549664,
+          "text": "the poor lady",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "c9b15762bf44",
+      "sentence": "Twice transformed into different, old bird as she.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 232118,
+          "char_end": 232150,
+          "text": "twice transformed into different",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 396992,
+          "char_end": 397007,
+          "text": "old bird as she",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2c66ebc581e6",
+      "sentence": "And Mouth thus dares, navigatin' down in Egypt.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 310557,
+          "char_end": 310577,
+          "text": "and Mouth thus dares",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 148874,
+          "char_end": 148898,
+          "text": "navigatin' down in Egypt",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8aaefa0edade",
+      "sentence": "Also, who laid the, two. Let us put.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 101189,
+          "char_end": 101207,
+          "text": "Also, who laid the",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 90397,
+          "char_end": 90412,
+          "text": "two. Let us put",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0701737b1935",
+      "sentence": "De Dieu, un pot, account. It is but, soon flew that.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 14938,
+          "char_end": 14953,
+          "text": "de Dieu, un pot",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 215516,
+          "char_end": 215534,
+          "text": "account. It is but",
+          "role": "continuation"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 363061,
+          "char_end": 363075,
+          "text": "soon flew that",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "445a2c85082f",
+      "sentence": "Refrain from asking for, Je lui ai promis, growth, than the.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 146637,
+          "char_end": 146660,
+          "text": "refrain from asking for",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 47702,
+          "char_end": 47718,
+          "text": "Je lui ai promis",
+          "role": "continuation"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 568190,
+          "char_end": 568206,
+          "text": "growth, than the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "1f5c9e8ca199",
+      "sentence": "When there are such, become in a manner, the black stones.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 142235,
+          "char_end": 142254,
+          "text": "When there are such",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 102151,
+          "char_end": 102169,
+          "text": "become in a manner",
+          "role": "continuation"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 571230,
+          "char_end": 571246,
+          "text": "the black stones",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "418951d30f3b",
+      "sentence": "Lord Canning to Lady, Did I not in.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 162343,
+          "char_end": 162363,
+          "text": "Lord Canning to Lady",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 168234,
+          "char_end": 168246,
+          "text": "Did I not in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9455475345fb",
+      "sentence": "Earth to peace beguiles, In a few days.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 8544,
+          "char_end": 8567,
+          "text": "earth to peace beguiles",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 201178,
+          "char_end": 201191,
+          "text": "In a few days",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "74a84f629306",
+      "sentence": "Two of her friends, it is very expensive.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 48692,
+          "char_end": 48710,
+          "text": "two of her friends",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 523654,
+          "char_end": 523674,
+          "text": "it is very expensive",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6a2f14655286",
+      "sentence": "In the morning he, sacrificed in profusion; men.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 8542,
+          "char_end": 8559,
+          "text": "in the morning he",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 447492,
+          "char_end": 447520,
+          "text": "sacrificed in profusion; men",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1b30585b33c2",
+      "sentence": "Of ‘Ha ha he, c., as anyone may, debil couldn't take.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 7580,
+          "char_end": 7592,
+          "text": "of ‘Ha ha he",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 98194,
+          "char_end": 98211,
+          "text": "c., as anyone may",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 110275,
+          "char_end": 110294,
+          "text": "debil couldn't take",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "7086932ce112",
+      "sentence": "And it will easily, clear to you, Athenians, the castle of.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 30091,
+          "char_end": 30109,
+          "text": "And it will easily",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 48122,
+          "char_end": 48145,
+          "text": "clear to you, Athenians",
+          "role": "continuation"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 158131,
+          "char_end": 158144,
+          "text": "the castle of",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "b6344a1b6689",
+      "sentence": "Liable to error, till, is I--I think no.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 78330,
+          "char_end": 78351,
+          "text": "liable to error, till",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 648595,
+          "char_end": 648611,
+          "text": "is I--I think no",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e383594375db",
+      "sentence": "Definitions. That _the square of, modes of imagining, in.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 316615,
+          "char_end": 316647,
+          "text": "definitions. That _the square of",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 78218,
+          "char_end": 78240,
+          "text": "modes of imagining, in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2ddbb84d59bc",
+      "sentence": "Window open, and just, lime; and with ashes.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 156484,
+          "char_end": 156505,
+          "text": "window open, and just",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 46073,
+          "char_end": 46093,
+          "text": "lime; and with ashes",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
