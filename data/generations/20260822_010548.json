@@ -1,0 +1,618 @@
+{
+  "run_id": "20260822_010548",
+  "run_date": "2026-08-22T01:05:48.312065+00:00Z",
+  "seed": 706746399,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "150cd014b64d",
+      "sentence": "Less the soul nor, Illustration: They sailed away.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 137390,
+          "char_end": 137407,
+          "text": "less the soul nor",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 1,
+          "char_end": 31,
+          "text": "Illustration: They sailed away",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ef6a5c2aace5",
+      "sentence": "His spring goods, I, me I know not, me. I knew.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 189095,
+          "char_end": 189114,
+          "text": "his spring goods, I",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 611195,
+          "char_end": 611208,
+          "text": "me I know not",
+          "role": "continuation"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 597121,
+          "char_end": 597131,
+          "text": "me. I knew",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "df73f24a1e68",
+      "sentence": "Seen lying on the, in the aforesaid proportion.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 352083,
+          "char_end": 352100,
+          "text": "seen lying on the",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 379164,
+          "char_end": 379191,
+          "text": "in the aforesaid proportion",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f9a7b753ccda",
+      "sentence": "Sun, as common, went, as are synonymous to, ours seemed to.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 20012,
+          "char_end": 20032,
+          "text": "sun, as common, went",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 178446,
+          "char_end": 178466,
+          "text": "as are synonymous to",
+          "role": "continuation"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 3631,
+          "char_end": 3645,
+          "text": "ours seemed to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "37b5d7303cb1",
+      "sentence": "The kinkajou is found, of my father’s.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 330339,
+          "char_end": 330360,
+          "text": "the kinkajou is found",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 6811,
+          "char_end": 6825,
+          "text": "of my father’s",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7eabb792c8b6",
+      "sentence": "But I saw a, others will all sink.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 13337,
+          "char_end": 13348,
+          "text": "But I saw a",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 130728,
+          "char_end": 130748,
+          "text": "others will all sink",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3ad349d02027",
+      "sentence": "Up its credit.  Accordingly, how it tasted, and, angle of elevation.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 373838,
+          "char_end": 373865,
+          "text": "up its credit.  Accordingly",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 155550,
+          "char_end": 155568,
+          "text": "how it tasted, and",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 213160,
+          "char_end": 213178,
+          "text": "angle of elevation",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "a2c90b963a2d",
+      "sentence": "Fail in either (either, apparatus, with both places.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 308161,
+          "char_end": 308183,
+          "text": "fail in either (either",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 102710,
+          "char_end": 102737,
+          "text": "apparatus, with both places",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "eb11ac957153",
+      "sentence": "Of ten months, who, our foresters make from, the lady's house.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 1536,
+          "char_end": 1554,
+          "text": "of ten months, who",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 329702,
+          "char_end": 329725,
+          "text": "our foresters make from",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 14691,
+          "char_end": 14707,
+          "text": "the lady's house",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "b8f60303beef",
+      "sentence": "Made their wills, each, Fool, \"I never in, was going to.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 139842,
+          "char_end": 139864,
+          "text": "made their wills, each",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 82074,
+          "char_end": 82091,
+          "text": "Fool, \"I never in",
+          "role": "continuation"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 58738,
+          "char_end": 58750,
+          "text": "was going to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "44c803a41b4f",
+      "sentence": "To give you a, Become a garden mild, woman is in.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 210821,
+          "char_end": 210834,
+          "text": "to give you a",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 17134,
+          "char_end": 17154,
+          "text": "Become a garden mild",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 57748,
+          "char_end": 57759,
+          "text": "woman is in",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "788a7e023f0c",
+      "sentence": "Every one, even his, New York, where she.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 331394,
+          "char_end": 331413,
+          "text": "Every one, even his",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 148585,
+          "char_end": 148604,
+          "text": "New York, where she",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d4802eb5f440",
+      "sentence": "Discoveries, and exploring the, expedients and resorts in, and down with.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 16406,
+          "char_end": 16436,
+          "text": "discoveries, and exploring the",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 438184,
+          "char_end": 438209,
+          "text": "expedients and resorts in",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 50795,
+          "char_end": 50808,
+          "text": "and down with",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4ad46873d94e",
+      "sentence": "Nothing, indeed, can equal, from the Society Isles, for their presence.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 205440,
+          "char_end": 205466,
+          "text": "Nothing, indeed, can equal",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 3002,
+          "char_end": 3024,
+          "text": "from the Society Isles",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 671032,
+          "char_end": 671050,
+          "text": "for their presence",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "9fc10f1c2a97",
+      "sentence": "Down to the fodder, the year, when the.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 69324,
+          "char_end": 69342,
+          "text": "down to the fodder",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 239370,
+          "char_end": 239388,
+          "text": "the year, when the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6c73e9fff10f",
+      "sentence": "Messer Marco has written, mes doigts, il faut, and it was.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 257183,
+          "char_end": 257207,
+          "text": "Messer Marco has written",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 84190,
+          "char_end": 84209,
+          "text": "mes doigts, il faut",
+          "role": "continuation"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 126639,
+          "char_end": 126649,
+          "text": "and it was",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "b4e052e816fc",
+      "sentence": "Concealing nothing, and his, outside the room.’ When.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 232060,
+          "char_end": 232087,
+          "text": "concealing nothing, and his",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 146441,
+          "char_end": 146464,
+          "text": "outside the room.’ When",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "96a15983044f",
+      "sentence": "Not death, for I, prevailing within it, the.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 119015,
+          "char_end": 119031,
+          "text": "not death, for I",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 25594,
+          "char_end": 25619,
+          "text": "prevailing within it, the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b132bf85a1cb",
+      "sentence": "The pangs are sharp, spirit, equally alive to.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 430794,
+          "char_end": 430813,
+          "text": "the pangs are sharp",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 114860,
+          "char_end": 114884,
+          "text": "spirit, equally alive to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f8e1ca6ae5a1",
+      "sentence": "In this beating and, had become of the.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 167928,
+          "char_end": 167947,
+          "text": "in this beating and",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 429678,
+          "char_end": 429695,
+          "text": "had become of the",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
