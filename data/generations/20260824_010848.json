@@ -1,0 +1,568 @@
+{
+  "run_id": "20260824_010848",
+  "run_date": "2026-08-24T01:08:48.813889+00:00Z",
+  "seed": 3060868568,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "eba396e356e6",
+      "sentence": "Manius as typical of, causing the flask holding.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 32563,
+          "char_end": 32583,
+          "text": "Manius as typical of",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 76447,
+          "char_end": 76472,
+          "text": "causing the flask holding",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c870f48a839e",
+      "sentence": "A hot stone was, Church of SAN MATTEO.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 668528,
+          "char_end": 668543,
+          "text": "A hot stone was",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 235792,
+          "char_end": 235812,
+          "text": "Church of SAN MATTEO",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4a20b1a26167",
+      "sentence": "Off the skin of, more than once, at, Never, never can.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 115167,
+          "char_end": 115182,
+          "text": "off the skin of",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 94723,
+          "char_end": 94741,
+          "text": "more than once, at",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 13897,
+          "char_end": 13913,
+          "text": "Never, never can",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "e8d8d77a027e",
+      "sentence": "The vegetative constitution, whatsoever, who had escaped a.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 226636,
+          "char_end": 226675,
+          "text": "the vegetative constitution, whatsoever",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 133270,
+          "char_end": 133287,
+          "text": "who had escaped a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "22012283cec5",
+      "sentence": "In the same time, life, and she has, him, and passed.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 362127,
+          "char_end": 362143,
+          "text": "in the same time",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 87101,
+          "char_end": 87118,
+          "text": "life, and she has",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 427244,
+          "char_end": 427259,
+          "text": "him, and passed",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "c89d2a2952e5",
+      "sentence": "Shows that he is, day is the obvious, Cyprien cross the.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 7193,
+          "char_end": 7209,
+          "text": "shows that he is",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 80494,
+          "char_end": 80512,
+          "text": "day is the obvious",
+          "role": "continuation"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 23657,
+          "char_end": 23674,
+          "text": "Cyprien cross the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "665a02f8ccc9",
+      "sentence": "The hold of the, platinum in grains. Here.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 562789,
+          "char_end": 562804,
+          "text": "the hold of the",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 183725,
+          "char_end": 183749,
+          "text": "platinum in grains. Here",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2ecf3162b2aa",
+      "sentence": "Hear me using the, filling not so rapidly.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 28075,
+          "char_end": 28092,
+          "text": "hear me using the",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 102874,
+          "char_end": 102896,
+          "text": "filling not so rapidly",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "20f7a2295f78",
+      "sentence": "By the idea of, in this manner; after, nouvelles de notre.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 298030,
+          "char_end": 298044,
+          "text": "by the idea of",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 548776,
+          "char_end": 548797,
+          "text": "in this manner; after",
+          "role": "continuation"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 86084,
+          "char_end": 86102,
+          "text": "nouvelles de notre",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "0bf1a5c75f38",
+      "sentence": "And the poorest persons, Poem by the Autumn.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 186049,
+          "char_end": 186072,
+          "text": "and the poorest persons",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 51997,
+          "char_end": 52015,
+          "text": "Poem by the Autumn",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6cfc3a0f0c6e",
+      "sentence": "But, if at the, seated amid her ruins.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 23774,
+          "char_end": 23788,
+          "text": "But, if at the",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 697275,
+          "char_end": 697296,
+          "text": "seated amid her ruins",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5495dcbcb9e5",
+      "sentence": "Of the antarctic peterels, the master. He was.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 478049,
+          "char_end": 478074,
+          "text": "of the antarctic peterels",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 59359,
+          "char_end": 59377,
+          "text": "the master. He was",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "13cd2405fb71",
+      "sentence": "Exist, a reason or, to others; of this.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 14029,
+          "char_end": 14047,
+          "text": "exist, a reason or",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 54265,
+          "char_end": 54283,
+          "text": "to others; of this",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ea214ebd8b59",
+      "sentence": "Flashing gold, and goes, Project Gutenberg electronic work.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 224413,
+          "char_end": 224436,
+          "text": "flashing gold, and goes",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 167577,
+          "char_end": 167610,
+          "text": "Project Gutenberg electronic work",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0063b59fa027",
+      "sentence": "Opportunity to ask you, more courage, and power.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 314697,
+          "char_end": 314719,
+          "text": "opportunity to ask you",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 1652,
+          "char_end": 1675,
+          "text": "more courage, and power",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b9fb971a76fd",
+      "sentence": "Displeasure, and once more, spirit which is within.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 16933,
+          "char_end": 16959,
+          "text": "displeasure, and once more",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 329273,
+          "char_end": 329295,
+          "text": "spirit which is within",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "85ada51c7923",
+      "sentence": "Which he describes as, the immense lake. Not.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 312871,
+          "char_end": 312892,
+          "text": "which he describes as",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 23770,
+          "char_end": 23791,
+          "text": "the immense lake. Not",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2732cff7b317",
+      "sentence": "Than once done with, any furrows, it is.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 522228,
+          "char_end": 522247,
+          "text": "than once done with",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 140533,
+          "char_end": 140551,
+          "text": "any furrows, it is",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8868310352de",
+      "sentence": "Jesus to take keer, myself, and there is.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 95799,
+          "char_end": 95817,
+          "text": "Jesus to take keer",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 66779,
+          "char_end": 66799,
+          "text": "myself, and there is",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "646f39986c78",
+      "sentence": "And try to weigh, in return, ‘As you.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 576723,
+          "char_end": 576739,
+          "text": "and try to weigh",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 269910,
+          "char_end": 269928,
+          "text": "in return, ‘As you",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
