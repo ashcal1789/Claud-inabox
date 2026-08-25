@@ -1,0 +1,608 @@
+{
+  "run_id": "20260825_010719",
+  "run_date": "2026-08-25T01:07:19.174375+00:00Z",
+  "seed": 3783668666,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "f0a56705136d",
+      "sentence": "Rid of the constant, or rust colour, which, a TIBERIUS or.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 576135,
+          "char_end": 576154,
+          "text": "rid of the constant",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 26399,
+          "char_end": 26420,
+          "text": "or rust colour, which",
+          "role": "continuation"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 77494,
+          "char_end": 77507,
+          "text": "a TIBERIUS or",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "dfbea6309249",
+      "sentence": "The death of this, huge mist capped with.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 146148,
+          "char_end": 146165,
+          "text": "the death of this",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 65482,
+          "char_end": 65503,
+          "text": "huge mist capped with",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "51e8fb8066e6",
+      "sentence": "Water as to send, helve from the woods.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 289032,
+          "char_end": 289048,
+          "text": "water as to send",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 441704,
+          "char_end": 441724,
+          "text": "helve from the woods",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4e6b32e856f7",
+      "sentence": "Iron weapon in the, mast-head at once, the, water-falls, and the.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 727106,
+          "char_end": 727124,
+          "text": "iron weapon in the",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 401340,
+          "char_end": 401362,
+          "text": "mast-head at once, the",
+          "role": "continuation"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 184327,
+          "char_end": 184347,
+          "text": "water-falls, and the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "fb9e4fb4ac8d",
+      "sentence": "Tugs at the white, enforce in the present.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 343696,
+          "char_end": 343713,
+          "text": "tugs at the white",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 67130,
+          "char_end": 67152,
+          "text": "enforce in the present",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7006d61d9f7f",
+      "sentence": "As scholar and friend, work for her to.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 114377,
+          "char_end": 114398,
+          "text": "as scholar and friend",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 13122,
+          "char_end": 13137,
+          "text": "work for her to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "76e22a674286",
+      "sentence": "Man; ‘right is right, la vertu et cette, her hands to.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 420155,
+          "char_end": 420175,
+          "text": "man; ‘right is right",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 24981,
+          "char_end": 24998,
+          "text": "la vertu et cette",
+          "role": "continuation"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 37015,
+          "char_end": 37027,
+          "text": "her hands to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "756026db2daf",
+      "sentence": "Fair in the neighbourhood, I have assisted each, with the Barnevelts.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 203557,
+          "char_end": 203582,
+          "text": "fair in the neighbourhood",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 379267,
+          "char_end": 379287,
+          "text": "I have assisted each",
+          "role": "continuation"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 496168,
+          "char_end": 496187,
+          "text": "with the Barnevelts",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "3f999d14a624",
+      "sentence": "Any of the merchants, necessarily involves the eternal.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 385984,
+          "char_end": 386004,
+          "text": "any of the merchants",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 161604,
+          "char_end": 161636,
+          "text": "necessarily involves the eternal",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "740d954274bf",
+      "sentence": "Ashore, the sun being, of virtue and improvement.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 548272,
+          "char_end": 548293,
+          "text": "ashore, the sun being",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 11355,
+          "char_end": 11380,
+          "text": "of virtue and improvement",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2d8ae7aacab4",
+      "sentence": "Every day is said, side of the lanes.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 167371,
+          "char_end": 167388,
+          "text": "every day is said",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 454011,
+          "char_end": 454028,
+          "text": "side of the lanes",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "78826c89d3e7",
+      "sentence": "So I, the undivine, me pass over our.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 140761,
+          "char_end": 140779,
+          "text": "So I, the undivine",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 19067,
+          "char_end": 19083,
+          "text": "me pass over our",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "aed14ad735e2",
+      "sentence": "Cold thing, and hold, the inspiration of the.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 69016,
+          "char_end": 69036,
+          "text": "cold thing, and hold",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 313626,
+          "char_end": 313648,
+          "text": "the inspiration of the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d10ed15a92fb",
+      "sentence": "Of his dead forefathers, the kingdom of Opoureonu.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 162699,
+          "char_end": 162722,
+          "text": "of his dead forefathers",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 349975,
+          "char_end": 349999,
+          "text": "the kingdom of Opoureonu",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ac48beb9b3ab",
+      "sentence": "Other--that is, he will, He had given Demby, all manner of.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 160327,
+          "char_end": 160350,
+          "text": "other--that is, he will",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 60960,
+          "char_end": 60978,
+          "text": "He had given Demby",
+          "role": "continuation"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 351639,
+          "char_end": 351652,
+          "text": "all manner of",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4cf6441a31b0",
+      "sentence": "Seemed to need her, reminding me of a.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 98771,
+          "char_end": 98789,
+          "text": "seemed to need her",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 148577,
+          "char_end": 148594,
+          "text": "reminding me of a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0a4450b39d9b",
+      "sentence": "And wretched aspect, is, Yaga was in the, cost of their.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 441752,
+          "char_end": 441775,
+          "text": "and wretched aspect, is",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 99237,
+          "char_end": 99252,
+          "text": "Yaga was in the",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 54476,
+          "char_end": 54489,
+          "text": "cost of their",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "e663ac0c4b9b",
+      "sentence": "A mystic kind of, ask him what Message.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 128062,
+          "char_end": 128078,
+          "text": "a mystic kind of",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 348051,
+          "char_end": 348071,
+          "text": "ask him what Message",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4bbc15d9ec1e",
+      "sentence": "Whatsoever shall happen. But, is, unless the roads, desires I can.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 297974,
+          "char_end": 298002,
+          "text": "whatsoever shall happen. But",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 12605,
+          "char_end": 12625,
+          "text": "is, unless the roads",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 28724,
+          "char_end": 28737,
+          "text": "desires I can",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "12d417d1d80f",
+      "sentence": "At the beginning of, and they lived happily, superber themes for.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 447114,
+          "char_end": 447133,
+          "text": "at the beginning of",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 355512,
+          "char_end": 355534,
+          "text": "and they lived happily",
+          "role": "continuation"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 286589,
+          "char_end": 286608,
+          "text": "superber themes for",
+          "role": "closing"
+        }
+      ]
+    }
+  ]
+}
