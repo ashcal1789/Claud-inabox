@@ -1,0 +1,568 @@
+{
+  "run_id": "20260827_071901",
+  "run_date": "2026-08-27T07:19:01.609507+00:00Z",
+  "seed": 1639628974,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "84a887c48a23",
+      "sentence": "Philosophy, being founded on, forget the warmth he.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 4306,
+          "char_end": 4334,
+          "text": "philosophy, being founded on",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 144169,
+          "char_end": 144189,
+          "text": "forget the warmth he",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "bc31e414ddb2",
+      "sentence": "Went to deliver a, Apollodorus, my friends here.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 73305,
+          "char_end": 73322,
+          "text": "went to deliver a",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 77135,
+          "char_end": 77163,
+          "text": "Apollodorus, my friends here",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2b6d9cd16669",
+      "sentence": "So he took his, understand, and she took.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 21176,
+          "char_end": 21190,
+          "text": "So he took his",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 125755,
+          "char_end": 125779,
+          "text": "understand, and she took",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f03f6b4c33d0",
+      "sentence": "Which follows the banks, have killed myself, or, Bore them to.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 11216,
+          "char_end": 11239,
+          "text": "which follows the banks",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 90131,
+          "char_end": 90153,
+          "text": "have killed myself, or",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 18804,
+          "char_end": 18816,
+          "text": "Bore them to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "3313d3e3ca82",
+      "sentence": "As would spend their, bread (and I certainly, she had just.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 664448,
+          "char_end": 664468,
+          "text": "as would spend their",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 18478,
+          "char_end": 18500,
+          "text": "bread (and I certainly",
+          "role": "continuation"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 41831,
+          "char_end": 41843,
+          "text": "she had just",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "cdea3f771a4a",
+      "sentence": "Lived a great while, engaged him a fortnight.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 117294,
+          "char_end": 117313,
+          "text": "lived a great while",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 94342,
+          "char_end": 94365,
+          "text": "engaged him a fortnight",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b549220ed0eb",
+      "sentence": "The high lights in, him to say nothing.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 113257,
+          "char_end": 113275,
+          "text": "the high lights in",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 17636,
+          "char_end": 17654,
+          "text": "him to say nothing",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "cc18262e5b35",
+      "sentence": "Them in with a, We wondered at our.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 34570,
+          "char_end": 34584,
+          "text": "them in with a",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 116264,
+          "char_end": 116282,
+          "text": "We wondered at our",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7fffac687652",
+      "sentence": "Mind is united to, brightening the interest of.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 127609,
+          "char_end": 127626,
+          "text": "mind is united to",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 651364,
+          "char_end": 651391,
+          "text": "brightening the interest of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "512b27b6bf26",
+      "sentence": "These sciences, having studied, irons voir votre père dans.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 75003,
+          "char_end": 75033,
+          "text": "these sciences, having studied",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 130143,
+          "char_end": 130169,
+          "text": "irons voir votre père dans",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0505b8daebc4",
+      "sentence": "Project Gutenberg is a, of which, of course.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 165846,
+          "char_end": 165868,
+          "text": "Project Gutenberg is a",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 128256,
+          "char_end": 128275,
+          "text": "of which, of course",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "291c3e12f028",
+      "sentence": "Shall be able to, the world, and to.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 50676,
+          "char_end": 50692,
+          "text": "shall be able to",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 284715,
+          "char_end": 284732,
+          "text": "the world, and to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8069d7962dc0",
+      "sentence": "If we like, make, sick of scarlatina and.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 29747,
+          "char_end": 29763,
+          "text": "if we like, make",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 786253,
+          "char_end": 786275,
+          "text": "sick of scarlatina and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e494ad67c77c",
+      "sentence": "Through; and five hours, are not to be.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 493020,
+          "char_end": 493043,
+          "text": "through; and five hours",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 267269,
+          "char_end": 267282,
+          "text": "are not to be",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1148c62764f4",
+      "sentence": "To take much pains, simple tests; as, for.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 97129,
+          "char_end": 97147,
+          "text": "to take much pains",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 13948,
+          "char_end": 13969,
+          "text": "simple tests; as, for",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2ef6edf20c5f",
+      "sentence": "Did not stir his, is away that is.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 485465,
+          "char_end": 485481,
+          "text": "did not stir his",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 278496,
+          "char_end": 278511,
+          "text": "is away that is",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "64fca026c486",
+      "sentence": "Got outside the church, him in the poor.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 348356,
+          "char_end": 348378,
+          "text": "got outside the church",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 112466,
+          "char_end": 112481,
+          "text": "him in the poor",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3e4e2f36063d",
+      "sentence": "Evening star does shine, my friends would be.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 10023,
+          "char_end": 10046,
+          "text": "evening star does shine",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 267298,
+          "char_end": 267317,
+          "text": "my friends would be",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2cf449c62b01",
+      "sentence": "Brains of men! As, on my travels and, be wasted.  When.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 348104,
+          "char_end": 348121,
+          "text": "brains of men! As",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 361562,
+          "char_end": 361579,
+          "text": "on my travels and",
+          "role": "continuation"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 84331,
+          "char_end": 84347,
+          "text": "be wasted.  When",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4d921f34d7f0",
+      "sentence": "On whom the summer, treatise on Stoicism. He, sent for out.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 36931,
+          "char_end": 36949,
+          "text": "On whom the summer",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 16751,
+          "char_end": 16775,
+          "text": "treatise on Stoicism. He",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 611082,
+          "char_end": 611094,
+          "text": "sent for out",
+          "role": "closing"
+        }
+      ]
+    }
+  ]
+}
