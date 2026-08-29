@@ -1,0 +1,548 @@
+{
+  "run_id": "20260829_053924",
+  "run_date": "2026-08-29T05:39:24.173490+00:00Z",
+  "seed": 243813071,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "146a6d823e7f",
+      "sentence": "Words of another person, regard me as if, at the feast.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 40054,
+          "char_end": 40077,
+          "text": "words of another person",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 28466,
+          "char_end": 28481,
+          "text": "regard me as if",
+          "role": "continuation"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 66096,
+          "char_end": 66108,
+          "text": "at the feast",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "21273d51a294",
+      "sentence": "To himself: ‘How the, utmost horror and dread.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 176902,
+          "char_end": 176922,
+          "text": "to himself: ‘How the",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 98003,
+          "char_end": 98026,
+          "text": "utmost horror and dread",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a022c98a3331",
+      "sentence": "Through the hazy atmosphere, should probably drink the.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 6072,
+          "char_end": 6099,
+          "text": "through the hazy atmosphere",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 112762,
+          "char_end": 112787,
+          "text": "should probably drink the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2ce677b48a04",
+      "sentence": "That I once saw, or perhaps we should.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 66019,
+          "char_end": 66034,
+          "text": "that I once saw",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 480043,
+          "char_end": 480063,
+          "text": "or perhaps we should",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0258331a83c7",
+      "sentence": "The bridges often go, him ship to see.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 18070,
+          "char_end": 18090,
+          "text": "the bridges often go",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 564542,
+          "char_end": 564557,
+          "text": "him ship to see",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c1d3ff3617c9",
+      "sentence": "As day.  It was, the seashore. And when.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 483557,
+          "char_end": 483572,
+          "text": "as day.  It was",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 48455,
+          "char_end": 48477,
+          "text": "the seashore. And when",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "892ab88e45a0",
+      "sentence": "Portrait of a Hazára. From, the house-martin, of a.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 245294,
+          "char_end": 245320,
+          "text": "Portrait of a Hazára. From",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 279777,
+          "char_end": 279799,
+          "text": "the house-martin, of a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "fab4db6c9f2e",
+      "sentence": "Returned to the ships, follows:--1. That God is.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 325907,
+          "char_end": 325928,
+          "text": "returned to the ships",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 50521,
+          "char_end": 50545,
+          "text": "follows:--1. That God is",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c57adcab23a0",
+      "sentence": "And one man so, contaminate their simplicity, which.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 199017,
+          "char_end": 199031,
+          "text": "and one man so",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 190021,
+          "char_end": 190056,
+          "text": "contaminate their simplicity, which",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "62a15e2f0132",
+      "sentence": "I have dared to, husband. She was a.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 359417,
+          "char_end": 359432,
+          "text": "I have dared to",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 717,
+          "char_end": 735,
+          "text": "husband. She was a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8cb8e8469dd5",
+      "sentence": "Well as I can, was burned to a.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 163212,
+          "char_end": 163225,
+          "text": "well as I can",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 134328,
+          "char_end": 134343,
+          "text": "was burned to a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "21c185d5ba5a",
+      "sentence": "Smiles as of the, face du sacristain, sans, up to the.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 28834,
+          "char_end": 28850,
+          "text": "Smiles as of the",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 95661,
+          "char_end": 95685,
+          "text": "face du sacristain, sans",
+          "role": "continuation"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 421449,
+          "char_end": 421458,
+          "text": "up to the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "b715ed78a441",
+      "sentence": "Says man--and did not, have such beauty and.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 626481,
+          "char_end": 626502,
+          "text": "says man--and did not",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 24833,
+          "char_end": 24853,
+          "text": "have such beauty and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2b64c498cb1a",
+      "sentence": "And was very kind, conquer the great aversion.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 96171,
+          "char_end": 96188,
+          "text": "and was very kind",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 696261,
+          "char_end": 696287,
+          "text": "conquer the great aversion",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2f249ccc1eb1",
+      "sentence": "The pathos of her, aft of himself; that.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 23250,
+          "char_end": 23267,
+          "text": "the pathos of her",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 229878,
+          "char_end": 229898,
+          "text": "aft of himself; that",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ed5edb386102",
+      "sentence": "Children, swindled for the, rather than to the.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 60259,
+          "char_end": 60285,
+          "text": "children, swindled for the",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 212410,
+          "char_end": 212428,
+          "text": "rather than to the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2e3c732ece53",
+      "sentence": "Flew after her, touched, many breakers that the.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 31634,
+          "char_end": 31657,
+          "text": "flew after her, touched",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 566054,
+          "char_end": 566076,
+          "text": "many breakers that the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d641ae394621",
+      "sentence": "Did not care for, Aline and they had.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 123854,
+          "char_end": 123870,
+          "text": "did not care for",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 71338,
+          "char_end": 71356,
+          "text": "Aline and they had",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "71074e67dc9c",
+      "sentence": "New” theory of life, notre femme, que nous.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 469491,
+          "char_end": 469510,
+          "text": "new” theory of life",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 19343,
+          "char_end": 19364,
+          "text": "notre femme, que nous",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "34471a440c35",
+      "sentence": "Seems a different being, on evening cloud impress.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 717310,
+          "char_end": 717333,
+          "text": "seems a different being",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 5787,
+          "char_end": 5811,
+          "text": "on evening cloud impress",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
