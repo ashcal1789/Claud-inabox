@@ -1,0 +1,598 @@
+{
+  "run_id": "20260830_033924",
+  "run_date": "2026-08-30T03:39:24.754434+00:00Z",
+  "seed": 122043738,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "b0e4b36c1adb",
+      "sentence": "For many researches, of, I have to reply.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 7542,
+          "char_end": 7565,
+          "text": "for many researches, of",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 28826,
+          "char_end": 28841,
+          "text": "I have to reply",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "51e70a04093f",
+      "sentence": "Father's affairs; but the, Europe, that there will, flogged in the.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 8729,
+          "char_end": 8754,
+          "text": "father's affairs; but the",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 104899,
+          "char_end": 104922,
+          "text": "Europe, that there will",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 12079,
+          "char_end": 12093,
+          "text": "flogged in the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "0addddae0f7f",
+      "sentence": "To make their way, rode on, and there.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 131890,
+          "char_end": 131907,
+          "text": "to make their way",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 141792,
+          "char_end": 141810,
+          "text": "rode on, and there",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "43590de9dc4e",
+      "sentence": "Reflecting, that I cannot, O it drives all.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 197684,
+          "char_end": 197709,
+          "text": "reflecting, that I cannot",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 29874,
+          "char_end": 29889,
+          "text": "O it drives all",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "763d8d118f02",
+      "sentence": "Worth the postage. The, known throughout the country, in the world.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 165232,
+          "char_end": 165254,
+          "text": "worth the postage. The",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 4477,
+          "char_end": 4505,
+          "text": "known throughout the country",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 279849,
+          "char_end": 279861,
+          "text": "in the world",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "93f804b03d5f",
+      "sentence": "Some industry must be, do not imagine the.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 14123,
+          "char_end": 14144,
+          "text": "Some industry must be",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 325312,
+          "char_end": 325330,
+          "text": "do not imagine the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4e00dcfc943b",
+      "sentence": "Slave was put fully, long he had been.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 76131,
+          "char_end": 76150,
+          "text": "slave was put fully",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 780,
+          "char_end": 796,
+          "text": "long he had been",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "76648caa5c2f",
+      "sentence": "That you belong to, which were taken away.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 161555,
+          "char_end": 161573,
+          "text": "that you belong to",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 198439,
+          "char_end": 198460,
+          "text": "which were taken away",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "31df61fe3abe",
+      "sentence": "This animal is abundant, fathers in their turns, upper part of.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 119079,
+          "char_end": 119102,
+          "text": "this animal is abundant",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 140012,
+          "char_end": 140034,
+          "text": "fathers in their turns",
+          "role": "continuation"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 37972,
+          "char_end": 37985,
+          "text": "upper part of",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ed7086bb8971",
+      "sentence": "Be changed, and be, and looked across the.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 87532,
+          "char_end": 87550,
+          "text": "be changed, and be",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 33799,
+          "char_end": 33820,
+          "text": "and looked across the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "eb408c891c45",
+      "sentence": "If this is so, dreads death. Then, nothing.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 382541,
+          "char_end": 382554,
+          "text": "If this is so",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 42031,
+          "char_end": 42058,
+          "text": "dreads death. Then, nothing",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "59d8a1b6e558",
+      "sentence": "XXXVIII. \"Rhetoric\" (38): Rather \"the, cover the innocent Jesus, There is no.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 386866,
+          "char_end": 386903,
+          "text": "XXXVIII. \"Rhetoric\" (38): Rather \"the",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 68394,
+          "char_end": 68418,
+          "text": "cover the innocent Jesus",
+          "role": "continuation"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 40186,
+          "char_end": 40197,
+          "text": "There is no",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "3273b21782dc",
+      "sentence": "Attract his attention; but, what is it to.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 62130,
+          "char_end": 62156,
+          "text": "attract his attention; but",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 129413,
+          "char_end": 129426,
+          "text": "what is it to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "92b81cc9705d",
+      "sentence": "Danger of death. In, she grasped the axe.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 658968,
+          "char_end": 658987,
+          "text": "danger of death. In",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 233931,
+          "char_end": 233950,
+          "text": "she grasped the axe",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a8135312dc30",
+      "sentence": "Strange tongues around me, an easy coursing pace.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 257689,
+          "char_end": 257714,
+          "text": "strange tongues around me",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 487028,
+          "char_end": 487049,
+          "text": "an easy coursing pace",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0258e11ebc82",
+      "sentence": "No difficulty in attributing, que s'il vous arrive.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 44578,
+          "char_end": 44606,
+          "text": "no difficulty in attributing",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 12618,
+          "char_end": 12638,
+          "text": "que s'il vous arrive",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f65716058829",
+      "sentence": "Lest you drive an, now comprehends more felonies, the fact that.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 9935,
+          "char_end": 9952,
+          "text": "lest you drive an",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 44369,
+          "char_end": 44398,
+          "text": "now comprehends more felonies",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 406026,
+          "char_end": 406039,
+          "text": "the fact that",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "e3006ccaa530",
+      "sentence": "Work for her to, Can you guess whom, called) and I.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 13122,
+          "char_end": 13137,
+          "text": "work for her to",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 116273,
+          "char_end": 116291,
+          "text": "Can you guess whom",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 324093,
+          "char_end": 324106,
+          "text": "called) and I",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4a7171ee6905",
+      "sentence": "When the “lions write, POSTS AND RUNNERS ARE.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 19599,
+          "char_end": 19620,
+          "text": "when the “lions write",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 232837,
+          "char_end": 232858,
+          "text": "POSTS AND RUNNERS ARE",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8b5b958a06cd",
+      "sentence": "Time, and we shall, an addition to the, huddled together on.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 370610,
+          "char_end": 370628,
+          "text": "time, and we shall",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 280296,
+          "char_end": 280314,
+          "text": "an addition to the",
+          "role": "continuation"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 119575,
+          "char_end": 119594,
+          "text": "huddled together on",
+          "role": "closing"
+        }
+      ]
+    }
+  ]
+}
