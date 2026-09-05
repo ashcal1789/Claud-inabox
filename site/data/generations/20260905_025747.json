@@ -1,0 +1,578 @@
+{
+  "run_id": "20260905_025747",
+  "run_date": "2026-09-05T02:57:47.073122+00:00Z",
+  "seed": 876507886,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "ab2d90c220c5",
+      "sentence": "Miles off, pitching at, pertaining to my most.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 445746,
+          "char_end": 445768,
+          "text": "miles off, pitching at",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 185543,
+          "char_end": 185564,
+          "text": "pertaining to my most",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d6f4ef3d5f7b",
+      "sentence": "Tom I'll tell him, fille dont vous parlez.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 243782,
+          "char_end": 243799,
+          "text": "Tom I'll tell him",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 51587,
+          "char_end": 51609,
+          "text": "fille dont vous parlez",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "316721d88f5a",
+      "sentence": "Contraction which is externally, very edge of the.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 31717,
+          "char_end": 31748,
+          "text": "contraction which is externally",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 267892,
+          "char_end": 267908,
+          "text": "very edge of the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e76b7821eac2",
+      "sentence": "Overblown.--I had a, us, we wiped it.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 138820,
+          "char_end": 138839,
+          "text": "overblown.--I had a",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 503800,
+          "char_end": 503815,
+          "text": "us, we wiped it",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "11a0510c78a6",
+      "sentence": "Gently! gently!’ two strangers, again for a second.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 189675,
+          "char_end": 189705,
+          "text": "Gently! gently!’ two strangers",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 513259,
+          "char_end": 513277,
+          "text": "again for a second",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "353a11bfcbbc",
+      "sentence": "Each other, as these, few sheep, until the.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 130576,
+          "char_end": 130596,
+          "text": "each other, as these",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 73711,
+          "char_end": 73731,
+          "text": "few sheep, until the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "610b9d5fefe5",
+      "sentence": "Wins, and is crowned, solely by the laws, and translate them.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 356741,
+          "char_end": 356761,
+          "text": "wins, and is crowned",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 192625,
+          "char_end": 192643,
+          "text": "solely by the laws",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 87055,
+          "char_end": 87073,
+          "text": "and translate them",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "fbfa5e106455",
+      "sentence": "Morning, we were visited, to use them when.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 447425,
+          "char_end": 447449,
+          "text": "morning, we were visited",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 123443,
+          "char_end": 123459,
+          "text": "to use them when",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ddb93b263349",
+      "sentence": "Insensible to the voice, are rich; his profession, At four in.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 59655,
+          "char_end": 59678,
+          "text": "insensible to the voice",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 24151,
+          "char_end": 24175,
+          "text": "are rich; his profession",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 481430,
+          "char_end": 481440,
+          "text": "At four in",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "22cc500e46d0",
+      "sentence": "The same baseless dread, where any cause is.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 654343,
+          "char_end": 654366,
+          "text": "the same baseless dread",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 280563,
+          "char_end": 280581,
+          "text": "where any cause is",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ccbb0e3a839a",
+      "sentence": "Me for having robbed, and kept me young.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 184407,
+          "char_end": 184427,
+          "text": "me for having robbed",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 42812,
+          "char_end": 42829,
+          "text": "and kept me young",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "571dceb38eea",
+      "sentence": "Among the ancient trees, was too late for, conter, seigneur Lucentio.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 14802,
+          "char_end": 14825,
+          "text": "among the ancient trees",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 45850,
+          "char_end": 45866,
+          "text": "was too late for",
+          "role": "continuation"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 94749,
+          "char_end": 94774,
+          "text": "conter, seigneur Lucentio",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ce436901f2a2",
+      "sentence": "Is a pregnant woman, there really be a, we find such.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 78534,
+          "char_end": 78553,
+          "text": "is a pregnant woman",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 83333,
+          "char_end": 83350,
+          "text": "there really be a",
+          "role": "continuation"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 235109,
+          "char_end": 235121,
+          "text": "we find such",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "d2df556ecaa4",
+      "sentence": "The source of all, caught sight of his.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 91149,
+          "char_end": 91166,
+          "text": "the source of all",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 535660,
+          "char_end": 535679,
+          "text": "caught sight of his",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "718be2de0494",
+      "sentence": "Of Police Quin, Officers, which might be spanned, you fetch someone.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 183833,
+          "char_end": 183857,
+          "text": "of Police Quin, Officers",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 1624,
+          "char_end": 1646,
+          "text": "which might be spanned",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 514311,
+          "char_end": 514328,
+          "text": "you fetch someone",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "2c15aeeb48d8",
+      "sentence": "Information, and my oppressed, impossible. Now for a.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 255538,
+          "char_end": 255567,
+          "text": "information, and my oppressed",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 318789,
+          "char_end": 318810,
+          "text": "impossible. Now for a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "133629a833a5",
+      "sentence": "Softest limbs I feel, order to pay a.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 28812,
+          "char_end": 28832,
+          "text": "softest limbs I feel",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 627584,
+          "char_end": 627598,
+          "text": "order to pay a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3ca12d89ab90",
+      "sentence": "The whole distance on, to be a king.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 29459,
+          "char_end": 29480,
+          "text": "the whole distance on",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 35911,
+          "char_end": 35923,
+          "text": "to be a king",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "07d430ac1fb8",
+      "sentence": "Well--and tells me not, must be the end.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 434205,
+          "char_end": 434227,
+          "text": "well--and tells me not",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 143510,
+          "char_end": 143525,
+          "text": "must be the end",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1a389b95c53b",
+      "sentence": "A few minutes, to, thing we had never.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 379403,
+          "char_end": 379420,
+          "text": "a few minutes, to",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 504885,
+          "char_end": 504903,
+          "text": "thing we had never",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
