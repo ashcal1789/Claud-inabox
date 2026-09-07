@@ -1,0 +1,568 @@
+{
+  "run_id": "20260907_025454",
+  "run_date": "2026-09-07T02:54:54.245185+00:00Z",
+  "seed": 2641413036,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "15d627e149cc",
+      "sentence": "Would be impossible, if, or prattling of children.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 11887,
+          "char_end": 11910,
+          "text": "would be impossible, if",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 65456,
+          "char_end": 65480,
+          "text": "or prattling of children",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "48235274897e",
+      "sentence": "Of the first edition, Baptisms of Males exceed, of the poor.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 7432,
+          "char_end": 7452,
+          "text": "of the first edition",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 34505,
+          "char_end": 34529,
+          "text": "Baptisms of Males exceed",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 9903,
+          "char_end": 9914,
+          "text": "of the poor",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "8bda6892faba",
+      "sentence": "Answered the little tailor, in the very act.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 132592,
+          "char_end": 132618,
+          "text": "answered the little tailor",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 569372,
+          "char_end": 569387,
+          "text": "in the very act",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a7dd9245f55c",
+      "sentence": "And such almost is, it, for twenty minutes.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 217319,
+          "char_end": 217337,
+          "text": "And such almost is",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 43479,
+          "char_end": 43501,
+          "text": "it, for twenty minutes",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7629594bbad8",
+      "sentence": "Of credulity and delusion, only saw that the.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 244850,
+          "char_end": 244875,
+          "text": "of credulity and delusion",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 176762,
+          "char_end": 176779,
+          "text": "only saw that the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f602613c9edc",
+      "sentence": "By her, spoke of, For whom I robbed, their pupils that.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 98026,
+          "char_end": 98042,
+          "text": "by her, spoke of",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 30342,
+          "char_end": 30359,
+          "text": "For whom I robbed",
+          "role": "continuation"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 188896,
+          "char_end": 188913,
+          "text": "their pupils that",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "8cdaec377e7f",
+      "sentence": "Which time both have, and a cubic foot.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 447690,
+          "char_end": 447710,
+          "text": "which time both have",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 126086,
+          "char_end": 126102,
+          "text": "and a cubic foot",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a2fb6d9f0eab",
+      "sentence": "Thought, and not a, full of water. There.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 190853,
+          "char_end": 190871,
+          "text": "thought, and not a",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 27348,
+          "char_end": 27368,
+          "text": "full of water. There",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a41d5d409f2f",
+      "sentence": "And fast athwart and, man thus plodding ever.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 364978,
+          "char_end": 364998,
+          "text": "and fast athwart and",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 289868,
+          "char_end": 289890,
+          "text": "man thus plodding ever",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "344db3f7186f",
+      "sentence": "And applauded, and Harriet, band of music at, bereaved of light.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 151241,
+          "char_end": 151267,
+          "text": "and applauded, and Harriet",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 317186,
+          "char_end": 317202,
+          "text": "band of music at",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 3809,
+          "char_end": 3826,
+          "text": "bereaved of light",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "244fb4e4a180",
+      "sentence": "Over to his allies, a leaning towards a.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 360104,
+          "char_end": 360122,
+          "text": "over to his allies",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 211356,
+          "char_end": 211375,
+          "text": "a leaning towards a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "640c44b665ec",
+      "sentence": "S attendants pursued him, about to be put.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 494005,
+          "char_end": 494029,
+          "text": "s attendants pursued him",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 387499,
+          "char_end": 387514,
+          "text": "about to be put",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "30cea64b7227",
+      "sentence": "Have been found only, font plus qu'un, et.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 421222,
+          "char_end": 421242,
+          "text": "have been found only",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 90445,
+          "char_end": 90464,
+          "text": "font plus qu'un, et",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "322848b4929b",
+      "sentence": "The whole story with, phantoms crowd around me.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 319876,
+          "char_end": 319896,
+          "text": "the whole story with",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 636526,
+          "char_end": 636550,
+          "text": "phantoms crowd around me",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "352c248c39d0",
+      "sentence": "Likely to be the, the depot, the post-office.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 161552,
+          "char_end": 161568,
+          "text": "likely to be the",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 235005,
+          "char_end": 235031,
+          "text": "the depot, the post-office",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c8b352e8d5d5",
+      "sentence": "Qui sont tous les, of Kindred Terms; etymological.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 2691,
+          "char_end": 2708,
+          "text": "qui sont tous les",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 194317,
+          "char_end": 194347,
+          "text": "of Kindred Terms; etymological",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a70743438fa9",
+      "sentence": "His window. He went, he executed it, I.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 288850,
+          "char_end": 288869,
+          "text": "his window. He went",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 636394,
+          "char_end": 636411,
+          "text": "he executed it, I",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5390c2a4d75d",
+      "sentence": "Stone, who saw what, was you, Misery, who.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 116465,
+          "char_end": 116484,
+          "text": "stone, who saw what",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 197986,
+          "char_end": 198006,
+          "text": "was you, Misery, who",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e8941f5b3452",
+      "sentence": "Dared not disobey her, birds of the bush, his own master.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 230327,
+          "char_end": 230348,
+          "text": "dared not disobey her",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 2390,
+          "char_end": 2407,
+          "text": "birds of the bush",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 416059,
+          "char_end": 416073,
+          "text": "his own master",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "00aaa0d49121",
+      "sentence": "Of Port Desire, but, long from port.  We.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 396999,
+          "char_end": 397018,
+          "text": "of Port Desire, but",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 120909,
+          "char_end": 120928,
+          "text": "long from port.  We",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
