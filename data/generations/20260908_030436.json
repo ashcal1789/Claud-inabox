@@ -1,0 +1,588 @@
+{
+  "run_id": "20260908_030436",
+  "run_date": "2026-09-08T03:04:36.278854+00:00Z",
+  "seed": 1550173868,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "1659f406f92b",
+      "sentence": "Madam, is there nothing, contingency in the cause.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 10371,
+          "char_end": 10394,
+          "text": "madam, is there nothing",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 158952,
+          "char_end": 158976,
+          "text": "contingency in the cause",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1f021b5191b3",
+      "sentence": "Slavery, and a prayer, beard and stronger features.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 47481,
+          "char_end": 47502,
+          "text": "slavery, and a prayer",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 219073,
+          "char_end": 219100,
+          "text": "beard and stronger features",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "95ac9dc4abcc",
+      "sentence": "Feed and clothe herself, our course no better, has been cast.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 7743,
+          "char_end": 7766,
+          "text": "feed and clothe herself",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 123713,
+          "char_end": 123733,
+          "text": "our course no better",
+          "role": "continuation"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 4285,
+          "char_end": 4298,
+          "text": "has been cast",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "5fcbd9e1397a",
+      "sentence": "It belonged. It was, kindness from Lord Dalhousie.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 69129,
+          "char_end": 69148,
+          "text": "it belonged. It was",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 86173,
+          "char_end": 86201,
+          "text": "kindness from Lord Dalhousie",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ce6ce2ae992e",
+      "sentence": "Pleasure (III. xii.); in, to submit them to, her as, on.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 231842,
+          "char_end": 231866,
+          "text": "pleasure (III. xii.); in",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 255046,
+          "char_end": 255063,
+          "text": "to submit them to",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 169439,
+          "char_end": 169449,
+          "text": "her as, on",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "5bdea8227645",
+      "sentence": "Pierre, who was watching, rose did caper on.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 16597,
+          "char_end": 16621,
+          "text": "Pierre, who was watching",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 80460,
+          "char_end": 80477,
+          "text": "rose did caper on",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8c3a8bf4e2d2",
+      "sentence": "And to these virtues, it. Then she gazed.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 8657,
+          "char_end": 8677,
+          "text": "And to these virtues",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 240686,
+          "char_end": 240704,
+          "text": "it. Then she gazed",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "895ec486d1c9",
+      "sentence": "Upon his limbs! what, only sensible and valuable.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 12637,
+          "char_end": 12657,
+          "text": "upon his limbs! what",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 629741,
+          "char_end": 629767,
+          "text": "only sensible and valuable",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1c1257fb2dbd",
+      "sentence": "M'excuser; car si vous, sophistry, which are the.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 78680,
+          "char_end": 78702,
+          "text": "m'excuser; car si vous",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 9208,
+          "char_end": 9232,
+          "text": "sophistry, which are the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a07c6c718676",
+      "sentence": "Land is neither a, d laths, their white, the prospect of.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 111815,
+          "char_end": 111832,
+          "text": "land is neither a",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 106169,
+          "char_end": 106189,
+          "text": "d laths, their white",
+          "role": "continuation"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 596893,
+          "char_end": 596908,
+          "text": "the prospect of",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "903b1649f5b4",
+      "sentence": "Score. Still keep them, the carbonic acid. [In.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 620537,
+          "char_end": 620559,
+          "text": "score. Still keep them",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 158906,
+          "char_end": 158928,
+          "text": "the carbonic acid. [In",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "84d5a6d3eb46",
+      "sentence": "Secret which might enable, that a drink like.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 324927,
+          "char_end": 324952,
+          "text": "secret which might enable",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 335292,
+          "char_end": 335309,
+          "text": "that a drink like",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "172d94bc1e51",
+      "sentence": "Of his colleagues who, of having plenty of, facing death—if.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 359974,
+          "char_end": 359995,
+          "text": "of his colleagues who",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 52159,
+          "char_end": 52178,
+          "text": "of having plenty of",
+          "role": "continuation"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 55327,
+          "char_end": 55342,
+          "text": "facing death—if",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "110e85ada26d",
+      "sentence": "A pack of gray, is in port;--and, doubt of the.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 9636,
+          "char_end": 9650,
+          "text": "a pack of gray",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 202939,
+          "char_end": 202955,
+          "text": "is in port;--and",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 672887,
+          "char_end": 672899,
+          "text": "doubt of the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f9b0a2a43573",
+      "sentence": "Else? Well, we will, glow to their light-green.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 97869,
+          "char_end": 97888,
+          "text": "else? Well, we will",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 195626,
+          "char_end": 195651,
+          "text": "glow to their light-green",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8d2158e48d9f",
+      "sentence": "Very useful to the, que je possède une telle, stars the treble.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 391674,
+          "char_end": 391692,
+          "text": "very useful to the",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 19009,
+          "char_end": 19033,
+          "text": "que je possède une telle",
+          "role": "continuation"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 74902,
+          "char_end": 74918,
+          "text": "stars the treble",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "8dcd152d9af0",
+      "sentence": "Great and splendid city, Henry Jackson, also free.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 14460,
+          "char_end": 14483,
+          "text": "great and splendid city",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 63644,
+          "char_end": 63668,
+          "text": "Henry Jackson, also free",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e236192be1a5",
+      "sentence": "As Mr Cooper did, xiii.) is pleasure accompanied.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 185975,
+          "char_end": 185991,
+          "text": "as Mr Cooper did",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 234821,
+          "char_end": 234851,
+          "text": "xiii.) is pleasure accompanied",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c83c0e06f069",
+      "sentence": "Was called? We shall, entertain, therefore, any suspicion.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 52830,
+          "char_end": 52850,
+          "text": "was called? We shall",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 32767,
+          "char_end": 32802,
+          "text": "entertain, therefore, any suspicion",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "89b040878546",
+      "sentence": "So theatrically shrunk their, but to make the.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 108375,
+          "char_end": 108403,
+          "text": "so theatrically shrunk their",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 782810,
+          "char_end": 782825,
+          "text": "but to make the",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
