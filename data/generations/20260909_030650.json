@@ -1,0 +1,598 @@
+{
+  "run_id": "20260909_030650",
+  "run_date": "2026-09-09T03:06:50.623476+00:00Z",
+  "seed": 873384536,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "08ed25c732c2",
+      "sentence": "Be stirred into life, the livelong night beguiles, concealing nothing, and.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 60278,
+          "char_end": 60298,
+          "text": "be stirred into life",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 7936,
+          "char_end": 7963,
+          "text": "the livelong night beguiles",
+          "role": "continuation"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 232060,
+          "char_end": 232083,
+          "text": "concealing nothing, and",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "8dd324f3726c",
+      "sentence": "Late I have an, put on a pair.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 272110,
+          "char_end": 272124,
+          "text": "late I have an",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 523813,
+          "char_end": 523826,
+          "text": "put on a pair",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7b070fb3d042",
+      "sentence": "Spirit. On these occasions, their masters, each contending.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 358758,
+          "char_end": 358784,
+          "text": "spirit. On these occasions",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 56586,
+          "char_end": 56616,
+          "text": "their masters, each contending",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "eb0256e025bf",
+      "sentence": "Upon knowing what the, that wheel if I.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 167256,
+          "char_end": 167277,
+          "text": "upon knowing what the",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 212941,
+          "char_end": 212956,
+          "text": "that wheel if I",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "cd5616e4cc07",
+      "sentence": "The privilege of sanctioning, look at this table.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 128884,
+          "char_end": 128912,
+          "text": "the privilege of sanctioning",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 191906,
+          "char_end": 191924,
+          "text": "look at this table",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e2d75076615f",
+      "sentence": "Of the scarabaeus solstitialis, And not sit the.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 175959,
+          "char_end": 175989,
+          "text": "of the scarabaeus solstitialis",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 14116,
+          "char_end": 14131,
+          "text": "And not sit the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "630a92cc1cb2",
+      "sentence": "Of the Plata there, wood, and a small.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 313837,
+          "char_end": 313855,
+          "text": "of the Plata there",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 108418,
+          "char_end": 108435,
+          "text": "wood, and a small",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "26874c4463c5",
+      "sentence": "The peasant went about, weigh, and were not, Harriet's intention, for.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 208850,
+          "char_end": 208872,
+          "text": "the peasant went about",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 108652,
+          "char_end": 108671,
+          "text": "weigh, and were not",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 27544,
+          "char_end": 27568,
+          "text": "Harriet's intention, for",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "767c93bdb8ad",
+      "sentence": "Is what I stoutly, spring with all her, unintelligible. That the.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 45639,
+          "char_end": 45656,
+          "text": "is what I stoutly",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 45448,
+          "char_end": 45467,
+          "text": "spring with all her",
+          "role": "continuation"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 317915,
+          "char_end": 317939,
+          "text": "unintelligible. That the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "0d0a78c17b91",
+      "sentence": "Burma sent a friendly, lecture room, with a.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 83545,
+          "char_end": 83566,
+          "text": "Burma sent a friendly",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 297789,
+          "char_end": 297809,
+          "text": "lecture room, with a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "678b84ab0ae2",
+      "sentence": "Tried hard to break, from the men like.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 23681,
+          "char_end": 23700,
+          "text": "tried hard to break",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 95352,
+          "char_end": 95369,
+          "text": "from the men like",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a79c99337fc2",
+      "sentence": "Word of Comfort to, on account of the, form of eternity.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 315034,
+          "char_end": 315052,
+          "text": "word of Comfort to",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 255169,
+          "char_end": 255186,
+          "text": "on account of the",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 481869,
+          "char_end": 481885,
+          "text": "form of eternity",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "8fb01359e5ff",
+      "sentence": "The maimed may pause, hitherto thou hast lived.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 71685,
+          "char_end": 71705,
+          "text": "The maimed may pause",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 276432,
+          "char_end": 276456,
+          "text": "hitherto thou hast lived",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0a46d635b332",
+      "sentence": "You for yourself to, your eyes as well, ordered all the.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 248358,
+          "char_end": 248377,
+          "text": "you for yourself to",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 123424,
+          "char_end": 123441,
+          "text": "your eyes as well",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 287349,
+          "char_end": 287364,
+          "text": "ordered all the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "25f3e6344e19",
+      "sentence": "So blissful happy some, So much for the.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 636699,
+          "char_end": 636721,
+          "text": "So blissful happy some",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 9837,
+          "char_end": 9852,
+          "text": "So much for the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7ede13f1e6c9",
+      "sentence": "The upper class at, I had my dead.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 192313,
+          "char_end": 192331,
+          "text": "the upper class at",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 44147,
+          "char_end": 44160,
+          "text": "I had my dead",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "424cc7484af6",
+      "sentence": "Alighted. My annuals were, And when they came, on behind, one.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 432390,
+          "char_end": 432415,
+          "text": "alighted. My annuals were",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 287452,
+          "char_end": 287470,
+          "text": "And when they came",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 106252,
+          "char_end": 106266,
+          "text": "on behind, one",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "c9b441402e93",
+      "sentence": "But not all, both, mounds of the wife.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 123314,
+          "char_end": 123331,
+          "text": "but not all, both",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 564189,
+          "char_end": 564207,
+          "text": "mounds of the wife",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c746af602a08",
+      "sentence": "Handsome as Alenoushka was, them being probably the.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 254012,
+          "char_end": 254038,
+          "text": "handsome as Alenoushka was",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 130374,
+          "char_end": 130397,
+          "text": "them being probably the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "70014e7094bd",
+      "sentence": "A moment here and, light floated above the, no more space.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 528310,
+          "char_end": 528327,
+          "text": "a moment here and",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 14927,
+          "char_end": 14950,
+          "text": "light floated above the",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 380716,
+          "char_end": 380729,
+          "text": "no more space",
+          "role": "closing"
+        }
+      ]
+    }
+  ]
+}
