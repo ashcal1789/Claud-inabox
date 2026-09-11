@@ -1,0 +1,588 @@
+{
+  "run_id": "20260911_030124",
+  "run_date": "2026-09-11T03:01:24.931470+00:00Z",
+  "seed": 943715474,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "8c90dffb662b",
+      "sentence": "Want of particles which, xiii.) may be differently.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 49853,
+          "char_end": 49876,
+          "text": "want of particles which",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 263070,
+          "char_end": 263095,
+          "text": "xiii.) may be differently",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4edc6baad647",
+      "sentence": "And portion. A happy, cavalier,--et vous, ma.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 142456,
+          "char_end": 142476,
+          "text": "and portion. A happy",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 140982,
+          "char_end": 141004,
+          "text": "cavalier,--et vous, ma",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b49814efb69a",
+      "sentence": "Nor for myself--my own, his moustache was so, and because I.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 721186,
+          "char_end": 721208,
+          "text": "Nor for myself--my own",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 561077,
+          "char_end": 561097,
+          "text": "his moustache was so",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 355471,
+          "char_end": 355484,
+          "text": "and because I",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "2f3d342e90cc",
+      "sentence": "The _romantiques_ of their own, catch him, and heard.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 779118,
+          "char_end": 779148,
+          "text": "the _romantiques_ of their own",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 251041,
+          "char_end": 251061,
+          "text": "catch him, and heard",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0cb21634afe5",
+      "sentence": "Cycle, it may be, as we got to.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 164201,
+          "char_end": 164217,
+          "text": "cycle, it may be",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 185210,
+          "char_end": 185222,
+          "text": "as we got to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e262644ba90e",
+      "sentence": "Among the old folk, in amongst the ice, first years from.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 2584,
+          "char_end": 2602,
+          "text": "Among the old folk",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 89644,
+          "char_end": 89662,
+          "text": "in amongst the ice",
+          "role": "continuation"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 31490,
+          "char_end": 31506,
+          "text": "first years from",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "9bbf96c59efa",
+      "sentence": "Sometimes he helped the, for that neglect. I.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 35817,
+          "char_end": 35840,
+          "text": "Sometimes he helped the",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 348761,
+          "char_end": 348780,
+          "text": "for that neglect. I",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "106bda350769",
+      "sentence": "Thyself some one or, and if I take, vous ai jamais.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 291635,
+          "char_end": 291654,
+          "text": "thyself some one or",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 53550,
+          "char_end": 53563,
+          "text": "and if I take",
+          "role": "continuation"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 145318,
+          "char_end": 145332,
+          "text": "vous ai jamais",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f3fee22a407a",
+      "sentence": "Pleasure and pain; as, art, which is the.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 403422,
+          "char_end": 403443,
+          "text": "pleasure and pain; as",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 1897,
+          "char_end": 1914,
+          "text": "art, which is the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "255468c99b18",
+      "sentence": "The bird that is, was too true to.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 30176,
+          "char_end": 30192,
+          "text": "the bird that is",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 595840,
+          "char_end": 595855,
+          "text": "was too true to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "705971123f21",
+      "sentence": "Give me six cents, to answer, and, in.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 188385,
+          "char_end": 188402,
+          "text": "give me six cents",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 125664,
+          "char_end": 125682,
+          "text": "to answer, and, in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2788694a5d0d",
+      "sentence": "Was only sentenced to, themselves at the windows.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 215509,
+          "char_end": 215530,
+          "text": "was only sentenced to",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 13954,
+          "char_end": 13979,
+          "text": "themselves at the windows",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "75faa2d5646a",
+      "sentence": "My heart, and all, a menstruous woman; and.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 122433,
+          "char_end": 122450,
+          "text": "my heart, and all",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 676786,
+          "char_end": 676809,
+          "text": "a menstruous woman; and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "69b25ae3a4fd",
+      "sentence": "My right arm throws, them the whole day.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 252291,
+          "char_end": 252310,
+          "text": "my right arm throws",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 521924,
+          "char_end": 521942,
+          "text": "them the whole day",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5878f4b41a8f",
+      "sentence": "Like this is endless, at the time mentioned, the same to.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 146169,
+          "char_end": 146189,
+          "text": "like this is endless",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 208107,
+          "char_end": 208128,
+          "text": "at the time mentioned",
+          "role": "continuation"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 502267,
+          "char_end": 502278,
+          "text": "the same to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "6333704b0b43",
+      "sentence": "Erect, were decayed to, will prove to you.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 492741,
+          "char_end": 492763,
+          "text": "erect, were decayed to",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 62831,
+          "char_end": 62848,
+          "text": "will prove to you",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9f9b81c8fcb7",
+      "sentence": "Are of a pearly, fire-balls like the rest, He ate and.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 22386,
+          "char_end": 22401,
+          "text": "are of a pearly",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 89815,
+          "char_end": 89839,
+          "text": "fire-balls like the rest",
+          "role": "continuation"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 13732,
+          "char_end": 13742,
+          "text": "He ate and",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f76817b04963",
+      "sentence": "The next interpolation are, feel that this conscious.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 785565,
+          "char_end": 785591,
+          "text": "the next interpolation are",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 196548,
+          "char_end": 196572,
+          "text": "feel that this conscious",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "12ef7e2c0b63",
+      "sentence": "Piece of platinum-wire, you, that right, and it's, altogether unknown. This.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 195042,
+          "char_end": 195069,
+          "text": "piece of platinum-wire, you",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 138983,
+          "char_end": 139003,
+          "text": "that right, and it's",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 202015,
+          "char_end": 202039,
+          "text": "altogether unknown. This",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f79f8d9014ea",
+      "sentence": "In which the braces, knew the water well.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 411066,
+          "char_end": 411085,
+          "text": "in which the braces",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 30354,
+          "char_end": 30373,
+          "text": "knew the water well",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
