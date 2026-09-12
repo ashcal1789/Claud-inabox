@@ -1,0 +1,568 @@
+{
+  "run_id": "20260912_030844",
+  "run_date": "2026-09-12T03:08:44.803607+00:00Z",
+  "seed": 612027911,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "26004075ee1c",
+      "sentence": "Same figure as the, acquiesce), indulge a rash.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 376734,
+          "char_end": 376752,
+          "text": "same figure as the",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 260705,
+          "char_end": 260731,
+          "text": "acquiesce), indulge a rash",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f5ef54832cf0",
+      "sentence": "In certain respects, which, not hear how sweetly.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 145124,
+          "char_end": 145150,
+          "text": "in certain respects, which",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 174439,
+          "char_end": 174459,
+          "text": "not hear how sweetly",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "67d7069e27ae",
+      "sentence": "For employment in England, For if a disease-maker, And then I.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 106057,
+          "char_end": 106082,
+          "text": "for employment in England",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 652829,
+          "char_end": 652851,
+          "text": "For if a disease-maker",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 4847,
+          "char_end": 4857,
+          "text": "And then I",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "8ef77a065040",
+      "sentence": "The War, as of, hypocrites! for ye are.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 3400,
+          "char_end": 3414,
+          "text": "the War, as of",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 218868,
+          "char_end": 218890,
+          "text": "hypocrites! for ye are",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ff16ab1d0c39",
+      "sentence": "Favour of hiding than, monsieur, à moins que vous.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 278363,
+          "char_end": 278384,
+          "text": "favour of hiding than",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 47357,
+          "char_end": 47383,
+          "text": "monsieur, à moins que vous",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6582fd5afc40",
+      "sentence": "And then to learn, foregoing section, that, in.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 99112,
+          "char_end": 99129,
+          "text": "and then to learn",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 70359,
+          "char_end": 70386,
+          "text": "foregoing section, that, in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f331fb3bd18d",
+      "sentence": "The head of the, to the best advantage.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 126451,
+          "char_end": 126466,
+          "text": "the head of the",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 143150,
+          "char_end": 143171,
+          "text": "to the best advantage",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "425341d7e489",
+      "sentence": "Foam fly by her, blacks made signs to.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 730137,
+          "char_end": 730152,
+          "text": "foam fly by her",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 202667,
+          "char_end": 202687,
+          "text": "blacks made signs to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "60bbc7406689",
+      "sentence": "Lake in front of, are you my dear.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 76030,
+          "char_end": 76046,
+          "text": "lake in front of",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 426379,
+          "char_end": 426394,
+          "text": "are you my dear",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4a8f68988b84",
+      "sentence": "Inflamed, and this mediation, carcass of a putrid.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 363386,
+          "char_end": 363414,
+          "text": "inflamed, and this mediation",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 379735,
+          "char_end": 379754,
+          "text": "carcass of a putrid",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "142a20fdedd9",
+      "sentence": "A long time I, we were afraid of.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 27965,
+          "char_end": 27978,
+          "text": "a long time I",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 29820,
+          "char_end": 29837,
+          "text": "we were afraid of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "714ee91c02a2",
+      "sentence": "Died young or turned, write directly. I have.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 29376,
+          "char_end": 29396,
+          "text": "died young or turned",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 615392,
+          "char_end": 615414,
+          "text": "write directly. I have",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7c86e37a1f19",
+      "sentence": "In longitude, which was, my two were amply, and were especially.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 574566,
+          "char_end": 574589,
+          "text": "in longitude, which was",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 162160,
+          "char_end": 162177,
+          "text": "my two were amply",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 231785,
+          "char_end": 231804,
+          "text": "and were especially",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "2a355bf688c5",
+      "sentence": "Germany, it has a, in so far as.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 103320,
+          "char_end": 103337,
+          "text": "Germany, it has a",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 138734,
+          "char_end": 138746,
+          "text": "in so far as",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8539b1497a48",
+      "sentence": "On Another’s Sorrow, to her little cabin.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 739,
+          "char_end": 758,
+          "text": "On Another’s Sorrow",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 503891,
+          "char_end": 503910,
+          "text": "to her little cabin",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b8d9c3960543",
+      "sentence": "And their dress shows, that circumstance, in which.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 54817,
+          "char_end": 54838,
+          "text": "and their dress shows",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 144475,
+          "char_end": 144502,
+          "text": "that circumstance, in which",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d79490e42e03",
+      "sentence": "Eight o’clock. It, which hinders these objects.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 12820,
+          "char_end": 12837,
+          "text": "eight o’clock. It",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 76882,
+          "char_end": 76909,
+          "text": "which hinders these objects",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c74460b6526e",
+      "sentence": "Transference of Evil in, scarcely even in individuals, find a privacy.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 6810,
+          "char_end": 6833,
+          "text": "Transference of Evil in",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 155451,
+          "char_end": 155479,
+          "text": "scarcely even in individuals",
+          "role": "continuation"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 150952,
+          "char_end": 150966,
+          "text": "find a privacy",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f57be7ba21ec",
+      "sentence": "Room, with a heavy, Idiots.... philosophers (9). The reading.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 81301,
+          "char_end": 81319,
+          "text": "room, with a heavy",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 382275,
+          "char_end": 382315,
+          "text": "Idiots.... philosophers (9). The reading",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d5e25eb36bda",
+      "sentence": "The bleakness of my, CAT WHO BECAME HEAD-FORESTER, no stone is.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 131774,
+          "char_end": 131793,
+          "text": "the bleakness of my",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 2294,
+          "char_end": 2322,
+          "text": "CAT WHO BECAME HEAD-FORESTER",
+          "role": "continuation"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 160373,
+          "char_end": 160384,
+          "text": "no stone is",
+          "role": "closing"
+        }
+      ]
+    }
+  ]
+}
