@@ -1,0 +1,588 @@
+{
+  "run_id": "20260914_032339",
+  "run_date": "2026-09-14T03:23:39.712075+00:00Z",
+  "seed": 4222369243,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "1b3e548df83c",
+      "sentence": "Of the May-pole, the, birds, though insect-eaters, stay.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 403091,
+          "char_end": 403111,
+          "text": "of the May-pole, the",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 197142,
+          "char_end": 197175,
+          "text": "birds, though insect-eaters, stay",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "39525a2da975",
+      "sentence": "Sign. For which reason, Come, I will make.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 84926,
+          "char_end": 84948,
+          "text": "sign. For which reason",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 164834,
+          "char_end": 164851,
+          "text": "Come, I will make",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "58b8850b45d2",
+      "sentence": "Produces smoke; but if, speed industry’s campaigns, not scale. Decent.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 151195,
+          "char_end": 151217,
+          "text": "produces smoke; but if",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 286012,
+          "char_end": 286038,
+          "text": "speed industry’s campaigns",
+          "role": "continuation"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 25106,
+          "char_end": 25123,
+          "text": "not scale. Decent",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "427559d556e5",
+      "sentence": "Contrast but ill with, shall be our fuel, with sorrows small.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 54518,
+          "char_end": 54539,
+          "text": "contrast but ill with",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 56824,
+          "char_end": 56841,
+          "text": "shall be our fuel",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 13965,
+          "char_end": 13983,
+          "text": "with sorrows small",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "6471427a89c1",
+      "sentence": "Circulate above, and the, cut off his head.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 222061,
+          "char_end": 222085,
+          "text": "circulate above, and the",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 428651,
+          "char_end": 428667,
+          "text": "cut off his head",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "796a482c9017",
+      "sentence": "The spine, served to, and of course Mr.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 73022,
+          "char_end": 73042,
+          "text": "the spine, served to",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 689484,
+          "char_end": 689500,
+          "text": "and of course Mr",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "624619ea7b22",
+      "sentence": "A slave, ay, a, upwards and backwards, after, film, arm’d.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 3211,
+          "char_end": 3225,
+          "text": "a slave, ay, a",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 135648,
+          "char_end": 135676,
+          "text": "upwards and backwards, after",
+          "role": "continuation"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 696702,
+          "char_end": 696713,
+          "text": "film, arm’d",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "77aba0bc2db8",
+      "sentence": "Vapour that never condenses, space. I expected sooner.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 156696,
+          "char_end": 156723,
+          "text": "vapour that never condenses",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 692062,
+          "char_end": 692086,
+          "text": "space. I expected sooner",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "bef4d4d07927",
+      "sentence": "San Diego would reconcile, after dying hath had.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 525835,
+          "char_end": 525860,
+          "text": "San Diego would reconcile",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 92776,
+          "char_end": 92796,
+          "text": "after dying hath had",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "de8a1a2f6cf9",
+      "sentence": "So far as it, The sun was our, with red cheeks.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 481282,
+          "char_end": 481294,
+          "text": "so far as it",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 422,
+          "char_end": 437,
+          "text": "The sun was our",
+          "role": "continuation"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 53434,
+          "char_end": 53449,
+          "text": "with red cheeks",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "1a922b62a062",
+      "sentence": "The weeping parents wept, after him to console.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 27284,
+          "char_end": 27308,
+          "text": "The weeping parents wept",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 283153,
+          "char_end": 283173,
+          "text": "after him to console",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "20c1c4b5db7e",
+      "sentence": "Shade produces a distinct, guests came, I took.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 30458,
+          "char_end": 30483,
+          "text": "shade produces a distinct",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 248804,
+          "char_end": 248823,
+          "text": "guests came, I took",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b64c008e168f",
+      "sentence": "Down below the knees, your dinner in prospect.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 411117,
+          "char_end": 411137,
+          "text": "down below the knees",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 487777,
+          "char_end": 487800,
+          "text": "your dinner in prospect",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8d8afd70c219",
+      "sentence": "Toi, car ta femme, roused us up from.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 164799,
+          "char_end": 164816,
+          "text": "toi, car ta femme",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 81362,
+          "char_end": 81379,
+          "text": "roused us up from",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ab7322f07e11",
+      "sentence": "Of the Father and, Eight hundred poor wretches, from the above.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 159718,
+          "char_end": 159735,
+          "text": "of the Father and",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 105858,
+          "char_end": 105885,
+          "text": "Eight hundred poor wretches",
+          "role": "continuation"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 244661,
+          "char_end": 244675,
+          "text": "from the above",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "9f8e9de08b7a",
+      "sentence": "With sabres drawn and, his prospects, but for, shirt-sleeves, and stood.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 663699,
+          "char_end": 663720,
+          "text": "With sabres drawn and",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 105281,
+          "char_end": 105303,
+          "text": "his prospects, but for",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 319309,
+          "char_end": 319333,
+          "text": "shirt-sleeves, and stood",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "6f74df268440",
+      "sentence": "Rather than await so, as a monster, which.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 192724,
+          "char_end": 192744,
+          "text": "rather than await so",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 101496,
+          "char_end": 101515,
+          "text": "as a monster, which",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e2995a9b051d",
+      "sentence": "Against the tiles to, and beauty of old.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 31299,
+          "char_end": 31319,
+          "text": "against the tiles to",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 67055,
+          "char_end": 67072,
+          "text": "and beauty of old",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8276b6935e54",
+      "sentence": "The stove flew open, the vineyards, I mounted.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 165349,
+          "char_end": 165368,
+          "text": "the stove flew open",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 369550,
+          "char_end": 369574,
+          "text": "the vineyards, I mounted",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a452abdc431f",
+      "sentence": "And round a room, that were not fit.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 39749,
+          "char_end": 39765,
+          "text": "and round a room",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 314181,
+          "char_end": 314198,
+          "text": "that were not fit",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
