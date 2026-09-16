@@ -1,0 +1,558 @@
+{
+  "run_id": "20260916_032109",
+  "run_date": "2026-09-16T03:21:09.247414+00:00Z",
+  "seed": 1481392237,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "3273e2241de7",
+      "sentence": "Original déguisé pour contrefaire Vincentio, to as the, or.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 5844,
+          "char_end": 5887,
+          "text": "original déguisé pour contrefaire Vincentio",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 757543,
+          "char_end": 757556,
+          "text": "to as the, or",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e4125be83d68",
+      "sentence": "Aqueous vapour, it leaves, begin by saying, living.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 77650,
+          "char_end": 77675,
+          "text": "aqueous vapour, it leaves",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 86456,
+          "char_end": 86479,
+          "text": "begin by saying, living",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d866ac7afac6",
+      "sentence": "Too short for the, For as for this.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 304013,
+          "char_end": 304030,
+          "text": "too short for the",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 110289,
+          "char_end": 110304,
+          "text": "For as for this",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b1e7259ac495",
+      "sentence": "The frost beheads it, far given you the, perhaps he thought.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 32460,
+          "char_end": 32480,
+          "text": "The frost beheads it",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 148712,
+          "char_end": 148729,
+          "text": "far given you the",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 74118,
+          "char_end": 74136,
+          "text": "perhaps he thought",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f9eebfe71b01",
+      "sentence": "Careful to keep yourself, all his few faculties.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 690459,
+          "char_end": 690483,
+          "text": "careful to keep yourself",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 330667,
+          "char_end": 330688,
+          "text": "all his few faculties",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7f5fd12d4be0",
+      "sentence": "Aware that I was, for months, and knew, voice of song.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 19102,
+          "char_end": 19118,
+          "text": "aware that I was",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 227705,
+          "char_end": 227725,
+          "text": "for months, and knew",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 9784,
+          "char_end": 9797,
+          "text": "voice of song",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "b465a665dd1f",
+      "sentence": "Am not wise, when, arch, agreeable vanity peculiar, of my way.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 77522,
+          "char_end": 77539,
+          "text": "am not wise, when",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 258167,
+          "char_end": 258198,
+          "text": "arch, agreeable vanity peculiar",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 556172,
+          "char_end": 556181,
+          "text": "of my way",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "1ed4ce436e59",
+      "sentence": "Not stop for Death, one cannot in any.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 44201,
+          "char_end": 44219,
+          "text": "not stop for Death",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 447038,
+          "char_end": 447055,
+          "text": "one cannot in any",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "307e5ab67a0d",
+      "sentence": "Pampas, for months together, climb up out of.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 275102,
+          "char_end": 275129,
+          "text": "Pampas, for months together",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 601574,
+          "char_end": 601589,
+          "text": "climb up out of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "325e76a7c2b6",
+      "sentence": "To my feet, I, swaddling clothes, the girls.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 133126,
+          "char_end": 133139,
+          "text": "to my feet, I",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 42379,
+          "char_end": 42407,
+          "text": "swaddling clothes, the girls",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "653c9aac3f96",
+      "sentence": "With cunning skill to, edition of the travels.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 99715,
+          "char_end": 99736,
+          "text": "with cunning skill to",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 8353,
+          "char_end": 8375,
+          "text": "edition of the travels",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9aaca30e7efd",
+      "sentence": "Of the wild charms, great stroke in natural.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 261392,
+          "char_end": 261410,
+          "text": "of the wild charms",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 254120,
+          "char_end": 254143,
+          "text": "great stroke in natural",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "41fbd6709c4d",
+      "sentence": "And fanciful assertion will, we had passed some.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 370478,
+          "char_end": 370505,
+          "text": "and fanciful assertion will",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 362915,
+          "char_end": 362933,
+          "text": "we had passed some",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "dd7be1ef9aee",
+      "sentence": "Cannot get the weapon, their side.  On the.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 145791,
+          "char_end": 145812,
+          "text": "cannot get the weapon",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 328504,
+          "char_end": 328523,
+          "text": "their side.  On the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4287d576b1bb",
+      "sentence": "Mast-head from which the, to our own power.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 117605,
+          "char_end": 117629,
+          "text": "mast-head from which the",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 128298,
+          "char_end": 128314,
+          "text": "to our own power",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2631ae7584ab",
+      "sentence": "For him on the, than though we had.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 411388,
+          "char_end": 411402,
+          "text": "for him on the",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 172405,
+          "char_end": 172423,
+          "text": "than though we had",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2124e1dfc7ee",
+      "sentence": "Into the air, which, on board.  \"Sail ho.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 327698,
+          "char_end": 327717,
+          "text": "into the air, which",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 704963,
+          "char_end": 704982,
+          "text": "on board.  \"Sail ho",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "226def113f31",
+      "sentence": "On the same errand, recovered, he is high-spirited--I.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 568206,
+          "char_end": 568224,
+          "text": "on the same errand",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 231185,
+          "char_end": 231218,
+          "text": "recovered, he is high-spirited--I",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1bdd07c2e020",
+      "sentence": "Freeman, on the banks, their own who shut.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 13116,
+          "char_end": 13137,
+          "text": "freeman, on the banks",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 3665,
+          "char_end": 3683,
+          "text": "their own who shut",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a4a9c26f7fed",
+      "sentence": "Controversies have arisen from, fille; elle a des.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 165512,
+          "char_end": 165542,
+          "text": "controversies have arisen from",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 64874,
+          "char_end": 64891,
+          "text": "fille; elle a des",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
