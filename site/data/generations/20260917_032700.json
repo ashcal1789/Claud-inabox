@@ -1,0 +1,608 @@
+{
+  "run_id": "20260917_032700",
+  "run_date": "2026-09-17T03:27:00.836406+00:00Z",
+  "seed": 1633719543,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "4104fa88f59a",
+      "sentence": "An old nail cut, have felt its coolness.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 24980,
+          "char_end": 24995,
+          "text": "an old nail cut",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 25900,
+          "char_end": 25922,
+          "text": "have felt its coolness",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "946952e60e52",
+      "sentence": "Depth, which he had, The hours slid fast, is easy about.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 400787,
+          "char_end": 400806,
+          "text": "depth, which he had",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 5126,
+          "char_end": 5145,
+          "text": "The hours slid fast",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 160232,
+          "char_end": 160245,
+          "text": "is easy about",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "39b836c857d7",
+      "sentence": "Que je vous ai, ultimate principle of all.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 45516,
+          "char_end": 45530,
+          "text": "que je vous ai",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 327764,
+          "char_end": 327789,
+          "text": "ultimate principle of all",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "39b14db8a78f",
+      "sentence": "Will perceive the whole, time in continual feasting, public square, from.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 115850,
+          "char_end": 115873,
+          "text": "will perceive the whole",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 380351,
+          "char_end": 380377,
+          "text": "time in continual feasting",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 120395,
+          "char_end": 120414,
+          "text": "public square, from",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ae0df7725e46",
+      "sentence": "And whom I love, South America, the coast.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 183471,
+          "char_end": 183486,
+          "text": "and whom I love",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 148099,
+          "char_end": 148123,
+          "text": "South America, the coast",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "129a9bd07e69",
+      "sentence": "Was a source of, call them, which I, Yule to India.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 27497,
+          "char_end": 27512,
+          "text": "was a source of",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 38497,
+          "char_end": 38515,
+          "text": "call them, which I",
+          "role": "continuation"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 150753,
+          "char_end": 150766,
+          "text": "Yule to India",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "09a4198e50b7",
+      "sentence": "Afterwards; but at the, up into an agent, morning sun which.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 63403,
+          "char_end": 63425,
+          "text": "afterwards; but at the",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 637002,
+          "char_end": 637018,
+          "text": "up into an agent",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 149663,
+          "char_end": 149680,
+          "text": "morning sun which",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "2349e776e6b7",
+      "sentence": "Nature of Love and, the sprouts of the.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 211314,
+          "char_end": 211332,
+          "text": "nature of Love and",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 551262,
+          "char_end": 551280,
+          "text": "the sprouts of the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b48346132182",
+      "sentence": "To the world, the, and the smoke curled, lock thee in.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 450812,
+          "char_end": 450829,
+          "text": "to the world, the",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 537653,
+          "char_end": 537673,
+          "text": "and the smoke curled",
+          "role": "continuation"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 170448,
+          "char_end": 170460,
+          "text": "lock thee in",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f93b1d9e15a4",
+      "sentence": "With L. Verus, and, day are wasted in, to another benefice.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 347477,
+          "char_end": 347495,
+          "text": "with L. Verus, and",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 20242,
+          "char_end": 20259,
+          "text": "day are wasted in",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 184378,
+          "char_end": 184397,
+          "text": "to another benefice",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "14230c619e2f",
+      "sentence": "And thy desire, that, woman, a Baba Yaga.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 197389,
+          "char_end": 197409,
+          "text": "and thy desire, that",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 128828,
+          "char_end": 128846,
+          "text": "woman, a Baba Yaga",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5e4225a010a4",
+      "sentence": "Into Rome, and this, fly round the world.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 261315,
+          "char_end": 261334,
+          "text": "into Rome, and this",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 126929,
+          "char_end": 126948,
+          "text": "fly round the world",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "27dfafcd7545",
+      "sentence": "The service of the, merchants with their camels.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 261824,
+          "char_end": 261842,
+          "text": "the service of the",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 15187,
+          "char_end": 15214,
+          "text": "merchants with their camels",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a644cdcb2875",
+      "sentence": "Vous lui présente un bassin, am all in a, steps of the.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 10004,
+          "char_end": 10031,
+          "text": "vous lui présente un bassin",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 625236,
+          "char_end": 625247,
+          "text": "am all in a",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 22624,
+          "char_end": 22636,
+          "text": "steps of the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "9b148048fcb1",
+      "sentence": "And soon they all, sign of the cross.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 2628,
+          "char_end": 2645,
+          "text": "And soon they all",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 19304,
+          "char_end": 19321,
+          "text": "sign of the cross",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d3c0c632648d",
+      "sentence": "To meet at some, is not an easy.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 41620,
+          "char_end": 41635,
+          "text": "to meet at some",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 30777,
+          "char_end": 30791,
+          "text": "is not an easy",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7e4bcaf9d7fb",
+      "sentence": "Had raised, nor considering, I much doubt whether.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 103016,
+          "char_end": 103043,
+          "text": "had raised, nor considering",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 286158,
+          "char_end": 286178,
+          "text": "I much doubt whether",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "61f13416fd26",
+      "sentence": "Is well. Though thy, is in 30⅔° of latitude, which every beast.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 104818,
+          "char_end": 104837,
+          "text": "is well. Though thy",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 256690,
+          "char_end": 256712,
+          "text": "is in 30⅔° of latitude",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 498211,
+          "char_end": 498228,
+          "text": "which every beast",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "aa6264f4075d",
+      "sentence": "Allowed something else to, in with no disorderly.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 78116,
+          "char_end": 78141,
+          "text": "allowed something else to",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 68734,
+          "char_end": 68755,
+          "text": "in with no disorderly",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "bde54c9684dc",
+      "sentence": "And did she ever, all that day and.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 253829,
+          "char_end": 253845,
+          "text": "And did she ever",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 473635,
+          "char_end": 473651,
+          "text": "all that day and",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
