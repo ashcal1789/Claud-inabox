@@ -1,0 +1,558 @@
+{
+  "run_id": "20260921_032035",
+  "run_date": "2026-09-21T03:20:35.540753+00:00Z",
+  "seed": 1525953671,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "f5127aab0a5d",
+      "sentence": "The water, no longer, CATHERINE.--Son silence m'insulte.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 10553,
+          "char_end": 10573,
+          "text": "the water, no longer",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 56580,
+          "char_end": 56613,
+          "text": "CATHERINE.--Son silence m'insulte",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "51f3cb310263",
+      "sentence": "May also be regarded, snow and sleet, which.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 18810,
+          "char_end": 18830,
+          "text": "may also be regarded",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 89498,
+          "char_end": 89519,
+          "text": "snow and sleet, which",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d3564390cbd6",
+      "sentence": "Must necessarily tend to, summer bird of passage.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 135779,
+          "char_end": 135803,
+          "text": "must necessarily tend to",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 206998,
+          "char_end": 207020,
+          "text": "summer bird of passage",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "53c4cca76c87",
+      "sentence": "He only can understand, partake of my seat.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 140671,
+          "char_end": 140693,
+          "text": "He only can understand",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 84740,
+          "char_end": 84758,
+          "text": "partake of my seat",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5d980c479686",
+      "sentence": "Outlet for ships bound, more to me than, colour: russata (red.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 192719,
+          "char_end": 192741,
+          "text": "outlet for ships bound",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 208201,
+          "char_end": 208216,
+          "text": "more to me than",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 389956,
+          "char_end": 389976,
+          "text": "colour: russata (red",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "cc5005fabd4b",
+      "sentence": "To the waterways--the yards, reach so small a.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 779543,
+          "char_end": 779570,
+          "text": "to the waterways--the yards",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 115039,
+          "char_end": 115055,
+          "text": "reach so small a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ea87a0681e49",
+      "sentence": "Wrote to her immediately, incidents in Harriet's life.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 200980,
+          "char_end": 201004,
+          "text": "wrote to her immediately",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 158770,
+          "char_end": 158797,
+          "text": "incidents in Harriet's life",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6bcdd39ee42b",
+      "sentence": "Came up, and arched, and after a period.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 118081,
+          "char_end": 118100,
+          "text": "came up, and arched",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 137653,
+          "char_end": 137671,
+          "text": "and after a period",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9ca5900448c3",
+      "sentence": "The paper, I might, his anxiety about you.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 42486,
+          "char_end": 42504,
+          "text": "the paper, I might",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 334640,
+          "char_end": 334661,
+          "text": "his anxiety about you",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7454846b6360",
+      "sentence": "Adviser to the king, without strength, as feeble.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 324142,
+          "char_end": 324161,
+          "text": "adviser to the king",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 27797,
+          "char_end": 27824,
+          "text": "without strength, as feeble",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5d10c846a118",
+      "sentence": "Notion, after his aquatic, And, by His health.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 486520,
+          "char_end": 486545,
+          "text": "notion, after his aquatic",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 11085,
+          "char_end": 11103,
+          "text": "And, by His health",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5632d7aa37c8",
+      "sentence": "Or any of the, deny that this is.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 224751,
+          "char_end": 224764,
+          "text": "or any of the",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 261881,
+          "char_end": 261898,
+          "text": "deny that this is",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "cf78219eb3a1",
+      "sentence": "Mon amour, et mettez-vous, came and settled on.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 122382,
+          "char_end": 122407,
+          "text": "mon amour, et mettez-vous",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 115439,
+          "char_end": 115458,
+          "text": "came and settled on",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9658ad50bbe4",
+      "sentence": "Object as already in, seaboard, in which the.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 363448,
+          "char_end": 363468,
+          "text": "object as already in",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 206470,
+          "char_end": 206492,
+          "text": "seaboard, in which the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a2d8d000ab70",
+      "sentence": "The mediate cause of, of steam, the merry.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 192227,
+          "char_end": 192247,
+          "text": "the mediate cause of",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 249037,
+          "char_end": 249056,
+          "text": "of steam, the merry",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e0cecf7b273e",
+      "sentence": "To make up the, and not according to.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 306587,
+          "char_end": 306601,
+          "text": "to make up the",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 71001,
+          "char_end": 71021,
+          "text": "and not according to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f61db2fb8992",
+      "sentence": "Are my witnesses. For, on these banks, but, And weeping in.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 13108,
+          "char_end": 13129,
+          "text": "are my witnesses. For",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 540440,
+          "char_end": 540459,
+          "text": "on these banks, but",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 14857,
+          "char_end": 14871,
+          "text": "And weeping in",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "3e183220d35c",
+      "sentence": "Throwing overboard all that, belief that the grove, wiser than they.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 788592,
+          "char_end": 788619,
+          "text": "throwing overboard all that",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 33190,
+          "char_end": 33211,
+          "text": "belief that the grove",
+          "role": "continuation"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 82636,
+          "char_end": 82651,
+          "text": "wiser than they",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "c74a4fc9e0cf",
+      "sentence": "Ship, is steadied by, four red wheels, and.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 620960,
+          "char_end": 620980,
+          "text": "ship, is steadied by",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 112013,
+          "char_end": 112033,
+          "text": "four red wheels, and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "420148064e47",
+      "sentence": "That you are licking, delight and please me.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 114962,
+          "char_end": 114982,
+          "text": "that you are licking",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 46118,
+          "char_end": 46139,
+          "text": "delight and please me",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
