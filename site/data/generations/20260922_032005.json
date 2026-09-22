@@ -1,0 +1,578 @@
+{
+  "run_id": "20260922_032005",
+  "run_date": "2026-09-22T03:20:05.500477+00:00Z",
+  "seed": 524834403,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "a877fd7a7b68",
+      "sentence": "Purpose of giving out, went and saluted the, adding to his.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 44628,
+          "char_end": 44649,
+          "text": "purpose of giving out",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 392782,
+          "char_end": 392802,
+          "text": "went and saluted the",
+          "role": "continuation"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 117945,
+          "char_end": 117958,
+          "text": "adding to his",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "581a0be1b5bf",
+      "sentence": "Essence, is an eternal, a long tail. When.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 41090,
+          "char_end": 41112,
+          "text": "essence, is an eternal",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 186709,
+          "char_end": 186726,
+          "text": "a long tail. When",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "13ea0d7f72b4",
+      "sentence": "Were six pigs in, Not Luther before the, a little cloudy.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 554476,
+          "char_end": 554492,
+          "text": "were six pigs in",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 54601,
+          "char_end": 54622,
+          "text": "Not Luther before the",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 175792,
+          "char_end": 175807,
+          "text": "a little cloudy",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4e099edbd7b6",
+      "sentence": "To succeed in this, so commonly enacted upon.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 9895,
+          "char_end": 9913,
+          "text": "to succeed in this",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 79934,
+          "char_end": 79958,
+          "text": "so commonly enacted upon",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "541cfffd8f21",
+      "sentence": "And night--love, that is, all our might. And, je voudrais que.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 636862,
+          "char_end": 636886,
+          "text": "and night--love, that is",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 36299,
+          "char_end": 36317,
+          "text": "all our might. And",
+          "role": "continuation"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 152061,
+          "char_end": 152076,
+          "text": "je voudrais que",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "b64e80ad87c1",
+      "sentence": "To it, by its, other insects makes the.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 136520,
+          "char_end": 136533,
+          "text": "to it, by its",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 371347,
+          "char_end": 371370,
+          "text": "other insects makes the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "224fd08abf12",
+      "sentence": "The town drove with, glow like bright bouquet.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 207935,
+          "char_end": 207954,
+          "text": "the town drove with",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 147230,
+          "char_end": 147254,
+          "text": "glow like bright bouquet",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f340f91a0398",
+      "sentence": "In heathen, Turk, or, duties of his office.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 9133,
+          "char_end": 9153,
+          "text": "In heathen, Turk, or",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 96972,
+          "char_end": 96992,
+          "text": "duties of his office",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e700882510eb",
+      "sentence": "Snow girl played in, amidships.  He took no.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 128564,
+          "char_end": 128583,
+          "text": "snow girl played in",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 304775,
+          "char_end": 304797,
+          "text": "amidships.  He took no",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "137bc3f166e3",
+      "sentence": "Servant, which was disobeyed, love: and love is.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 17385,
+          "char_end": 17413,
+          "text": "servant, which was disobeyed",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 255140,
+          "char_end": 255157,
+          "text": "love: and love is",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "aa70d6e58355",
+      "sentence": "Siphon on the under, But the house alone--that.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 19907,
+          "char_end": 19926,
+          "text": "siphon on the under",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 506564,
+          "char_end": 506589,
+          "text": "But the house alone--that",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "abeeb1132116",
+      "sentence": "For half a rod, ancienne franchise, et pour, produce are much.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 528202,
+          "char_end": 528216,
+          "text": "for half a rod",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 32651,
+          "char_end": 32678,
+          "text": "ancienne franchise, et pour",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 75108,
+          "char_end": 75124,
+          "text": "produce are much",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f35453ed200e",
+      "sentence": "Arrive at the island, is very old and.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 325427,
+          "char_end": 325447,
+          "text": "arrive at the island",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 140777,
+          "char_end": 140792,
+          "text": "is very old and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "56c78c101ec9",
+      "sentence": "Night was wide, and, my sweet love bequeath, the brain continued.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 79420,
+          "char_end": 79439,
+          "text": "night was wide, and",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 605688,
+          "char_end": 605710,
+          "text": "my sweet love bequeath",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 19994,
+          "char_end": 20013,
+          "text": "the brain continued",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "072e56d8eee9",
+      "sentence": "Let us look a, I never varied from.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 25460,
+          "char_end": 25473,
+          "text": "let us look a",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 714347,
+          "char_end": 714366,
+          "text": "I never varied from",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "83aa4e926eb7",
+      "sentence": "It has a much, and as I did.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 226838,
+          "char_end": 226851,
+          "text": "it has a much",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 137910,
+          "char_end": 137922,
+          "text": "and as I did",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "509756d18401",
+      "sentence": "Attention. I like Davenport, reason. Our most holy.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 455015,
+          "char_end": 455042,
+          "text": "attention. I like Davenport",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 251992,
+          "char_end": 252013,
+          "text": "reason. Our most holy",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "350b7d6f0d00",
+      "sentence": "Of the meteors, and, shew you the second.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 48749,
+          "char_end": 48768,
+          "text": "of the meteors, and",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 152733,
+          "char_end": 152752,
+          "text": "shew you the second",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "69550c10fcea",
+      "sentence": "She had left for, the Fool with presents.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 380835,
+          "char_end": 380851,
+          "text": "she had left for",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 85648,
+          "char_end": 85670,
+          "text": "the Fool with presents",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "732a73e1a60d",
+      "sentence": "Blue water. The elder, acquaintances, they whom I.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 328450,
+          "char_end": 328471,
+          "text": "blue water. The elder",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 299007,
+          "char_end": 299033,
+          "text": "acquaintances, they whom I",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
