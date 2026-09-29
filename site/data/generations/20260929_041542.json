@@ -1,0 +1,578 @@
+{
+  "run_id": "20260929_041542",
+  "run_date": "2026-09-29T04:15:42.322702+00:00Z",
+  "seed": 3453808445,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "afa285929fba",
+      "sentence": "Living for a twelvemonth, it. As to the.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 169621,
+          "char_end": 169645,
+          "text": "living for a twelvemonth",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 352613,
+          "char_end": 352626,
+          "text": "it. As to the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0568c7e725fe",
+      "sentence": "To the eastward, with, came at last to, he was advancing.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 706711,
+          "char_end": 706732,
+          "text": "to the eastward, with",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 185671,
+          "char_end": 185686,
+          "text": "came at last to",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 295497,
+          "char_end": 295513,
+          "text": "he was advancing",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "87c43f290b38",
+      "sentence": "Found ourselves in the, out by an invisible.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 26863,
+          "char_end": 26885,
+          "text": "found ourselves in the",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 187609,
+          "char_end": 187628,
+          "text": "out by an invisible",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c33b18f2728d",
+      "sentence": "On his shoulders down, men I knew. He.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 19072,
+          "char_end": 19093,
+          "text": "On his shoulders down",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 660158,
+          "char_end": 660172,
+          "text": "men I knew. He",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8afc8f4a167d",
+      "sentence": "Roamed about, and she, a dramatic _heuva_, or _play_, in.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 28926,
+          "char_end": 28947,
+          "text": "roamed about, and she",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 305993,
+          "char_end": 306026,
+          "text": "a dramatic _heuva_, or _play_, in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6affccb081dd",
+      "sentence": "Ready for any urgent, the door, dear children.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 241382,
+          "char_end": 241402,
+          "text": "ready for any urgent",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 297455,
+          "char_end": 297478,
+          "text": "the door, dear children",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "79bd05ed6276",
+      "sentence": "Was because she looked, feels pleasure: and that.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 54007,
+          "char_end": 54029,
+          "text": "was because she looked",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 269155,
+          "char_end": 269179,
+          "text": "feels pleasure: and that",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "869bc8df94f2",
+      "sentence": "I could go, not, not merely after their, the judge judges.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 244245,
+          "char_end": 244260,
+          "text": "I could go, not",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 302546,
+          "char_end": 302568,
+          "text": "not merely after their",
+          "role": "continuation"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 478210,
+          "char_end": 478226,
+          "text": "the judge judges",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "d8311b67b528",
+      "sentence": "Them, the scenery is, his people, and did, of extortion and.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 90882,
+          "char_end": 90902,
+          "text": "them, the scenery is",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 489830,
+          "char_end": 489849,
+          "text": "his people, and did",
+          "role": "continuation"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 218806,
+          "char_end": 218822,
+          "text": "of extortion and",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "073d59bf1ceb",
+      "sentence": "Spirit, the doctor brought, his bridle-hand, and in.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 595257,
+          "char_end": 595283,
+          "text": "spirit, the doctor brought",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 103937,
+          "char_end": 103960,
+          "text": "his bridle-hand, and in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8c82e392136a",
+      "sentence": "Bravery, and her untiring, already use to calculate.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 99257,
+          "char_end": 99282,
+          "text": "bravery, and her untiring",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 173658,
+          "char_end": 173682,
+          "text": "already use to calculate",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "306087ba5590",
+      "sentence": "With their pictures, and, two children be neglected.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 628155,
+          "char_end": 628179,
+          "text": "with their pictures, and",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 305535,
+          "char_end": 305560,
+          "text": "two children be neglected",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7b5f40146dac",
+      "sentence": "To the mere shimmer, bird’s throat.—Shakespeare, of the understanding.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 886452,
+          "char_end": 886471,
+          "text": "to the mere shimmer",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 207321,
+          "char_end": 207347,
+          "text": "bird’s throat.—Shakespeare",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 241200,
+          "char_end": 241220,
+          "text": "of the understanding",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "5d1ed2098a44",
+      "sentence": "Of the cross. Bewildered, be no bad thing.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 28891,
+          "char_end": 28915,
+          "text": "of the cross. Bewildered",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 716088,
+          "char_end": 716103,
+          "text": "be no bad thing",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c40b4a5bc757",
+      "sentence": "To make my feelings, exaggerations, such wholesale misstatements.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 112240,
+          "char_end": 112259,
+          "text": "to make my feelings",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 14739,
+          "char_end": 14782,
+          "text": "exaggerations, such wholesale misstatements",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a511fd4725d0",
+      "sentence": "The wood, but none, jubilee beyond crowning of.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 187927,
+          "char_end": 187945,
+          "text": "the wood, but none",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 54572,
+          "char_end": 54598,
+          "text": "jubilee beyond crowning of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "abb98424f9cf",
+      "sentence": "A boat, and from, real distance, we shall.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 517612,
+          "char_end": 517628,
+          "text": "a boat, and from",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 325199,
+          "char_end": 325222,
+          "text": "real distance, we shall",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "018e9596c215",
+      "sentence": "Seeds, not for food, of the Biremes and.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 346000,
+          "char_end": 346019,
+          "text": "seeds, not for food",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 334874,
+          "char_end": 334892,
+          "text": "of the Biremes and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "46bf9ff086c0",
+      "sentence": "Not a good _man_ to, am also the soldier, Earth, O Earth.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 131195,
+          "char_end": 131214,
+          "text": "not a good _man_ to",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 479293,
+          "char_end": 479312,
+          "text": "am also the soldier",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 14973,
+          "char_end": 14987,
+          "text": "Earth, O Earth",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "dbd57e523e0a",
+      "sentence": "We examine, and the, at the Methodist Church.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 37744,
+          "char_end": 37763,
+          "text": "we examine, and the",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 138515,
+          "char_end": 138538,
+          "text": "at the Methodist Church",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
