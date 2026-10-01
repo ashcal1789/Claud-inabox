@@ -1,0 +1,598 @@
+{
+  "run_id": "20261001_041058",
+  "run_date": "2026-10-01T04:10:58.655622+00:00Z",
+  "seed": 1111371948,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "e2feb1478aab",
+      "sentence": "And put the ring, you take a little.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 423778,
+          "char_end": 423794,
+          "text": "and put the ring",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 13122,
+          "char_end": 13139,
+          "text": "you take a little",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "cf488a058e2e",
+      "sentence": "Several very spirited remonstrances, than that, so long.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 182817,
+          "char_end": 182852,
+          "text": "several very spirited remonstrances",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 90250,
+          "char_end": 90268,
+          "text": "than that, so long",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "754c5c36d59f",
+      "sentence": "Eternal and infinite intellect, are a pretty girl, chief of Tabali.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 495688,
+          "char_end": 495718,
+          "text": "eternal and infinite intellect",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 206215,
+          "char_end": 206232,
+          "text": "are a pretty girl",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 768904,
+          "char_end": 768919,
+          "text": "chief of Tabali",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "a8c08582ba5b",
+      "sentence": "Say one word against, had veiled the pole.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 203878,
+          "char_end": 203898,
+          "text": "say one word against",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 26390,
+          "char_end": 26409,
+          "text": "had veiled the pole",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7e2d3e226cc2",
+      "sentence": "Thickness of the wall, his office to protect, Some would find.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 139934,
+          "char_end": 139955,
+          "text": "thickness of the wall",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 329827,
+          "char_end": 329848,
+          "text": "his office to protect",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 567852,
+          "char_end": 567867,
+          "text": "Some would find",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "5de2c8459e84",
+      "sentence": "Around Cape Horn, where, son nom, bien garnie, chief importance in.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 273089,
+          "char_end": 273112,
+          "text": "around Cape Horn, where",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 89302,
+          "char_end": 89322,
+          "text": "son nom, bien garnie",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 19951,
+          "char_end": 19970,
+          "text": "chief importance in",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "7309c073bff9",
+      "sentence": "For fact to what, of the votes, as.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 214977,
+          "char_end": 214993,
+          "text": "for fact to what",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 72330,
+          "char_end": 72346,
+          "text": "of the votes, as",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5871b6b081b3",
+      "sentence": "Said he.  \"If you, afterward ascertained to be, expect it. All.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 500410,
+          "char_end": 500427,
+          "text": "said he.  \"If you",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 202534,
+          "char_end": 202561,
+          "text": "afterward ascertained to be",
+          "role": "continuation"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 141963,
+          "char_end": 141977,
+          "text": "expect it. All",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ad7780a2856f",
+      "sentence": "Objects? A man who, are too broad to, menace. Ravens, beside.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 191443,
+          "char_end": 191461,
+          "text": "objects? A man who",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 68186,
+          "char_end": 68202,
+          "text": "are too broad to",
+          "role": "continuation"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 391240,
+          "char_end": 391262,
+          "text": "menace. Ravens, beside",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ebd894fbe834",
+      "sentence": "That. He would have, it hath long since.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 70521,
+          "char_end": 70540,
+          "text": "that. He would have",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 130896,
+          "char_end": 130914,
+          "text": "it hath long since",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "691aa68b08ad",
+      "sentence": "Principles for themselves to, reason of the currents.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 240688,
+          "char_end": 240716,
+          "text": "principles for themselves to",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 46100,
+          "char_end": 46122,
+          "text": "reason of the currents",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9da8145f3a7f",
+      "sentence": "And bathe this afternoon, you will be instantly.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 248379,
+          "char_end": 248403,
+          "text": "and bathe this afternoon",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 38678,
+          "char_end": 38699,
+          "text": "you will be instantly",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "cc014379c2a4",
+      "sentence": "And the people are, five were trotting thus, the day--at night.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 153481,
+          "char_end": 153499,
+          "text": "and the people are",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 392765,
+          "char_end": 392788,
+          "text": "five were trotting thus",
+          "role": "continuation"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 14165,
+          "char_end": 14182,
+          "text": "the day--at night",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "c30500b1f963",
+      "sentence": "He just turned round, occurrence!—fortunate for the, interfered as arbiter.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 316760,
+          "char_end": 316780,
+          "text": "He just turned round",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 1416,
+          "char_end": 1445,
+          "text": "occurrence!—fortunate for the",
+          "role": "continuation"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 363290,
+          "char_end": 363311,
+          "text": "interfered as arbiter",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "556ce528f7f5",
+      "sentence": "Else because he conceives, the blood ceased to.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 294970,
+          "char_end": 294995,
+          "text": "else because he conceives",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 51145,
+          "char_end": 51164,
+          "text": "the blood ceased to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "675d0fe15fb2",
+      "sentence": "When the stars threw, bottle, is a quantity.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 21968,
+          "char_end": 21988,
+          "text": "When the stars threw",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 62426,
+          "char_end": 62447,
+          "text": "bottle, is a quantity",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6ac218a5581d",
+      "sentence": "Seen at that season, becomes impossible for them.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 410051,
+          "char_end": 410070,
+          "text": "seen at that season",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 3426,
+          "char_end": 3453,
+          "text": "becomes impossible for them",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e4bac5018724",
+      "sentence": "The great house one, not had time to.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 14286,
+          "char_end": 14305,
+          "text": "the great house one",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 231800,
+          "char_end": 231815,
+          "text": "not had time to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a9da7bfc50f2",
+      "sentence": "Us, and a plenty, besought the Prince of.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 662169,
+          "char_end": 662185,
+          "text": "us, and a plenty",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 389047,
+          "char_end": 389069,
+          "text": "besought the Prince of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "592944c66fc9",
+      "sentence": "Gutenberg.org), you must, hours! God was not.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 172848,
+          "char_end": 172872,
+          "text": "gutenberg.org), you must",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 16220,
+          "char_end": 16238,
+          "text": "hours! God was not",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
