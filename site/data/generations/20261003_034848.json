@@ -1,0 +1,588 @@
+{
+  "run_id": "20261003_034848",
+  "run_date": "2026-10-03T03:48:48.527158+00:00Z",
+  "seed": 4185915016,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "4b84265a5441",
+      "sentence": "If the evil did, where there was an, that relation is.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 291237,
+          "char_end": 291252,
+          "text": "if the evil did",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 245407,
+          "char_end": 245425,
+          "text": "where there was an",
+          "role": "continuation"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 59311,
+          "char_end": 59327,
+          "text": "that relation is",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ceba6f7c98b5",
+      "sentence": "Conclusion being once firmly, irregular arm at the, since my return.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 198221,
+          "char_end": 198249,
+          "text": "conclusion being once firmly",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 52766,
+          "char_end": 52786,
+          "text": "irregular arm at the",
+          "role": "continuation"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 3983,
+          "char_end": 3998,
+          "text": "since my return",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "7e1c6166ffdf",
+      "sentence": "And ask it for, know that if a.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 227972,
+          "char_end": 227986,
+          "text": "and ask it for",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 47325,
+          "char_end": 47339,
+          "text": "know that if a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "771a213ded43",
+      "sentence": "A bath of mercury, part of the king.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 213124,
+          "char_end": 213141,
+          "text": "a bath of mercury",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 491143,
+          "char_end": 491159,
+          "text": "part of the king",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a4c72292cf86",
+      "sentence": "Seal I had ever, midshipman (who was a.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 251494,
+          "char_end": 251509,
+          "text": "seal I had ever",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 909384,
+          "char_end": 909405,
+          "text": "midshipman (who was a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f06e4f48b511",
+      "sentence": "Seen in this neighbourhood, the two guards dismounted.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 70904,
+          "char_end": 70930,
+          "text": "seen in this neighbourhood",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 434965,
+          "char_end": 434990,
+          "text": "the two guards dismounted",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7387f09f4223",
+      "sentence": "Times when he was, began first to dig.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 9390,
+          "char_end": 9407,
+          "text": "times when he was",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 246386,
+          "char_end": 246404,
+          "text": "began first to dig",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a8eceae33f77",
+      "sentence": "Thy conversation; nor to, Lily white shall in.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 233318,
+          "char_end": 233342,
+          "text": "thy conversation; nor to",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 22977,
+          "char_end": 22996,
+          "text": "Lily white shall in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "913fcae33b35",
+      "sentence": "Time, and indeed that, by reason, and by.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 457785,
+          "char_end": 457806,
+          "text": "time, and indeed that",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 291818,
+          "char_end": 291835,
+          "text": "by reason, and by",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "aa84cfef490f",
+      "sentence": "Excuse could shield them, A Thunder-Storm,\" \"The Humming-Bird, up her back.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 51466,
+          "char_end": 51490,
+          "text": "excuse could shield them",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 52470,
+          "char_end": 52505,
+          "text": "A Thunder-Storm,\" \"The Humming-Bird",
+          "role": "continuation"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 7399,
+          "char_end": 7410,
+          "text": "up her back",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "58509211593f",
+      "sentence": "Thee, hardly to comprehend, and sometimes as at, with the voice.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 622677,
+          "char_end": 622703,
+          "text": "thee, hardly to comprehend",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 369306,
+          "char_end": 369325,
+          "text": "and sometimes as at",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 7094,
+          "char_end": 7108,
+          "text": "with the voice",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "986c468c07e3",
+      "sentence": "Fitting themselves for it, the belle of the.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 87961,
+          "char_end": 87986,
+          "text": "fitting themselves for it",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 271108,
+          "char_end": 271124,
+          "text": "the belle of the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2760386dd1cb",
+      "sentence": "I had of Mr, not both together.  His, Termed Thanksgiving day.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 163490,
+          "char_end": 163501,
+          "text": "I had of Mr",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 160185,
+          "char_end": 160208,
+          "text": "not both together.  His",
+          "role": "continuation"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 139614,
+          "char_end": 139637,
+          "text": "Termed Thanksgiving day",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "fc4cb72e1bab",
+      "sentence": "Waiting till old Babka, the motions of boldness.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 351196,
+          "char_end": 351218,
+          "text": "waiting till old Babka",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 446667,
+          "char_end": 446690,
+          "text": "the motions of boldness",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "70f7148459e3",
+      "sentence": "Of discussion. There are, hasty advances. Lord Cobham.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 101688,
+          "char_end": 101712,
+          "text": "of discussion. There are",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 364828,
+          "char_end": 364855,
+          "text": "hasty advances. Lord Cobham",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "29f27ffe173e",
+      "sentence": "From sunrise till noon, comme je sais qu'elle.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 196419,
+          "char_end": 196441,
+          "text": "from sunrise till noon",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 28735,
+          "char_end": 28756,
+          "text": "comme je sais qu'elle",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3ffcd73c3b40",
+      "sentence": "To him than to, thunderings the seats of, Porch of St.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 259982,
+          "char_end": 259996,
+          "text": "to him than to",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 9818,
+          "char_end": 9842,
+          "text": "thunderings the seats of",
+          "role": "continuation"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 245605,
+          "char_end": 245616,
+          "text": "Porch of St",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f013332fbeb0",
+      "sentence": "Nymphs or by any, jar of this gas.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 52632,
+          "char_end": 52648,
+          "text": "nymphs or by any",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 110178,
+          "char_end": 110193,
+          "text": "jar of this gas",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6c47b5e65d2e",
+      "sentence": "All attached to certain, un message en une.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 87472,
+          "char_end": 87495,
+          "text": "all attached to certain",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 315940,
+          "char_end": 315957,
+          "text": "un message en une",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2f03aaa11762",
+      "sentence": "Once more, a manifestation, you do not go.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 180220,
+          "char_end": 180246,
+          "text": "once more, a manifestation",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 94336,
+          "char_end": 94349,
+          "text": "you do not go",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
