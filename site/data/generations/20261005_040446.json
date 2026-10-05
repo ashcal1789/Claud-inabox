@@ -1,0 +1,598 @@
+{
+  "run_id": "20261005_040446",
+  "run_date": "2026-10-05T04:04:46.880872+00:00Z",
+  "seed": 4128734932,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "59094d149a53",
+      "sentence": "God each hour of, a man was introduced.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 122796,
+          "char_end": 122812,
+          "text": "God each hour of",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 913768,
+          "char_end": 913788,
+          "text": "a man was introduced",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8d12d12d9783",
+      "sentence": "To guess who is, part; and of this, this century, in.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 425973,
+          "char_end": 425988,
+          "text": "to guess who is",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 86613,
+          "char_end": 86630,
+          "text": "part; and of this",
+          "role": "continuation"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 2644,
+          "char_end": 2660,
+          "text": "this century, in",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4f422286244b",
+      "sentence": "Hand, that the part, at the stars, which.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 407676,
+          "char_end": 407695,
+          "text": "hand, that the part",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 614946,
+          "char_end": 614965,
+          "text": "at the stars, which",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ae3a047b44d3",
+      "sentence": "Might preach, and drink, To take us lands.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 23974,
+          "char_end": 23997,
+          "text": "might preach, and drink",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 127854,
+          "char_end": 127870,
+          "text": "To take us lands",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "16ca87d01778",
+      "sentence": "J'ai vu la beauté dans, see that I am.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 33138,
+          "char_end": 33160,
+          "text": "j'ai vu la beauté dans",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 535946,
+          "char_end": 535959,
+          "text": "see that I am",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0c1015cd2a3f",
+      "sentence": "And I have been, from it in all, who are said.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 4694,
+          "char_end": 4709,
+          "text": "and I have been",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 176542,
+          "char_end": 176556,
+          "text": "from it in all",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 60231,
+          "char_end": 60243,
+          "text": "who are said",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "6062eb95e7a7",
+      "sentence": "Water, and which must, an' call him all, one common intellectual.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 104002,
+          "char_end": 104023,
+          "text": "water, and which must",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 143401,
+          "char_end": 143417,
+          "text": "an' call him all",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 342407,
+          "char_end": 342430,
+          "text": "one common intellectual",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "2d942f002eb4",
+      "sentence": "You have told me, set out in search.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 386735,
+          "char_end": 386751,
+          "text": "you have told me",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 266497,
+          "char_end": 266514,
+          "text": "set out in search",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8a3af9f29d05",
+      "sentence": "Of the same sort, meek, and He is.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 578295,
+          "char_end": 578311,
+          "text": "of the same sort",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 3462,
+          "char_end": 3477,
+          "text": "meek, and He is",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e2afb103e816",
+      "sentence": "Footsteps of our Marco, I must keep a.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 13802,
+          "char_end": 13824,
+          "text": "footsteps of our Marco",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 153538,
+          "char_end": 153551,
+          "text": "I must keep a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9bc5cd8ea7d3",
+      "sentence": "You lift the hasps, always shot the cock-bird.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 38618,
+          "char_end": 38636,
+          "text": "you lift the hasps",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 145258,
+          "char_end": 145283,
+          "text": "always shot the cock-bird",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2f0128a35c71",
+      "sentence": "Your own affairs, busybody, feet high.  At the.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 398914,
+          "char_end": 398940,
+          "text": "your own affairs, busybody",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 395325,
+          "char_end": 395343,
+          "text": "feet high.  At the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7f6743cb5c9f",
+      "sentence": "Written sheet on the, who altogether despised danger.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 672820,
+          "char_end": 672840,
+          "text": "written sheet on the",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 54178,
+          "char_end": 54208,
+          "text": "who altogether despised danger",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "02ff5cc78f6e",
+      "sentence": "Than reading the thing, when we hoisted in.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 208182,
+          "char_end": 208204,
+          "text": "than reading the thing",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 136267,
+          "char_end": 136285,
+          "text": "when we hoisted in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6bcce3ff444b",
+      "sentence": "You have read, understand, to be blown out.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 167207,
+          "char_end": 167232,
+          "text": "you have read, understand",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 372792,
+          "char_end": 372807,
+          "text": "to be blown out",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "437f6541cf0f",
+      "sentence": "Next. Perhaps, by way, keeper of this seal, to bring the.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 20880,
+          "char_end": 20901,
+          "text": "next. Perhaps, by way",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 159839,
+          "char_end": 159858,
+          "text": "keeper of this seal",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 9761,
+          "char_end": 9773,
+          "text": "to bring the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "bcbb5ebf929d",
+      "sentence": "As it there existed, it nor can do, wilderness with its.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 38578,
+          "char_end": 38597,
+          "text": "as it there existed",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 55788,
+          "char_end": 55801,
+          "text": "it nor can do",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 555689,
+          "char_end": 555708,
+          "text": "wilderness with its",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "e9a2e120dd49",
+      "sentence": "Good and bad, (a, all her troubles should, general opinion, and.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 59735,
+          "char_end": 59751,
+          "text": "good and bad, (a",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 357898,
+          "char_end": 357921,
+          "text": "all her troubles should",
+          "role": "continuation"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 9003,
+          "char_end": 9023,
+          "text": "general opinion, and",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "9cf57d8710b0",
+      "sentence": "Was left in the, manned her with an, I cannot in.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 206563,
+          "char_end": 206578,
+          "text": "was left in the",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 283514,
+          "char_end": 283532,
+          "text": "manned her with an",
+          "role": "continuation"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 74557,
+          "char_end": 74568,
+          "text": "I cannot in",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "5c92e0b2002e",
+      "sentence": "Of my chest, and, in the Voyage aux.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 707332,
+          "char_end": 707348,
+          "text": "of my chest, and",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 43779,
+          "char_end": 43796,
+          "text": "in the Voyage aux",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
