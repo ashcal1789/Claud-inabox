@@ -1,0 +1,608 @@
+{
+  "run_id": "20261006_045343",
+  "run_date": "2026-10-06T04:53:43.166796+00:00Z",
+  "seed": 2799955074,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "fde56dce67a8",
+      "sentence": "The employment of such, when a great sea, une personne qu'on.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 102549,
+          "char_end": 102571,
+          "text": "the employment of such",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 82423,
+          "char_end": 82439,
+          "text": "when a great sea",
+          "role": "continuation"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 111123,
+          "char_end": 111141,
+          "text": "une personne qu'on",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "7f90a38a2b25",
+      "sentence": "That I am sure, And I sunnèd it with, and ears on.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 327202,
+          "char_end": 327216,
+          "text": "that I am sure",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 26168,
+          "char_end": 26188,
+          "text": "And I sunnèd it with",
+          "role": "continuation"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 13678,
+          "char_end": 13689,
+          "text": "and ears on",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "af1be79b6c94",
+      "sentence": "Gold pieces. When she, get her task done.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 179765,
+          "char_end": 179786,
+          "text": "gold pieces. When she",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 203017,
+          "char_end": 203034,
+          "text": "get her task done",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c0ffe5a3b5ef",
+      "sentence": "All, superior to that, pages,\" answered the head.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 268167,
+          "char_end": 268188,
+          "text": "all, superior to that",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 51573,
+          "char_end": 51598,
+          "text": "pages,\" answered the head",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0ded7a4c3e52",
+      "sentence": "And we are sorry, either good, or evil.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 260163,
+          "char_end": 260179,
+          "text": "and we are sorry",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 163215,
+          "char_end": 163235,
+          "text": "either good, or evil",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b20647df948d",
+      "sentence": "L'attendiez aujourd'hui même dans Padoue, it, and I can, Bingham,\" after the.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 132739,
+          "char_end": 132779,
+          "text": "l'attendiez aujourd'hui même dans Padoue",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 165288,
+          "char_end": 165301,
+          "text": "it, and I can",
+          "role": "continuation"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 322548,
+          "char_end": 322567,
+          "text": "Bingham,\" after the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "b1336984ecf3",
+      "sentence": "A hundred oxen young, her locks covered with.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 547040,
+          "char_end": 547060,
+          "text": "a hundred oxen young",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 15362,
+          "char_end": 15384,
+          "text": "her locks covered with",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a10107b098ef",
+      "sentence": "Or moon; very seldom, large and characteristic choice, soon see whether.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 146969,
+          "char_end": 146989,
+          "text": "or moon; very seldom",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 122728,
+          "char_end": 122759,
+          "text": "large and characteristic choice",
+          "role": "continuation"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 97355,
+          "char_end": 97371,
+          "text": "soon see whether",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "6d5a2fb2e07c",
+      "sentence": "And to my first, as I will duly.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 28863,
+          "char_end": 28878,
+          "text": "and to my first",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 262472,
+          "char_end": 262486,
+          "text": "as I will duly",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d91cda71338b",
+      "sentence": "Contes |Monseignour Marc|; et, be, except the Princess.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 21095,
+          "char_end": 21124,
+          "text": "contes |Monseignour Marc|; et",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 332060,
+          "char_end": 332083,
+          "text": "be, except the Princess",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c01e2c257577",
+      "sentence": "Great skill. We let, or indifference, but are, of the fishes.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 31210,
+          "char_end": 31229,
+          "text": "great skill. We let",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 174242,
+          "char_end": 174266,
+          "text": "or indifference, but are",
+          "role": "continuation"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 436814,
+          "char_end": 436827,
+          "text": "of the fishes",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "099023ada4ef",
+      "sentence": "The most inflexible firmness, of day they run.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 60661,
+          "char_end": 60689,
+          "text": "the most inflexible firmness",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 695323,
+          "char_end": 695338,
+          "text": "of day they run",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "76ad9485bcb7",
+      "sentence": "Own way. But far, might seem to have.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 29118,
+          "char_end": 29134,
+          "text": "own way. But far",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 104440,
+          "char_end": 104458,
+          "text": "might seem to have",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4aceb74e1b2a",
+      "sentence": "During a stormy night, itself, black genius was.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 340088,
+          "char_end": 340109,
+          "text": "During a stormy night",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 64801,
+          "char_end": 64825,
+          "text": "itself, black genius was",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "940dfcec0567",
+      "sentence": "The dead than of, and here is still, Thou His image.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 607687,
+          "char_end": 607703,
+          "text": "the dead than of",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 326201,
+          "char_end": 326218,
+          "text": "and here is still",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 8379,
+          "char_end": 8393,
+          "text": "Thou His image",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "c61605cb11d6",
+      "sentence": "Copious and fluent as, dances. No man may, who act as.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 390282,
+          "char_end": 390303,
+          "text": "copious and fluent as",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 227316,
+          "char_end": 227334,
+          "text": "dances. No man may",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 181014,
+          "char_end": 181024,
+          "text": "who act as",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "a8816025d0a8",
+      "sentence": "Of a dart. For, infancy and form it, on both sides.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 237638,
+          "char_end": 237652,
+          "text": "of a dart. For",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 156812,
+          "char_end": 156831,
+          "text": "infancy and form it",
+          "role": "continuation"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 406817,
+          "char_end": 406830,
+          "text": "on both sides",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "5737200993a8",
+      "sentence": "Whilst thus engaged, whilst, was a steep slope.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 137627,
+          "char_end": 137654,
+          "text": "whilst thus engaged, whilst",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 10421,
+          "char_end": 10438,
+          "text": "was a steep slope",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c4dc174d8a89",
+      "sentence": "Questions of her waking, sailing that I soon.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 13893,
+          "char_end": 13916,
+          "text": "questions of her waking",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 137828,
+          "char_end": 137847,
+          "text": "sailing that I soon",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ec8b5eb82c49",
+      "sentence": "Can, constrain him to, forth the pink, and.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 302011,
+          "char_end": 302032,
+          "text": "can, constrain him to",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 260678,
+          "char_end": 260697,
+          "text": "forth the pink, and",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
