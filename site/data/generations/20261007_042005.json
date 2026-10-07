@@ -1,0 +1,608 @@
+{
+  "run_id": "20261007_042005",
+  "run_date": "2026-10-07T04:20:05.851897+00:00Z",
+  "seed": 2287163370,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "cb8fd04990bc",
+      "sentence": "To the next house, and more worthy dispositions--and.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 21539,
+          "char_end": 21556,
+          "text": "to the next house",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 286454,
+          "char_end": 286487,
+          "text": "and more worthy dispositions--and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3b6509de1716",
+      "sentence": "Is not my meaning, dog in the following, Is slowly handed.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 44872,
+          "char_end": 44889,
+          "text": "is not my meaning",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 45207,
+          "char_end": 45227,
+          "text": "dog in the following",
+          "role": "continuation"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 111781,
+          "char_end": 111797,
+          "text": "Is slowly handed",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "216db241be4d",
+      "sentence": "Law, an attempt was, not heard whether Mr, xxvii.) good, and.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 178420,
+          "char_end": 178439,
+          "text": "Law, an attempt was",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 529031,
+          "char_end": 529051,
+          "text": "not heard whether Mr",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 381274,
+          "char_end": 381291,
+          "text": "xxvii.) good, and",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "23dd4ad16fd1",
+      "sentence": "They sit, with radiance, Who are these below, the beams battered.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 9573,
+          "char_end": 9596,
+          "text": "they sit, with radiance",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 118975,
+          "char_end": 118994,
+          "text": "Who are these below",
+          "role": "continuation"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 27421,
+          "char_end": 27439,
+          "text": "the beams battered",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "9b808617ff68",
+      "sentence": "No action, considered in, steps, which lead to.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 405570,
+          "char_end": 405594,
+          "text": "no action, considered in",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 108176,
+          "char_end": 108196,
+          "text": "steps, which lead to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "50c7b54f469e",
+      "sentence": "All to one, and, have suffered at my.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 302936,
+          "char_end": 302951,
+          "text": "all to one, and",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 66635,
+          "char_end": 66654,
+          "text": "have suffered at my",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "735823614d91",
+      "sentence": "Look in time. The, the emotions, which we.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 473116,
+          "char_end": 473133,
+          "text": "look in time. The",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 310969,
+          "char_end": 310991,
+          "text": "the emotions, which we",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "fe6416cf12f6",
+      "sentence": "The most arrogant bigotry, till you can tell.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 204264,
+          "char_end": 204289,
+          "text": "the most arrogant bigotry",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 173385,
+          "char_end": 173402,
+          "text": "till you can tell",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "19ecfdb236b1",
+      "sentence": "Harps at Welsh festivals, Fortunately the head, neck.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 553911,
+          "char_end": 553935,
+          "text": "harps at Welsh festivals",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 214666,
+          "char_end": 214692,
+          "text": "Fortunately the head, neck",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "bf36229b665d",
+      "sentence": "Did not even know, old woman in the, quand l’en.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 489075,
+          "char_end": 489092,
+          "text": "did not even know",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 189358,
+          "char_end": 189374,
+          "text": "old woman in the",
+          "role": "continuation"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 22179,
+          "char_end": 22189,
+          "text": "quand l’en",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "c1ecf1771c75",
+      "sentence": "So, the care, the, plumage, and fine notes.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 557067,
+          "char_end": 557084,
+          "text": "so, the care, the",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 569863,
+          "char_end": 569886,
+          "text": "plumage, and fine notes",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "28e498f607d0",
+      "sentence": "But it made my, but he would send.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 749149,
+          "char_end": 749163,
+          "text": "but it made my",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 67935,
+          "char_end": 67952,
+          "text": "but he would send",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ad9b6c752e58",
+      "sentence": "Prefer death to hopeless, observations of every kind.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 162023,
+          "char_end": 162047,
+          "text": "prefer death to hopeless",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 47774,
+          "char_end": 47800,
+          "text": "observations of every kind",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a42c5a3e0d80",
+      "sentence": "Comparatively disregarded now, when, are of little use.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 470428,
+          "char_end": 470463,
+          "text": "comparatively disregarded now, when",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 257081,
+          "char_end": 257098,
+          "text": "are of little use",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ebc18eaeeb93",
+      "sentence": "This strange adventure, and, date contact information can.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 67997,
+          "char_end": 68024,
+          "text": "this strange adventure, and",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 180863,
+          "char_end": 180891,
+          "text": "date contact information can",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2b8e1029835e",
+      "sentence": "To pull thirty miles, flag-tops are draped with, am enabled to.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 501422,
+          "char_end": 501442,
+          "text": "to pull thirty miles",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 76034,
+          "char_end": 76059,
+          "text": "flag-tops are draped with",
+          "role": "continuation"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 29169,
+          "char_end": 29182,
+          "text": "am enabled to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "3ccb2248e516",
+      "sentence": "I care so much, therefore, that the cup, new or different.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 705115,
+          "char_end": 705129,
+          "text": "I care so much",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 15523,
+          "char_end": 15546,
+          "text": "therefore, that the cup",
+          "role": "continuation"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 281843,
+          "char_end": 281859,
+          "text": "new or different",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "76ac6f40ee55",
+      "sentence": "With his advice; which, devoted to commerce never, time of the.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 447772,
+          "char_end": 447794,
+          "text": "with his advice; which",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 276886,
+          "char_end": 276911,
+          "text": "devoted to commerce never",
+          "role": "continuation"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 288658,
+          "char_end": 288669,
+          "text": "time of the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "41d3677924ba",
+      "sentence": "Captain took in dudgeon, who had still higher.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 223808,
+          "char_end": 223831,
+          "text": "captain took in dudgeon",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 37697,
+          "char_end": 37717,
+          "text": "who had still higher",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f7fd7a037375",
+      "sentence": "Houses or of the, reader.  I have in, if I had.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 406858,
+          "char_end": 406874,
+          "text": "houses or of the",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 1451,
+          "char_end": 1469,
+          "text": "reader.  I have in",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 310702,
+          "char_end": 310710,
+          "text": "if I had",
+          "role": "closing"
+        }
+      ]
+    }
+  ]
+}
