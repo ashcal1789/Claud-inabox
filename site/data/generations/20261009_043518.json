@@ -1,0 +1,578 @@
+{
+  "run_id": "20261009_043518",
+  "run_date": "2026-10-09T04:35:18.425738+00:00Z",
+  "seed": 329053292,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "6e45d157ba06",
+      "sentence": "A cross, the record, philosophy is made—into.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 95939,
+          "char_end": 95958,
+          "text": "a cross, the record",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 12095,
+          "char_end": 12118,
+          "text": "philosophy is made—into",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "56033c186a46",
+      "sentence": "Avoided the smoother and, is the spirit of, that they will.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 53007,
+          "char_end": 53031,
+          "text": "avoided the smoother and",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 412477,
+          "char_end": 412493,
+          "text": "is the spirit of",
+          "role": "continuation"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 16451,
+          "char_end": 16465,
+          "text": "that they will",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "bdd8448c463d",
+      "sentence": "Forked shape; with this, LEOPARDS AND WOLVES THAT.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 172530,
+          "char_end": 172553,
+          "text": "forked shape; with this",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 230682,
+          "char_end": 230706,
+          "text": "LEOPARDS AND WOLVES THAT",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4ee9b4fc28d7",
+      "sentence": "And I will eat, say that none lead.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 95777,
+          "char_end": 95791,
+          "text": "and I will eat",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 311077,
+          "char_end": 311095,
+          "text": "say that none lead",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ccf74b2fe73c",
+      "sentence": "The lake on which, her, for nobody knew.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 320576,
+          "char_end": 320593,
+          "text": "the lake on which",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 501339,
+          "char_end": 501359,
+          "text": "her, for nobody knew",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "69cc76bb0184",
+      "sentence": "Underneath, (as the hid, or distributing any Project.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 554107,
+          "char_end": 554130,
+          "text": "underneath, (as the hid",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 173266,
+          "char_end": 173293,
+          "text": "or distributing any Project",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "41763c03177f",
+      "sentence": "About them. She tried, I understand in the.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 28651,
+          "char_end": 28672,
+          "text": "about them. She tried",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 369898,
+          "char_end": 369917,
+          "text": "I understand in the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a70c34a6bd43",
+      "sentence": "Birds are silent in, see if you can't.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 10052,
+          "char_end": 10071,
+          "text": "birds are silent in",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 61550,
+          "char_end": 61566,
+          "text": "see if you can't",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3a226e4f4b8b",
+      "sentence": "My fashion, though I, seen near it. We.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 623996,
+          "char_end": 624016,
+          "text": "my fashion, though I",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 448408,
+          "char_end": 448424,
+          "text": "seen near it. We",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b834410ab0c4",
+      "sentence": "It lurks in the, on what we have, Then she coiled.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 356576,
+          "char_end": 356591,
+          "text": "it lurks in the",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 77225,
+          "char_end": 77240,
+          "text": "on what we have",
+          "role": "continuation"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 40978,
+          "char_end": 40993,
+          "text": "Then she coiled",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "66c426a256b6",
+      "sentence": "Daughter, and up she, I put a piece.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 488167,
+          "char_end": 488187,
+          "text": "daughter, and up she",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 204826,
+          "char_end": 204839,
+          "text": "I put a piece",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b1638bfa10c8",
+      "sentence": "The Alehouse is healthy, the Greeks call both, snatch from me.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 23641,
+          "char_end": 23664,
+          "text": "the Alehouse is healthy",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 423923,
+          "char_end": 423943,
+          "text": "the Greeks call both",
+          "role": "continuation"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 84289,
+          "char_end": 84303,
+          "text": "snatch from me",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "e88854b4fa02",
+      "sentence": "Earth for my daily, is in 30⅔° of latitude.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 249,
+          "char_end": 267,
+          "text": "earth for my daily",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 256690,
+          "char_end": 256712,
+          "text": "is in 30⅔° of latitude",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "12c0bf683561",
+      "sentence": "Diodorus relates that in, the Strait of Magellan, mountain’s shadow.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 487159,
+          "char_end": 487183,
+          "text": "Diodorus relates that in",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 481304,
+          "char_end": 481326,
+          "text": "the Strait of Magellan",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 17679,
+          "char_end": 17696,
+          "text": "mountain’s shadow",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "3d7b15cf0b57",
+      "sentence": "Times, on all Government, off, and spouted at.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 174337,
+          "char_end": 174361,
+          "text": "times, on all Government",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 303883,
+          "char_end": 303902,
+          "text": "off, and spouted at",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "08ec9ddd1105",
+      "sentence": "Blue peterels, some on, he, and to his, is a very.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 178321,
+          "char_end": 178343,
+          "text": "blue peterels, some on",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 495164,
+          "char_end": 495178,
+          "text": "he, and to his",
+          "role": "continuation"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 146005,
+          "char_end": 146014,
+          "text": "is a very",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "8f946aafc490",
+      "sentence": "Are in his own, to my life, my.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 70722,
+          "char_end": 70736,
+          "text": "are in his own",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 167876,
+          "char_end": 167890,
+          "text": "to my life, my",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ac84745cb8b9",
+      "sentence": "And irregular. This is, jibs stowed in cloth.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 161424,
+          "char_end": 161446,
+          "text": "and irregular. This is",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 390763,
+          "char_end": 390783,
+          "text": "jibs stowed in cloth",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "43f441f2f49e",
+      "sentence": "They sight the land, avec la braque à la.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 70949,
+          "char_end": 70968,
+          "text": "they sight the land",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 7934,
+          "char_end": 7953,
+          "text": "avec la braque à la",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7e0167eb4ae5",
+      "sentence": "Night’s time by, which links our idea.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 336768,
+          "char_end": 336783,
+          "text": "night’s time by",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 309482,
+          "char_end": 309502,
+          "text": "which links our idea",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
