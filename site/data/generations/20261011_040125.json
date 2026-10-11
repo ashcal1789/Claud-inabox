@@ -1,0 +1,578 @@
+{
+  "run_id": "20261011_040125",
+  "run_date": "2026-10-11T04:01:25.974538+00:00Z",
+  "seed": 662761990,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "ba35b86d2bd3",
+      "sentence": "Ricognizione a quelli della, and there sacrifices, without.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 333061,
+          "char_end": 333088,
+          "text": "ricognizione a quelli della",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 255941,
+          "char_end": 255970,
+          "text": "and there sacrifices, without",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "af1f0e625744",
+      "sentence": "For others of the, But the Alehouse is.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 43306,
+          "char_end": 43323,
+          "text": "for others of the",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 23637,
+          "char_end": 23656,
+          "text": "But the Alehouse is",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "68cfd72a988c",
+      "sentence": "Others it was a, saw him loved him.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 208858,
+          "char_end": 208873,
+          "text": "others it was a",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 134332,
+          "char_end": 134349,
+          "text": "saw him loved him",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6ebc29e21e07",
+      "sentence": "Far as the corner, thus engaged. Every moment, beard, rub to.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 185068,
+          "char_end": 185085,
+          "text": "far as the corner",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 155849,
+          "char_end": 155875,
+          "text": "thus engaged. Every moment",
+          "role": "continuation"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 633434,
+          "char_end": 633447,
+          "text": "beard, rub to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "d0eae427ca05",
+      "sentence": "My opinion, or thought, and the princess employed.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 900929,
+          "char_end": 900951,
+          "text": "my opinion, or thought",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 345809,
+          "char_end": 345834,
+          "text": "and the princess employed",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "cb2f4498ed54",
+      "sentence": "One of their neighbours, hard, raw corn on.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 45094,
+          "char_end": 45117,
+          "text": "one of their neighbours",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 114042,
+          "char_end": 114059,
+          "text": "hard, raw corn on",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "67dbcf532213",
+      "sentence": "Like manner, that a, as it were, related.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 245513,
+          "char_end": 245532,
+          "text": "like manner, that a",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 203011,
+          "char_end": 203030,
+          "text": "as it were, related",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4768d20f1809",
+      "sentence": "Promised he would forward, the corpse of some, away: or, indeed.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 564177,
+          "char_end": 564202,
+          "text": "promised he would forward",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 240190,
+          "char_end": 240208,
+          "text": "the corpse of some",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 291986,
+          "char_end": 292002,
+          "text": "away: or, indeed",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "e96f9e8e542d",
+      "sentence": "Heir to the throne, in different countries, my.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 770911,
+          "char_end": 770929,
+          "text": "heir to the throne",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 238857,
+          "char_end": 238883,
+          "text": "in different countries, my",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c37775688169",
+      "sentence": "Work at the poor, produced dreams, where Paradise.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 161559,
+          "char_end": 161575,
+          "text": "work at the poor",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 147629,
+          "char_end": 147660,
+          "text": "produced dreams, where Paradise",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5d41c3a97dcb",
+      "sentence": "Just then there was, gate which stood in.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 281656,
+          "char_end": 281675,
+          "text": "just then there was",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 401321,
+          "char_end": 401340,
+          "text": "gate which stood in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3d69402e5382",
+      "sentence": "Be put up with, mean, if I had, a flower as.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 330226,
+          "char_end": 330240,
+          "text": "be put up with",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 77976,
+          "char_end": 77990,
+          "text": "mean, if I had",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 22292,
+          "char_end": 22303,
+          "text": "a flower as",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "48fc54f5e080",
+      "sentence": "For I am certain, than the desire for.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 62160,
+          "char_end": 62176,
+          "text": "For I am certain",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 341615,
+          "char_end": 341634,
+          "text": "than the desire for",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5f45b764dc94",
+      "sentence": "See they will burn, ripple. I had not.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 53955,
+          "char_end": 53973,
+          "text": "see they will burn",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 41753,
+          "char_end": 41770,
+          "text": "ripple. I had not",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0d7ccc7734f8",
+      "sentence": "As far as to, promenait sur la route_[37]. Ote-toi, we are to.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 15883,
+          "char_end": 15895,
+          "text": "as far as to",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 108423,
+          "char_end": 108459,
+          "text": "promenait sur la route_[37]. Ote-toi",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 475561,
+          "char_end": 475570,
+          "text": "we are to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "25687ab9806a",
+      "sentence": "Bubbles fall downwards when, donations to carry out.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 85146,
+          "char_end": 85173,
+          "text": "bubbles fall downwards when",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 181159,
+          "char_end": 181181,
+          "text": "donations to carry out",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5f9b613dc03c",
+      "sentence": "Fergus II. to Macbeth, the sky-light and booby-hatch, connecting proposition or.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 297537,
+          "char_end": 297558,
+          "text": "Fergus II. to Macbeth",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 754802,
+          "char_end": 754831,
+          "text": "the sky-light and booby-hatch",
+          "role": "continuation"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 57350,
+          "char_end": 57375,
+          "text": "connecting proposition or",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "168fe7743269",
+      "sentence": "Well when he considers, beat your wooer dead.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 166051,
+          "char_end": 166073,
+          "text": "well when he considers",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 511312,
+          "char_end": 511332,
+          "text": "beat your wooer dead",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "97c62bdaf9a9",
+      "sentence": "Blowing here continually from, five species of rhinoceros.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 227831,
+          "char_end": 227860,
+          "text": "blowing here continually from",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 203745,
+          "char_end": 203771,
+          "text": "five species of rhinoceros",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ff25400c420e",
+      "sentence": "Borders of Poland and, For young sailors especially.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 278068,
+          "char_end": 278089,
+          "text": "borders of Poland and",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 253873,
+          "char_end": 253901,
+          "text": "For young sailors especially",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
