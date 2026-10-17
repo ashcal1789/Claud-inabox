@@ -1,0 +1,578 @@
+{
+  "run_id": "20261017_030007",
+  "run_date": "2026-10-17T03:00:07.687488+00:00Z",
+  "seed": 1015448271,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "218825b516c7",
+      "sentence": "And when a short, their movements and habits, a Project Gutenberg.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 80974,
+          "char_end": 80990,
+          "text": "and when a short",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 75822,
+          "char_end": 75848,
+          "text": "their movements and habits",
+          "role": "continuation"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 170201,
+          "char_end": 170220,
+          "text": "a Project Gutenberg",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "2d43350c9d33",
+      "sentence": "Quite so level as, and dispositions, as by, men persuaded themselves.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 437951,
+          "char_end": 437968,
+          "text": "quite so level as",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 157588,
+          "char_end": 157611,
+          "text": "and dispositions, as by",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 76100,
+          "char_end": 76124,
+          "text": "men persuaded themselves",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "fedc148a1557",
+      "sentence": "Has been reserved for, will not falsify his.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 284564,
+          "char_end": 284585,
+          "text": "has been reserved for",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 5716,
+          "char_end": 5736,
+          "text": "will not falsify his",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "089f1d01893f",
+      "sentence": "Had to swim--and swimming, proper nature, bare and.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 154594,
+          "char_end": 154619,
+          "text": "had to swim--and swimming",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 77793,
+          "char_end": 77816,
+          "text": "proper nature, bare and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "77997279259c",
+      "sentence": "On the possibility of, of the other or.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 22892,
+          "char_end": 22913,
+          "text": "on the possibility of",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 215802,
+          "char_end": 215817,
+          "text": "of the other or",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "cf7c6ed3486d",
+      "sentence": "D be too tall, measures were pumped in.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 89937,
+          "char_end": 89950,
+          "text": "d be too tall",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 126875,
+          "char_end": 126898,
+          "text": "measures were pumped in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2b5aa51800fa",
+      "sentence": "Contemplation, so far reverse, is the testimony of.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 272535,
+          "char_end": 272564,
+          "text": "contemplation, so far reverse",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 229204,
+          "char_end": 229223,
+          "text": "is the testimony of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b41a29b34f6d",
+      "sentence": "Incidents in Harriet's life, has called me into.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 158770,
+          "char_end": 158797,
+          "text": "incidents in Harriet's life",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 121911,
+          "char_end": 121929,
+          "text": "has called me into",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "adb821a087b0",
+      "sentence": "Been said in the, When wolves and tigers.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 292378,
+          "char_end": 292394,
+          "text": "been said in the",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 10695,
+          "char_end": 10717,
+          "text": "When wolves and tigers",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "20fcaaa6b85f",
+      "sentence": "Never to come back, of the senses, is.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 93321,
+          "char_end": 93339,
+          "text": "never to come back",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 226453,
+          "char_end": 226470,
+          "text": "of the senses, is",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "312897c204a4",
+      "sentence": "And creak. But still, herd, the deer frequently.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 41981,
+          "char_end": 42001,
+          "text": "and creak. But still",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 113413,
+          "char_end": 113438,
+          "text": "herd, the deer frequently",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ddd6e9416726",
+      "sentence": "Did not care for, there are passengers on.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 123854,
+          "char_end": 123870,
+          "text": "did not care for",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 811667,
+          "char_end": 811690,
+          "text": "there are passengers on",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ef5d8600a3a6",
+      "sentence": "Never hot and vehement, cost of my house.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 203875,
+          "char_end": 203897,
+          "text": "never hot and vehement",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 84209,
+          "char_end": 84225,
+          "text": "cost of my house",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "13850557fe71",
+      "sentence": "Gracious and merciful God, of hearing, they are, and green, purple.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 261178,
+          "char_end": 261203,
+          "text": "gracious and merciful God",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 42478,
+          "char_end": 42498,
+          "text": "of hearing, they are",
+          "role": "continuation"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 366703,
+          "char_end": 366720,
+          "text": "and green, purple",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "3fcf00045c5f",
+      "sentence": "Daylight this morning a, second was that of.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 100957,
+          "char_end": 100980,
+          "text": "daylight this morning a",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 546771,
+          "char_end": 546789,
+          "text": "second was that of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4bc67aa5004d",
+      "sentence": "In magic, compared with, or stone,” as Homer.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 193636,
+          "char_end": 193659,
+          "text": "in magic, compared with",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 68992,
+          "char_end": 69011,
+          "text": "or stone,” as Homer",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7161143790a2",
+      "sentence": "Repent of it? Yet, us. The current, which, something to say.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 207917,
+          "char_end": 207934,
+          "text": "repent of it? Yet",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 32996,
+          "char_end": 33018,
+          "text": "us. The current, which",
+          "role": "continuation"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 217793,
+          "char_end": 217809,
+          "text": "something to say",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f30eb19b5cc2",
+      "sentence": "Not convince by arguments, a thing future, past.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 214297,
+          "char_end": 214322,
+          "text": "not convince by arguments",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 409113,
+          "char_end": 409133,
+          "text": "a thing future, past",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ef2f238bcd0c",
+      "sentence": "To Hessey's. I have, we find such a, it for five.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 349105,
+          "char_end": 349124,
+          "text": "to Hessey's. I have",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 235109,
+          "char_end": 235123,
+          "text": "we find such a",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 153197,
+          "char_end": 153208,
+          "text": "it for five",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "5b0bc9adbd77",
+      "sentence": "Poor Heinel was lost, by the Chinese (see.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 421359,
+          "char_end": 421379,
+          "text": "poor Heinel was lost",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 286470,
+          "char_end": 286489,
+          "text": "by the Chinese (see",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
