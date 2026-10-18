@@ -1,0 +1,568 @@
+{
+  "run_id": "20261018_030222",
+  "run_date": "2026-10-18T03:02:22.870745+00:00Z",
+  "seed": 2876924602,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "05fd0a445370",
+      "sentence": "Not even the hottest, to New Bedford, there.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 180297,
+          "char_end": 180317,
+          "text": "not even the hottest",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 211349,
+          "char_end": 211370,
+          "text": "to New Bedford, there",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "70765f4bcb60",
+      "sentence": "Authority we had for, hemisphere. [3] Some specimens which.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 671133,
+          "char_end": 671153,
+          "text": "authority we had for",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 63478,
+          "char_end": 63514,
+          "text": "hemisphere. [3] Some specimens which",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f4020a4f56cb",
+      "sentence": "League out from land, remercie de vos peines.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 37651,
+          "char_end": 37671,
+          "text": "league out from land",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 96317,
+          "char_end": 96339,
+          "text": "remercie de vos peines",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "09d8510e43e8",
+      "sentence": "May be taken as, I shall be as.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 170633,
+          "char_end": 170648,
+          "text": "may be taken as",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 609445,
+          "char_end": 609458,
+          "text": "I shall be as",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "cd0b6c3bac47",
+      "sentence": "Alacrity; but remains inattentive, roasts and eats it.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 248468,
+          "char_end": 248501,
+          "text": "alacrity; but remains inattentive",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 21557,
+          "char_end": 21575,
+          "text": "roasts and eats it",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9c6b353d3dee",
+      "sentence": "Men in a canoe, on the benches, others.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 550720,
+          "char_end": 550734,
+          "text": "men in a canoe",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 206337,
+          "char_end": 206359,
+          "text": "on the benches, others",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b420b3940f83",
+      "sentence": "After the wedding had, owner was coming in.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 424279,
+          "char_end": 424300,
+          "text": "After the wedding had",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 23732,
+          "char_end": 23751,
+          "text": "owner was coming in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a6b21a376c59",
+      "sentence": "Thinks too meanly of, at least were not.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 300461,
+          "char_end": 300481,
+          "text": "thinks too meanly of",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 143824,
+          "char_end": 143841,
+          "text": "at least were not",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "baf1aad57388",
+      "sentence": "Was feigned, so as, this, I had become.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 532071,
+          "char_end": 532089,
+          "text": "was feigned, so as",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 95914,
+          "char_end": 95932,
+          "text": "this, I had become",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4eb6727b1aa2",
+      "sentence": "A man.  Falconer states, binds her feather on, bags and our.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 396117,
+          "char_end": 396140,
+          "text": "a man.  Falconer states",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 25104,
+          "char_end": 25124,
+          "text": "binds her feather on",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 6278,
+          "char_end": 6290,
+          "text": "bags and our",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "c8da0ccde2e3",
+      "sentence": "A personage called the, long we remained in.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 428990,
+          "char_end": 429012,
+          "text": "a personage called the",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 26316,
+          "char_end": 26335,
+          "text": "long we remained in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "61164f947692",
+      "sentence": "Over the forecastle, and, the organ as last, down, so as.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 766500,
+          "char_end": 766524,
+          "text": "over the forecastle, and",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 156797,
+          "char_end": 156814,
+          "text": "the organ as last",
+          "role": "continuation"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 125449,
+          "char_end": 125460,
+          "text": "down, so as",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "5aa95c9c1b40",
+      "sentence": "Bow-string taut and to, it, and passed away.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 144623,
+          "char_end": 144645,
+          "text": "bow-string taut and to",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 315868,
+          "char_end": 315887,
+          "text": "it, and passed away",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c3407406989d",
+      "sentence": "Value; there is no, to the evening he.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 188300,
+          "char_end": 188318,
+          "text": "value; there is no",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 1979,
+          "char_end": 1996,
+          "text": "to the evening he",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e92df3301e54",
+      "sentence": "Qui ne t'a jamais, all the children sleep, when I had.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 56471,
+          "char_end": 56488,
+          "text": "qui ne t'a jamais",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 83087,
+          "char_end": 83109,
+          "text": "all the children sleep",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 89755,
+          "char_end": 89765,
+          "text": "when I had",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "59265929b40a",
+      "sentence": "Though they be no, should keep a laced, ce fou, ce.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 119164,
+          "char_end": 119181,
+          "text": "though they be no",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 168087,
+          "char_end": 168106,
+          "text": "should keep a laced",
+          "role": "continuation"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 107212,
+          "char_end": 107222,
+          "text": "ce fou, ce",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "899458c84867",
+      "sentence": "Of this mortal life, where it was mentioned.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 224191,
+          "char_end": 224210,
+          "text": "of this mortal life",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 232617,
+          "char_end": 232639,
+          "text": "where it was mentioned",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "85839079837a",
+      "sentence": "That any one of, any common flame gives.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 257913,
+          "char_end": 257928,
+          "text": "that any one of",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 83700,
+          "char_end": 83722,
+          "text": "any common flame gives",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "948a73191e9a",
+      "sentence": "Gossip of Boston and, donnera à merveille les grâces, le.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 193896,
+          "char_end": 193916,
+          "text": "gossip of Boston and",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 14253,
+          "char_end": 14287,
+          "text": "donnera à merveille les grâces, le",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "841c831d7359",
+      "sentence": "The church and the, am silent, and go.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 144058,
+          "char_end": 144076,
+          "text": "the church and the",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 38899,
+          "char_end": 38916,
+          "text": "am silent, and go",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
