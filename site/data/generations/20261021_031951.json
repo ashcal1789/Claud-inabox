@@ -1,0 +1,578 @@
+{
+  "run_id": "20261021_031951",
+  "run_date": "2026-10-21T03:19:51.270045+00:00Z",
+  "seed": 3373321745,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "18f38d1a470b",
+      "sentence": "On all sides.  After, generosity, and you may, flaw or vacuum.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 133760,
+          "char_end": 133780,
+          "text": "on all sides.  After",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 176646,
+          "char_end": 176669,
+          "text": "generosity, and you may",
+          "role": "continuation"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 646180,
+          "char_end": 646194,
+          "text": "flaw or vacuum",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "3fb3c00f5b52",
+      "sentence": "Any more than this, of platinum] has come.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 172101,
+          "char_end": 172119,
+          "text": "any more than this",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 95483,
+          "char_end": 95504,
+          "text": "of platinum] has come",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "60767e828033",
+      "sentence": "Mate, a young man, sailed from Deptford, April, whereby each particular.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 396184,
+          "char_end": 396201,
+          "text": "mate, a young man",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 45378,
+          "char_end": 45405,
+          "text": "sailed from Deptford, April",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 327607,
+          "char_end": 327630,
+          "text": "whereby each particular",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "6a24868b9a64",
+      "sentence": "By this time, my, greater watchfulness of the.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 94493,
+          "char_end": 94509,
+          "text": "By this time, my",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 127337,
+          "char_end": 127364,
+          "text": "greater watchfulness of the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "86b541691ad7",
+      "sentence": "THE CLOD AND THE, of my answering the, and in the.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 15984,
+          "char_end": 16000,
+          "text": "THE CLOD AND THE",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 30448,
+          "char_end": 30467,
+          "text": "of my answering the",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 141154,
+          "char_end": 141164,
+          "text": "and in the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f3d6c729ff50",
+      "sentence": "High and low, and, next morning not a.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 212262,
+          "char_end": 212279,
+          "text": "high and low, and",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 549196,
+          "char_end": 549214,
+          "text": "next morning not a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d2caee8032a7",
+      "sentence": "Simple, as not to, of you can do.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 108338,
+          "char_end": 108355,
+          "text": "simple, as not to",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 347056,
+          "char_end": 347069,
+          "text": "of you can do",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "835278562c50",
+      "sentence": "Of old I have, the baby, and for, like ushers leaning.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 28934,
+          "char_end": 28947,
+          "text": "of old I have",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 348627,
+          "char_end": 348644,
+          "text": "the baby, and for",
+          "role": "continuation"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 36040,
+          "char_end": 36059,
+          "text": "like ushers leaning",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ab0bc625691d",
+      "sentence": "Polie, lente à parler, mais, in cleaning, and laid.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 70220,
+          "char_end": 70247,
+          "text": "polie, lente à parler, mais",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 339735,
+          "char_end": 339756,
+          "text": "in cleaning, and laid",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f0074e646053",
+      "sentence": "Like the steam from, in obedience to reason.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 558353,
+          "char_end": 558372,
+          "text": "like the steam from",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 368906,
+          "char_end": 368928,
+          "text": "in obedience to reason",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e184df27813e",
+      "sentence": "While a few find, de North, and de, is a plenty.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 305846,
+          "char_end": 305862,
+          "text": "while a few find",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 30711,
+          "char_end": 30727,
+          "text": "de North, and de",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 114795,
+          "char_end": 114806,
+          "text": "is a plenty",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "d5a297e5e56c",
+      "sentence": "Avaient bien de la, would have gone to.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 33557,
+          "char_end": 33575,
+          "text": "avaient bien de la",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 418662,
+          "char_end": 418680,
+          "text": "would have gone to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "aaaead206e68",
+      "sentence": "Or power in the, bite to eat,\" begs.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 115673,
+          "char_end": 115688,
+          "text": "or power in the",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 173463,
+          "char_end": 173481,
+          "text": "bite to eat,\" begs",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5b7b56782d1f",
+      "sentence": "And senses remain the, endeavour to please the.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 150279,
+          "char_end": 150300,
+          "text": "and senses remain the",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 233555,
+          "char_end": 233578,
+          "text": "endeavour to please the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "81b749e639a6",
+      "sentence": "Always, -- some sweet day, the interior, being on.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 160031,
+          "char_end": 160056,
+          "text": "always, -- some sweet day",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 249873,
+          "char_end": 249895,
+          "text": "the interior, being on",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e84940ebed0c",
+      "sentence": "Handsome woman, and very, red silk) for the.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 866268,
+          "char_end": 866292,
+          "text": "handsome woman, and very",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 726124,
+          "char_end": 726141,
+          "text": "red silk) for the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6a0ea58a12d8",
+      "sentence": "Suddenly he felt in, not sit both night.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 368975,
+          "char_end": 368994,
+          "text": "suddenly he felt in",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 14181,
+          "char_end": 14199,
+          "text": "not sit both night",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9b8aec52632d",
+      "sentence": "Of a great variety, fearless and sagacious friend.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 111099,
+          "char_end": 111117,
+          "text": "of a great variety",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 79920,
+          "char_end": 79949,
+          "text": "fearless and sagacious friend",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5ed93e3e82ca",
+      "sentence": "O Athenians, or, if, the bridges often go.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 66226,
+          "char_end": 66245,
+          "text": "O Athenians, or, if",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 18070,
+          "char_end": 18090,
+          "text": "the bridges often go",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5b9dc74c1b3e",
+      "sentence": "Charrette[10],... elle est trop, unfold to any one.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 26502,
+          "char_end": 26533,
+          "text": "charrette[10],... elle est trop",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 197742,
+          "char_end": 197759,
+          "text": "unfold to any one",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
