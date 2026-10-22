@@ -1,0 +1,598 @@
+{
+  "run_id": "20261022_031839",
+  "run_date": "2026-10-22T03:18:39.367204+00:00Z",
+  "seed": 4210119146,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "c61a247a1e8c",
+      "sentence": "S., longitude 171° 30' W. These, I believe in those, drawn from their.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 15277,
+          "char_end": 15308,
+          "text": "S., longitude 171° 30' W. These",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 51939,
+          "char_end": 51957,
+          "text": "I believe in those",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 220038,
+          "char_end": 220054,
+          "text": "drawn from their",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "92e228684d67",
+      "sentence": "Parole, lorsque le prêtre attend, do I now repent.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 86166,
+          "char_end": 86198,
+          "text": "parole, lorsque le prêtre attend",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 78479,
+          "char_end": 78494,
+          "text": "do I now repent",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7bdde52a149d",
+      "sentence": "Time of youth was, therefore see but little.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 21380,
+          "char_end": 21397,
+          "text": "time of youth was",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 65067,
+          "char_end": 65091,
+          "text": "therefore see but little",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9df8e8c53930",
+      "sentence": "They reached the angle, otherwise with such a.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 22920,
+          "char_end": 22942,
+          "text": "They reached the angle",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 21050,
+          "char_end": 21071,
+          "text": "otherwise with such a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "43bbe5fe2e45",
+      "sentence": "Finally concluded upon was, Book of Verse for.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 162385,
+          "char_end": 162411,
+          "text": "finally concluded upon was",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 172902,
+          "char_end": 172919,
+          "text": "Book of Verse for",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "47eb165b4c9a",
+      "sentence": "In this dress that, from more northern districts.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 373758,
+          "char_end": 373776,
+          "text": "in this dress that",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 137094,
+          "char_end": 137122,
+          "text": "from more northern districts",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9936fb0ae25c",
+      "sentence": "House, and I walked, but when they have.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 163171,
+          "char_end": 163190,
+          "text": "house, and I walked",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 413703,
+          "char_end": 413721,
+          "text": "but when they have",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8766e50f70e6",
+      "sentence": "That formula for thee, said to Gaspard. “We, showed the convenience.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 618392,
+          "char_end": 618413,
+          "text": "that formula for thee",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 32748,
+          "char_end": 32768,
+          "text": "said to Gaspard. “We",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 261716,
+          "char_end": 261738,
+          "text": "showed the convenience",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "c380e8056bca",
+      "sentence": "The older texts; nor, sacrifice, nor pray, nor.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 308558,
+          "char_end": 308578,
+          "text": "the older texts; nor",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 166095,
+          "char_end": 166119,
+          "text": "sacrifice, nor pray, nor",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7f6716e51517",
+      "sentence": "And shine in the, plan between the man.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 6001,
+          "char_end": 6017,
+          "text": "and shine in the",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 626637,
+          "char_end": 626657,
+          "text": "plan between the man",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0bca9eb5c7a6",
+      "sentence": "Then he drank a, had finished his horrible, next week.\" In.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 93930,
+          "char_end": 93945,
+          "text": "then he drank a",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 193572,
+          "char_end": 193597,
+          "text": "had finished his horrible",
+          "role": "continuation"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 366494,
+          "char_end": 366508,
+          "text": "next week.\" In",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "2338c2b9fc9b",
+      "sentence": "And, by touching those, Philosoph. Letters, that great.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 4129,
+          "char_end": 4151,
+          "text": "and, by touching those",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 70302,
+          "char_end": 70332,
+          "text": "Philosoph. Letters, that great",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1b1144c285c1",
+      "sentence": "With her day’s, a man, will go.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 93536,
+          "char_end": 93550,
+          "text": "with her day’s",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 204975,
+          "char_end": 204989,
+          "text": "a man, will go",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "665b24a9015d",
+      "sentence": "Egghiou, a district of, same with the meat, fats from which.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 223050,
+          "char_end": 223072,
+          "text": "Egghiou, a district of",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 321486,
+          "char_end": 321504,
+          "text": "same with the meat",
+          "role": "continuation"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 217592,
+          "char_end": 217607,
+          "text": "fats from which",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "b40661e5cdf4",
+      "sentence": "Smith, as a person, will of their genius, far enough from.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 171811,
+          "char_end": 171829,
+          "text": "Smith, as a person",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 182813,
+          "char_end": 182833,
+          "text": "will of their genius",
+          "role": "continuation"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 132298,
+          "char_end": 132313,
+          "text": "far enough from",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "87bb6d5a9de8",
+      "sentence": "Been sharpened by knavery, hear the whole truth, no sort of.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 139681,
+          "char_end": 139706,
+          "text": "been sharpened by knavery",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 27522,
+          "char_end": 27542,
+          "text": "hear the whole truth",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 373872,
+          "char_end": 373882,
+          "text": "no sort of",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "8e26dd5cd5df",
+      "sentence": "Ciel que Catherine ne, THE KAAN HOLDS ON, action is both.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 87340,
+          "char_end": 87361,
+          "text": "ciel que Catherine ne",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 229927,
+          "char_end": 229944,
+          "text": "THE KAAN HOLDS ON",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 178805,
+          "char_end": 178819,
+          "text": "action is both",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "71f8b108f316",
+      "sentence": "Their sins, do violence, me in reply.  I.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 268624,
+          "char_end": 268647,
+          "text": "their sins, do violence",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 218928,
+          "char_end": 218943,
+          "text": "me in reply.  I",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4e69840fc377",
+      "sentence": "Bavarder avec vous, lorsque, S.W. 1/2 S. for.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 92692,
+          "char_end": 92719,
+          "text": "bavarder avec vous, lorsque",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 577762,
+          "char_end": 577777,
+          "text": "S.W. 1/2 S. for",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8bd18c7bc73a",
+      "sentence": "Passed the neighboring house, red ochre and fish.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 32910,
+          "char_end": 32938,
+          "text": "passed the neighboring house",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 651949,
+          "char_end": 651967,
+          "text": "red ochre and fish",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
