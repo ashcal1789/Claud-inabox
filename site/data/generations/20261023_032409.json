@@ -1,0 +1,618 @@
+{
+  "run_id": "20261023_032409",
+  "run_date": "2026-10-23T03:24:09.829894+00:00Z",
+  "seed": 767015559,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "fc07d19e98c9",
+      "sentence": "Pale or blush for, to the lash of.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 83598,
+          "char_end": 83615,
+          "text": "pale or blush for",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 56505,
+          "char_end": 56519,
+          "text": "to the lash of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ae89ba700a78",
+      "sentence": "Is above. I have, having now made up, middle and at.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 129804,
+          "char_end": 129820,
+          "text": "is above. I have",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 131255,
+          "char_end": 131273,
+          "text": "having now made up",
+          "role": "continuation"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 348798,
+          "char_end": 348811,
+          "text": "middle and at",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "73be3e6abc9e",
+      "sentence": "His friend the fox, which were their last, own sands are.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 7567,
+          "char_end": 7585,
+          "text": "his friend the fox",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 524181,
+          "char_end": 524202,
+          "text": "which were their last",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 4916,
+          "char_end": 4929,
+          "text": "own sands are",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "5d95e01345fd",
+      "sentence": "Par de lor n, as the savage beast, the strength now.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 384880,
+          "char_end": 384892,
+          "text": "par de lor n",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 442454,
+          "char_end": 442473,
+          "text": "as the savage beast",
+          "role": "continuation"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 108129,
+          "char_end": 108145,
+          "text": "the strength now",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "df2ecc6df445",
+      "sentence": "Of the roofs, we, any effect. There would, through my task.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 20902,
+          "char_end": 20918,
+          "text": "of the roofs, we",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 79716,
+          "char_end": 79739,
+          "text": "any effect. There would",
+          "role": "continuation"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 215988,
+          "char_end": 216003,
+          "text": "through my task",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "9e82efeacf9b",
+      "sentence": "Xvii.) this result follows, chance has made us, himself otherwise,”—if.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 209162,
+          "char_end": 209188,
+          "text": "xvii.) this result follows",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 414913,
+          "char_end": 414931,
+          "text": "chance has made us",
+          "role": "continuation"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 16679,
+          "char_end": 16701,
+          "text": "himself otherwise,”—if",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "2eafa3d95dde",
+      "sentence": "Of his house will, to exist and operate, Channel--Ponsonby Sound--Build Wigwams.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 567647,
+          "char_end": 567664,
+          "text": "of his house will",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 139116,
+          "char_end": 139136,
+          "text": "to exist and operate",
+          "role": "continuation"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 478801,
+          "char_end": 478839,
+          "text": "Channel--Ponsonby Sound--Build Wigwams",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "42a6e2704981",
+      "sentence": "Solemn church, and scatter, at all. Else must.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 392644,
+          "char_end": 392670,
+          "text": "solemn church, and scatter",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 295171,
+          "char_end": 295188,
+          "text": "at all. Else must",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "12f7165bc502",
+      "sentence": "Lying at the point, cloud; it didn't come.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 335559,
+          "char_end": 335577,
+          "text": "lying at the point",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 111719,
+          "char_end": 111740,
+          "text": "cloud; it didn't come",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0a28f035ba2b",
+      "sentence": "That can hinder thee, de ses études ou des.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 79991,
+          "char_end": 80011,
+          "text": "that can hinder thee",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 80832,
+          "char_end": 80852,
+          "text": "de ses études ou des",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "73f571036d3c",
+      "sentence": "Scotland and I. of, these things, and examining.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 106927,
+          "char_end": 106945,
+          "text": "Scotland and I. of",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 138942,
+          "char_end": 138969,
+          "text": "these things, and examining",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4d024834f314",
+      "sentence": "Love was not return, grey snails without shells, monthly to 60 _lire de.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 186247,
+          "char_end": 186266,
+          "text": "love was not return",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 186948,
+          "char_end": 186974,
+          "text": "grey snails without shells",
+          "role": "continuation"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 345616,
+          "char_end": 345638,
+          "text": "monthly to 60 _lire de",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "c6f2543d980a",
+      "sentence": "Down upon them; around, will convince them of.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 262151,
+          "char_end": 262173,
+          "text": "down upon them; around",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 15369,
+          "char_end": 15390,
+          "text": "will convince them of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f39fb31917d1",
+      "sentence": "Father. At first he, true indeed so is.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 9642,
+          "char_end": 9661,
+          "text": "father. At first he",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 286141,
+          "char_end": 286158,
+          "text": "true indeed so is",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f88be036cd20",
+      "sentence": "Own cargo, beside the, home, my children, the.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 205630,
+          "char_end": 205651,
+          "text": "own cargo, beside the",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 20147,
+          "char_end": 20169,
+          "text": "home, my children, the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5a9ebad9e65d",
+      "sentence": "Against the Port-Royal, sent, door, and the egg, but that once.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 241714,
+          "char_end": 241742,
+          "text": "against the Port-Royal, sent",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 113070,
+          "char_end": 113087,
+          "text": "door, and the egg",
+          "role": "continuation"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 399643,
+          "char_end": 399656,
+          "text": "but that once",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "c46039783cd8",
+      "sentence": "D farm house, with, Diego, we had had, human passions to.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 84268,
+          "char_end": 84286,
+          "text": "d farm house, with",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 625646,
+          "char_end": 625663,
+          "text": "Diego, we had had",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 7904,
+          "char_end": 7921,
+          "text": "human passions to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "9f8a39f77594",
+      "sentence": "Ocean, itself a bad, off the basins, I.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 581254,
+          "char_end": 581273,
+          "text": "ocean, itself a bad",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 151779,
+          "char_end": 151796,
+          "text": "off the basins, I",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3b57fea77e94",
+      "sentence": "Now is your soul, property had taken half.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 605303,
+          "char_end": 605319,
+          "text": "Now is your soul",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 223315,
+          "char_end": 223338,
+          "text": "property had taken half",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2eaa99db9419",
+      "sentence": "Appearance. I expect to, precipitated into the boiling.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 182537,
+          "char_end": 182560,
+          "text": "appearance. I expect to",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 31850,
+          "char_end": 31879,
+          "text": "precipitated into the boiling",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
