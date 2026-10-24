@@ -1,0 +1,598 @@
+{
+  "run_id": "20261024_031809",
+  "run_date": "2026-10-24T03:18:09.789671+00:00Z",
+  "seed": 2198149244,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "3d1bbe5c58f8",
+      "sentence": "Carries no rational evidence, in order to escape, arbour! For really.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 300221,
+          "char_end": 300249,
+          "text": "carries no rational evidence",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 15244,
+          "char_end": 15262,
+          "text": "in order to escape",
+          "role": "continuation"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 435331,
+          "char_end": 435349,
+          "text": "arbour! For really",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f14609f62368",
+      "sentence": "Fell asleep at once, of having read or.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 180026,
+          "char_end": 180045,
+          "text": "fell asleep at once",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 151711,
+          "char_end": 151728,
+          "text": "of having read or",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c8a2172448e1",
+      "sentence": "Neck, and one leg, remember the Gods as.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 241657,
+          "char_end": 241674,
+          "text": "neck, and one leg",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 277994,
+          "char_end": 278014,
+          "text": "remember the Gods as",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8764869c55e8",
+      "sentence": "For the creaking of, There was myself, still, the armament intended.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 357196,
+          "char_end": 357215,
+          "text": "for the creaking of",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 515,
+          "char_end": 538,
+          "text": "There was myself, still",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 588561,
+          "char_end": 588582,
+          "text": "the armament intended",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "b495a833b452",
+      "sentence": "Be fleeing through that, it nor can do.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 34403,
+          "char_end": 34426,
+          "text": "be fleeing through that",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 55788,
+          "char_end": 55801,
+          "text": "it nor can do",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3e0bffd1e18e",
+      "sentence": "Or enlarges the heart, A hurry in the.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 153116,
+          "char_end": 153137,
+          "text": "or enlarges the heart",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 120637,
+          "char_end": 120651,
+          "text": "A hurry in the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f40450b0e086",
+      "sentence": "De Nathaniel, monsieur, n', in \"A Masque of, was sorry that.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 107489,
+          "char_end": 107515,
+          "text": "de Nathaniel, monsieur, n'",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 6172,
+          "char_end": 6187,
+          "text": "in \"A Masque of",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 326547,
+          "char_end": 326561,
+          "text": "was sorry that",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "60eac658b75d",
+      "sentence": "Coolest cellar, but drive, rose turned away with.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 244747,
+          "char_end": 244772,
+          "text": "coolest cellar, but drive",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 22480,
+          "char_end": 22501,
+          "text": "rose turned away with",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "70f861acc3d9",
+      "sentence": "America is a Christianity, And what shall I, whirls round his.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 217492,
+          "char_end": 217517,
+          "text": "America is a Christianity",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 72475,
+          "char_end": 72491,
+          "text": "And what shall I",
+          "role": "continuation"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 104079,
+          "char_end": 104095,
+          "text": "whirls round his",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "7ba5e4156700",
+      "sentence": "And jewels, and everything, though they be no.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 85646,
+          "char_end": 85672,
+          "text": "and jewels, and everything",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 119164,
+          "char_end": 119181,
+          "text": "though they be no",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "241e80951e38",
+      "sentence": "Was, nor would be, be surrounded by beautiful, above those of.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 455367,
+          "char_end": 455384,
+          "text": "was, nor would be",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 135132,
+          "char_end": 135158,
+          "text": "be surrounded by beautiful",
+          "role": "continuation"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 23049,
+          "char_end": 23063,
+          "text": "above those of",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "6114642c6c02",
+      "sentence": "Sweet litigants for life, Smiles on thee, on.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 28623,
+          "char_end": 28647,
+          "text": "Sweet litigants for life",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 8440,
+          "char_end": 8458,
+          "text": "Smiles on thee, on",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "de366eaab6cf",
+      "sentence": "He did was to, son of the inspector.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 533862,
+          "char_end": 533875,
+          "text": "he did was to",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 103175,
+          "char_end": 103195,
+          "text": "son of the inspector",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7fc371e9ba1b",
+      "sentence": "He was a tom-cat, parental functions till the.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 106330,
+          "char_end": 106346,
+          "text": "He was a tom-cat",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 218575,
+          "char_end": 218602,
+          "text": "parental functions till the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c68452939b94",
+      "sentence": "For a whole voyage, this gas. (I hold.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 49588,
+          "char_end": 49606,
+          "text": "for a whole voyage",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 77204,
+          "char_end": 77221,
+          "text": "this gas. (I hold",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "bc8c73c6edb4",
+      "sentence": "The stop-cocks were then, to the human form.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 100369,
+          "char_end": 100393,
+          "text": "The stop-cocks were then",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 9038,
+          "char_end": 9055,
+          "text": "to the human form",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "dd3dc4ac379d",
+      "sentence": "Dynasty of the Silvii, as being the meanest, la fin de.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 532866,
+          "char_end": 532887,
+          "text": "dynasty of the Silvii",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 88605,
+          "char_end": 88625,
+          "text": "as being the meanest",
+          "role": "continuation"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 136619,
+          "char_end": 136628,
+          "text": "la fin de",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4399fa162734",
+      "sentence": "Whose soul is soon, was often seen by, the idea which.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 299639,
+          "char_end": 299657,
+          "text": "whose soul is soon",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 179699,
+          "char_end": 179716,
+          "text": "was often seen by",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 172054,
+          "char_end": 172068,
+          "text": "the idea which",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "5125f72691d0",
+      "sentence": "Avoit oncques puis |Messires, shall now have a.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 20839,
+          "char_end": 20867,
+          "text": "avoit oncques puis |Messires",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 178493,
+          "char_end": 178509,
+          "text": "shall now have a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "cdd3454a809f",
+      "sentence": "Is fixed and determined, support the pulpit, and.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 141740,
+          "char_end": 141763,
+          "text": "is fixed and determined",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 216628,
+          "char_end": 216651,
+          "text": "support the pulpit, and",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
