@@ -1,0 +1,578 @@
+{
+  "run_id": "20261025_031315",
+  "run_date": "2026-10-25T03:13:15.316629+00:00Z",
+  "seed": 643339738,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "1a97bf8186e3",
+      "sentence": "Moral. There is never, any furrows, it is.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 383744,
+          "char_end": 383765,
+          "text": "moral. There is never",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 140533,
+          "char_end": 140551,
+          "text": "any furrows, it is",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5116278cd4f9",
+      "sentence": "He: ‘I am your, of Siberia to be.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 257496,
+          "char_end": 257510,
+          "text": "he: ‘I am your",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 110642,
+          "char_end": 110658,
+          "text": "of Siberia to be",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2775f85d011a",
+      "sentence": "Cannot fall the young, of his dead forefathers.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 112150,
+          "char_end": 112171,
+          "text": "cannot fall the young",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 162699,
+          "char_end": 162722,
+          "text": "of his dead forefathers",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8fed136cbdb3",
+      "sentence": "O’er heaven’s, reached the entrance of, you were throwing.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 27970,
+          "char_end": 27983,
+          "text": "o’er heaven’s",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 437622,
+          "char_end": 437645,
+          "text": "reached the entrance of",
+          "role": "continuation"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 15325,
+          "char_end": 15342,
+          "text": "you were throwing",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4fb91d30d320",
+      "sentence": "All natives, nothing was, weary child, for there.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 378872,
+          "char_end": 378896,
+          "text": "all natives, nothing was",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 16973,
+          "char_end": 16995,
+          "text": "weary child, for there",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "cc4ab9141568",
+      "sentence": "Next morning the 17th of, the period 1869–74, may be.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 86485,
+          "char_end": 86509,
+          "text": "next morning the 17th of",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 120752,
+          "char_end": 120778,
+          "text": "the period 1869–74, may be",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "355e6b08e40d",
+      "sentence": "The dizziness ceased; we, how the fire ebbs.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 26838,
+          "char_end": 26862,
+          "text": "the dizziness ceased; we",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 157464,
+          "char_end": 157481,
+          "text": "how the fire ebbs",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8931701512b1",
+      "sentence": "Obstacle, therefore, to our, la Notre-Dame, voilà Catherine qui.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 108727,
+          "char_end": 108754,
+          "text": "obstacle, therefore, to our",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 157717,
+          "char_end": 157751,
+          "text": "la Notre-Dame, voilà Catherine qui",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "19e8903be076",
+      "sentence": "Let him say, if, had come to sow, been allowed to.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 67637,
+          "char_end": 67652,
+          "text": "let him say, if",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 514273,
+          "char_end": 514288,
+          "text": "had come to sow",
+          "role": "continuation"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 101704,
+          "char_end": 101719,
+          "text": "been allowed to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "960ed693c647",
+      "sentence": "Confidence in you, and, to the first years, The angels must.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 445343,
+          "char_end": 445365,
+          "text": "confidence in you, and",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 239093,
+          "char_end": 239111,
+          "text": "to the first years",
+          "role": "continuation"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 117203,
+          "char_end": 117218,
+          "text": "The angels must",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "03a53715f9d8",
+      "sentence": "Calk. It, however, proved, palings when the Windows.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 174641,
+          "char_end": 174666,
+          "text": "calk. It, however, proved",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 34029,
+          "char_end": 34053,
+          "text": "palings when the Windows",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b45853872416",
+      "sentence": "Are doing in England, furled the tattered topsail.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 136492,
+          "char_end": 136512,
+          "text": "are doing in England",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 487495,
+          "char_end": 487522,
+          "text": "furled the tattered topsail",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "cd3217d28986",
+      "sentence": "A negro-cook to a, at the fly on.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 522653,
+          "char_end": 522670,
+          "text": "a negro-cook to a",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 80310,
+          "char_end": 80323,
+          "text": "at the fly on",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5b0be719ee37",
+      "sentence": "Roaring of the water, rares qualités enfin, et la.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 22445,
+          "char_end": 22465,
+          "text": "roaring of the water",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 58008,
+          "char_end": 58035,
+          "text": "rares qualités enfin, et la",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "53d392e7e273",
+      "sentence": "Can act through it, we must speak of.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 584473,
+          "char_end": 584491,
+          "text": "can act through it",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 5620,
+          "char_end": 5636,
+          "text": "we must speak of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "dd6aca9de70e",
+      "sentence": "PROP. LVII.  The proud, And he laughing said, end of Middleburg.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 398429,
+          "char_end": 398451,
+          "text": "PROP. LVII.  The proud",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 1371,
+          "char_end": 1391,
+          "text": "And he laughing said",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 423611,
+          "char_end": 423628,
+          "text": "end of Middleburg",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "05a0f1016efa",
+      "sentence": "Topic be specious and, allow the older boys.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 189141,
+          "char_end": 189162,
+          "text": "topic be specious and",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 66956,
+          "char_end": 66976,
+          "text": "allow the older boys",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f227d83a022d",
+      "sentence": "Relatives, fathers, brothers, or, seventy ounces, and a, sick and in.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 66551,
+          "char_end": 66583,
+          "text": "relatives, fathers, brothers, or",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 174695,
+          "char_end": 174716,
+          "text": "seventy ounces, and a",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 140081,
+          "char_end": 140092,
+          "text": "sick and in",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "01d4d29edb4f",
+      "sentence": "To my morning’s, to the forest, and.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 231372,
+          "char_end": 231387,
+          "text": "to my morning’s",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 491548,
+          "char_end": 491566,
+          "text": "to the forest, and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4d8dbdaa145c",
+      "sentence": "That their motive was, when fed on hempseed.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 685839,
+          "char_end": 685860,
+          "text": "that their motive was",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 170031,
+          "char_end": 170051,
+          "text": "when fed on hempseed",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
