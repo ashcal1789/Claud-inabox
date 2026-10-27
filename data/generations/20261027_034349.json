@@ -1,0 +1,588 @@
+{
+  "run_id": "20261027_034349",
+  "run_date": "2026-10-27T03:43:49.746125+00:00Z",
+  "seed": 3892108358,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "b300008b83cf",
+      "sentence": "To Bagdad with so, we were sure to.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 200936,
+          "char_end": 200953,
+          "text": "to Bagdad with so",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 111588,
+          "char_end": 111603,
+          "text": "we were sure to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f56e29c7874a",
+      "sentence": "But a wisdom clarified, So I piped with, arranger l'appartement de.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 398255,
+          "char_end": 398277,
+          "text": "but a wisdom clarified",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 1432,
+          "char_end": 1447,
+          "text": "So I piped with",
+          "role": "continuation"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 85209,
+          "char_end": 85234,
+          "text": "arranger l'appartement de",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "196693c4c56c",
+      "sentence": "And grandeur of southern, bench and said quite.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 205692,
+          "char_end": 205716,
+          "text": "and grandeur of southern",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 468167,
+          "char_end": 468187,
+          "text": "bench and said quite",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d364b2e7aff4",
+      "sentence": "Know I'd sooner be, able draughtsman: for he.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 194063,
+          "char_end": 194081,
+          "text": "know I'd sooner be",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 184206,
+          "char_end": 184230,
+          "text": "able draughtsman: for he",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2d5c88c7e782",
+      "sentence": "It has been divided, the crew as a.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 635008,
+          "char_end": 635027,
+          "text": "it has been divided",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 89594,
+          "char_end": 89607,
+          "text": "the crew as a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e029803be428",
+      "sentence": "Require a Letter of, bard out of Manhattan, The greater number.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 540139,
+          "char_end": 540158,
+          "text": "require a Letter of",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 397851,
+          "char_end": 397872,
+          "text": "bard out of Manhattan",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 183093,
+          "char_end": 183111,
+          "text": "The greater number",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "b8d80b929338",
+      "sentence": "What calls they answered, Island to Point Jackson.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 26584,
+          "char_end": 26608,
+          "text": "what calls they answered",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 240737,
+          "char_end": 240760,
+          "text": "Island to Point Jackson",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a40d01f9a416",
+      "sentence": "Especially clearly, that we, The hollow in the.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 173539,
+          "char_end": 173566,
+          "text": "especially clearly, that we",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 12283,
+          "char_end": 12300,
+          "text": "The hollow in the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f8e436f17e46",
+      "sentence": "Which its bill was, diagnose the shifting-delicate tints.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 431082,
+          "char_end": 431100,
+          "text": "which its bill was",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 699370,
+          "char_end": 699406,
+          "text": "diagnose the shifting-delicate tints",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "09f890dd9811",
+      "sentence": "Lost those members, frequently, only knew Yule in.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 117664,
+          "char_end": 117694,
+          "text": "lost those members, frequently",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 114469,
+          "char_end": 114486,
+          "text": "only knew Yule in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "22c14045529e",
+      "sentence": "The trees before them, modification of the human, setting forth her.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 66948,
+          "char_end": 66969,
+          "text": "the trees before them",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 134262,
+          "char_end": 134287,
+          "text": "modification of the human",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 20870,
+          "char_end": 20887,
+          "text": "setting forth her",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "484ececc2c08",
+      "sentence": "The revelation has been, passion were so thoroughly.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 334179,
+          "char_end": 334202,
+          "text": "the revelation has been",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 184894,
+          "char_end": 184920,
+          "text": "passion were so thoroughly",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b941461c7d71",
+      "sentence": "Any degree of elegance, less than any finite.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 275436,
+          "char_end": 275458,
+          "text": "any degree of elegance",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 301809,
+          "char_end": 301829,
+          "text": "less than any finite",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "dfed6fbcb571",
+      "sentence": "Only tends to increase, do appear so to, have God for.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 137144,
+          "char_end": 137166,
+          "text": "only tends to increase",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 747368,
+          "char_end": 747383,
+          "text": "do appear so to",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 6172,
+          "char_end": 6184,
+          "text": "have God for",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "e0d2ff880cd6",
+      "sentence": "Harriet and they had, Grandpa, give us some, aspect for new.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 148314,
+          "char_end": 148334,
+          "text": "Harriet and they had",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 1820,
+          "char_end": 1841,
+          "text": "Grandpa, give us some",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 273099,
+          "char_end": 273113,
+          "text": "aspect for new",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f18c9866341e",
+      "sentence": "Strewing the square rod, to a splendid house.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 106687,
+          "char_end": 106710,
+          "text": "strewing the square rod",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 362182,
+          "char_end": 362201,
+          "text": "to a splendid house",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9c90686071f9",
+      "sentence": "Find no want of, were told was to.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 64781,
+          "char_end": 64796,
+          "text": "find no want of",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 629727,
+          "char_end": 629743,
+          "text": "were told was to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3c6eafa064a7",
+      "sentence": "To tell a little, was our disappointment to.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 83654,
+          "char_end": 83670,
+          "text": "to tell a little",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 397411,
+          "char_end": 397436,
+          "text": "was our disappointment to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b39b67c45cdb",
+      "sentence": "Not rectify thy moral, vice versa, this idea, would set her.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 229818,
+          "char_end": 229839,
+          "text": "not rectify thy moral",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 169089,
+          "char_end": 169110,
+          "text": "vice versa, this idea",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 401257,
+          "char_end": 401270,
+          "text": "would set her",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "95e6053c2b05",
+      "sentence": "A spite it is, All this took place.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 203008,
+          "char_end": 203021,
+          "text": "a spite it is",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 179024,
+          "char_end": 179043,
+          "text": "All this took place",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
