@@ -1,0 +1,618 @@
+{
+  "run_id": "20261029_002105",
+  "run_date": "2026-10-29T00:21:05.379037+00:00Z",
+  "seed": 973704235,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "b747bfe8d308",
+      "sentence": "Always somehow associate Chatterton, as he is regarded.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 624101,
+          "char_end": 624136,
+          "text": "always somehow associate Chatterton",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 191188,
+          "char_end": 191205,
+          "text": "as he is regarded",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "207aaba1f713",
+      "sentence": "With slight changes and, I have formed a, too lamentable a.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 786006,
+          "char_end": 786029,
+          "text": "with slight changes and",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 35995,
+          "char_end": 36010,
+          "text": "I have formed a",
+          "role": "continuation"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 630387,
+          "char_end": 630403,
+          "text": "too lamentable a",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "7a1d6e5b83e4",
+      "sentence": "Work with him), and, In one consummate bill.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 166261,
+          "char_end": 166280,
+          "text": "work with him), and",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 160946,
+          "char_end": 160968,
+          "text": "In one consummate bill",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c1ceb40eed3d",
+      "sentence": "His beam in readiness, of his character are.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 27923,
+          "char_end": 27944,
+          "text": "his beam in readiness",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 1690,
+          "char_end": 1710,
+          "text": "of his character are",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5aed1c442b10",
+      "sentence": "The world, than of, Holy image I can, of the Upper.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 179564,
+          "char_end": 179582,
+          "text": "the world, than of",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 8234,
+          "char_end": 8250,
+          "text": "Holy image I can",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 283448,
+          "char_end": 283460,
+          "text": "of the Upper",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "8e4e8a8c67d6",
+      "sentence": "Of opening out air, with some ceremony. Three.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 122104,
+          "char_end": 122122,
+          "text": "of opening out air",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 315089,
+          "char_end": 315114,
+          "text": "with some ceremony. Three",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "53d7e31b78f3",
+      "sentence": "Against adultery. We have, left the bottom, by.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 215796,
+          "char_end": 215821,
+          "text": "against adultery. We have",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 500559,
+          "char_end": 500578,
+          "text": "left the bottom, by",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "cec4c01216f0",
+      "sentence": "Cottages without seeing cloth, treasurer of the well-known.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 51580,
+          "char_end": 51609,
+          "text": "cottages without seeing cloth",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 1550,
+          "char_end": 1577,
+          "text": "treasurer of the well-known",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "761f1083b8d6",
+      "sentence": "Of Manners between the, of the beams, felt, of genius however.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 185310,
+          "char_end": 185332,
+          "text": "of Manners between the",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 25687,
+          "char_end": 25705,
+          "text": "of the beams, felt",
+          "role": "continuation"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 125263,
+          "char_end": 125280,
+          "text": "of genius however",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "610b5e06e448",
+      "sentence": "At Rio, I resided, or the lines of.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 61851,
+          "char_end": 61868,
+          "text": "at Rio, I resided",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 306761,
+          "char_end": 306776,
+          "text": "or the lines of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c5254cf7ab00",
+      "sentence": "On board, I saw, this journey his wife, light, and gives.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 631150,
+          "char_end": 631165,
+          "text": "on board, I saw",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 6584,
+          "char_end": 6605,
+          "text": "this journey his wife",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 4062,
+          "char_end": 4078,
+          "text": "light, and gives",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "1bd15d09f280",
+      "sentence": "To act in a, the hills to the.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 286435,
+          "char_end": 286446,
+          "text": "to act in a",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 248731,
+          "char_end": 248747,
+          "text": "the hills to the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ab9049caef9b",
+      "sentence": "Conduire à votre appartement de, farther than he need.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 110630,
+          "char_end": 110661,
+          "text": "conduire à votre appartement de",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 21287,
+          "char_end": 21307,
+          "text": "farther than he need",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8e10a8d3969c",
+      "sentence": "To the manner of, the knees and stanchions, and honour be.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 91777,
+          "char_end": 91793,
+          "text": "to the manner of",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 395555,
+          "char_end": 395579,
+          "text": "the knees and stanchions",
+          "role": "continuation"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 155265,
+          "char_end": 155278,
+          "text": "and honour be",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "1803d4746be8",
+      "sentence": "Pity, a human face, fall, or to work.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 8883,
+          "char_end": 8901,
+          "text": "Pity, a human face",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 202564,
+          "char_end": 202580,
+          "text": "fall, or to work",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "817d5fada16b",
+      "sentence": "A man’s place, went on trou' de.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 54845,
+          "char_end": 54858,
+          "text": "a man’s place",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 112017,
+          "char_end": 112033,
+          "text": "went on trou' de",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1e0dea1bcd3e",
+      "sentence": "Name of \"Joe.\" Joe, the first game, but, the outer coast.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 38231,
+          "char_end": 38249,
+          "text": "name of \"Joe.\" Joe",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 128169,
+          "char_end": 128188,
+          "text": "the first game, but",
+          "role": "continuation"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 551765,
+          "char_end": 551780,
+          "text": "the outer coast",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "cd185b7719b5",
+      "sentence": "No less a man, summer of 1817, and was, which we named.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 240396,
+          "char_end": 240409,
+          "text": "No less a man",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 26821,
+          "char_end": 26844,
+          "text": "summer of 1817, and was",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 116362,
+          "char_end": 116376,
+          "text": "which we named",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "a520daa7c5a0",
+      "sentence": "At him from head, dining room, where we, hundred thousand. Should.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 551946,
+          "char_end": 551962,
+          "text": "at him from head",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 4884,
+          "char_end": 4905,
+          "text": "dining room, where we",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 99369,
+          "char_end": 99393,
+          "text": "hundred thousand. Should",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "279e019d9b25",
+      "sentence": "Not be able to, life, and she has, mind which moderates.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 304567,
+          "char_end": 304581,
+          "text": "not be able to",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 87101,
+          "char_end": 87118,
+          "text": "life, and she has",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 277474,
+          "char_end": 277494,
+          "text": "mind which moderates",
+          "role": "closing"
+        }
+      ]
+    }
+  ]
+}
