@@ -1,0 +1,568 @@
+{
+  "run_id": "20261101_002134",
+  "run_date": "2026-11-01T00:21:34.803944+00:00Z",
+  "seed": 2740002975,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "dbf30da03e64",
+      "sentence": "Life the first time, self-imposed fines to the.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 99159,
+          "char_end": 99178,
+          "text": "life the first time",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 66654,
+          "char_end": 66679,
+          "text": "self-imposed fines to the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3ca013dfb931",
+      "sentence": "Utmost horror and dread, her in June, 1842, she, of performing all.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 98003,
+          "char_end": 98026,
+          "text": "utmost horror and dread",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 408884,
+          "char_end": 408906,
+          "text": "her in June, 1842, she",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 387645,
+          "char_end": 387662,
+          "text": "of performing all",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f5b5bbb0bb93",
+      "sentence": "And if his cloaths, heat enough to melt.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 95229,
+          "char_end": 95247,
+          "text": "and if his cloaths",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 203542,
+          "char_end": 203561,
+          "text": "heat enough to melt",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f4d035fd38f1",
+      "sentence": "For which reason if, purse-strings would fly open, the College from.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 324527,
+          "char_end": 324546,
+          "text": "for which reason if",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 565358,
+          "char_end": 565386,
+          "text": "purse-strings would fly open",
+          "role": "continuation"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 10936,
+          "char_end": 10952,
+          "text": "the College from",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "5487e1f23c04",
+      "sentence": "Holy thing to see, to be unbound and.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 16463,
+          "char_end": 16480,
+          "text": "holy thing to see",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 567361,
+          "char_end": 567378,
+          "text": "to be unbound and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b6a324079e7a",
+      "sentence": "World. Now since that, Who knocks? That April.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 205460,
+          "char_end": 205481,
+          "text": "world. Now since that",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 149395,
+          "char_end": 149417,
+          "text": "Who knocks? That April",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3493e49df792",
+      "sentence": "That know her not, Old farmers, travelers, workmen.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 152544,
+          "char_end": 152561,
+          "text": "that know her not",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 704794,
+          "char_end": 704825,
+          "text": "Old farmers, travelers, workmen",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "fd5eef7ab4b4",
+      "sentence": "Taste, much like that, play till the light.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 418941,
+          "char_end": 418962,
+          "text": "taste, much like that",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 12533,
+          "char_end": 12552,
+          "text": "play till the light",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "515abc20b478",
+      "sentence": "At last very wide, was sheltered under them, perfect arms upon.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 107508,
+          "char_end": 107525,
+          "text": "at last very wide",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 64223,
+          "char_end": 64247,
+          "text": "was sheltered under them",
+          "role": "continuation"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 209919,
+          "char_end": 209936,
+          "text": "perfect arms upon",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "3444ce7363f4",
+      "sentence": "Built on a hillock, of thinking, which belongs.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 10857,
+          "char_end": 10875,
+          "text": "built on a hillock",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 475706,
+          "char_end": 475732,
+          "text": "of thinking, which belongs",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4bf4e73665b9",
+      "sentence": "Topsails, fore-topmast staysail and, twins remain throughout life.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 447331,
+          "char_end": 447366,
+          "text": "topsails, fore-topmast staysail and",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 225523,
+          "char_end": 225551,
+          "text": "twins remain throughout life",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e86496bd724b",
+      "sentence": "Diffused, and by natural, about an hour, I.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 98747,
+          "char_end": 98771,
+          "text": "diffused, and by natural",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 343166,
+          "char_end": 343182,
+          "text": "about an hour, I",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7952b2f8ca79",
+      "sentence": "Pris sa future par, see her, as he, I was gone.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 95846,
+          "char_end": 95864,
+          "text": "pris sa future par",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 155711,
+          "char_end": 155725,
+          "text": "see her, as he",
+          "role": "continuation"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 119843,
+          "char_end": 119853,
+          "text": "I was gone",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "7ee20d292908",
+      "sentence": "Spared to me for, had received respecting the.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 207548,
+          "char_end": 207564,
+          "text": "spared to me for",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 204722,
+          "char_end": 204749,
+          "text": "had received respecting the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "56803439cec3",
+      "sentence": "Again out in the, Fear me not! I.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 3876,
+          "char_end": 3892,
+          "text": "again out in the",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 479178,
+          "char_end": 479192,
+          "text": "Fear me not! I",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "88ca50fabcde",
+      "sentence": "As shell fire; but, his Researches in Zoology.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 111981,
+          "char_end": 111999,
+          "text": "as shell fire; but",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 413074,
+          "char_end": 413099,
+          "text": "his Researches in Zoology",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "800d6d6cf349",
+      "sentence": "Off from the turpentine, the greatness of man.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 152150,
+          "char_end": 152173,
+          "text": "off from the turpentine",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 539633,
+          "char_end": 539653,
+          "text": "the greatness of man",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "626841a2583e",
+      "sentence": "And come with us, the sake of enjoying.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 213764,
+          "char_end": 213780,
+          "text": "and come with us",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 255731,
+          "char_end": 255751,
+          "text": "the sake of enjoying",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "aa2d720acad5",
+      "sentence": "Wherein as a child, most room is on.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 242879,
+          "char_end": 242897,
+          "text": "wherein as a child",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 202052,
+          "char_end": 202067,
+          "text": "most room is on",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "523fa4a01265",
+      "sentence": "Bad matter worse, both, runs for a considerable.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 32398,
+          "char_end": 32420,
+          "text": "bad matter worse, both",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 208589,
+          "char_end": 208612,
+          "text": "runs for a considerable",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
