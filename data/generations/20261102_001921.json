@@ -1,0 +1,548 @@
+{
+  "run_id": "20261102_001921",
+  "run_date": "2026-11-02T00:19:21.629218+00:00Z",
+  "seed": 3403259413,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "55e4f6f65a95",
+      "sentence": "Rhodes to throw the, picks up crumbs around, that stay there.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 266840,
+          "char_end": 266859,
+          "text": "Rhodes to throw the",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 26736,
+          "char_end": 26758,
+          "text": "picks up crumbs around",
+          "role": "continuation"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 10870,
+          "char_end": 10885,
+          "text": "that stay there",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "616343a38f6d",
+      "sentence": "I am tired of, the will gives us.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 232614,
+          "char_end": 232627,
+          "text": "I am tired of",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 121813,
+          "char_end": 121830,
+          "text": "the will gives us",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ca735697f69f",
+      "sentence": "Other changes of the, from the India Council.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 362605,
+          "char_end": 362625,
+          "text": "other changes of the",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 122965,
+          "char_end": 122987,
+          "text": "from the India Council",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "968f0d785cc0",
+      "sentence": "Do no more mischief, le bien que j'entends.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 22190,
+          "char_end": 22209,
+          "text": "do no more mischief",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 133419,
+          "char_end": 133440,
+          "text": "le bien que j'entends",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "fd3647c00447",
+      "sentence": "Prince Perviz's grief at, bid me say thirty.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 566615,
+          "char_end": 566639,
+          "text": "Prince Perviz's grief at",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 77165,
+          "char_end": 77182,
+          "text": "bid me say thirty",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "48df3d61b9fd",
+      "sentence": "Having a week ago, Gentleman who is the.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 55982,
+          "char_end": 55999,
+          "text": "having a week ago",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 409340,
+          "char_end": 409360,
+          "text": "Gentleman who is the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3d6dd3307014",
+      "sentence": "Fulfilling their instinct of, seems to be well, man, is evil.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 352165,
+          "char_end": 352193,
+          "text": "fulfilling their instinct of",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 438481,
+          "char_end": 438497,
+          "text": "seems to be well",
+          "role": "continuation"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 56387,
+          "char_end": 56399,
+          "text": "man, is evil",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "dee8ff8f09a5",
+      "sentence": "Who had escaped a, my pretty one,\" says.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 197207,
+          "char_end": 197224,
+          "text": "who had escaped a",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 48941,
+          "char_end": 48961,
+          "text": "my pretty one,\" says",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "fd30d18a516f",
+      "sentence": "Near neighborhood of man, brilliant again. The candle.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 232065,
+          "char_end": 232089,
+          "text": "near neighborhood of man",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 25341,
+          "char_end": 25368,
+          "text": "brilliant again. The candle",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b5d5b0387515",
+      "sentence": "Roof Aimee, still standing, And so he was.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 26194,
+          "char_end": 26220,
+          "text": "roof Aimee, still standing",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 5643,
+          "char_end": 5656,
+          "text": "And so he was",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d9745b78eb99",
+      "sentence": "Southern states of India, know that their love.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 300968,
+          "char_end": 300992,
+          "text": "southern states of India",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 70823,
+          "char_end": 70843,
+          "text": "know that their love",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5e1c653db38b",
+      "sentence": "And nations do not, The pale sky looked.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 12120,
+          "char_end": 12138,
+          "text": "and nations do not",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 14974,
+          "char_end": 14993,
+          "text": "The pale sky looked",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "eb75d2bbc2b1",
+      "sentence": "And one bad man, flatter himself with a.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 821058,
+          "char_end": 821073,
+          "text": "and one bad man",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 12180,
+          "char_end": 12202,
+          "text": "flatter himself with a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3a8c095a043a",
+      "sentence": "Of his equals, or, the latter part of.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 272697,
+          "char_end": 272714,
+          "text": "of his equals, or",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 658138,
+          "char_end": 658156,
+          "text": "the latter part of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9d83a4525826",
+      "sentence": "His cart behind him, Jonathan should be ashamed.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 58671,
+          "char_end": 58690,
+          "text": "his cart behind him",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 63014,
+          "char_end": 63040,
+          "text": "Jonathan should be ashamed",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7077e0867cb0",
+      "sentence": "In that self-same moon, the pretended Amena and.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 613743,
+          "char_end": 613765,
+          "text": "in that self-same moon",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 482992,
+          "char_end": 483015,
+          "text": "the pretended Amena and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "bcbd7daab7bd",
+      "sentence": "Good man either in, chimneys and houses, they.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 16168,
+          "char_end": 16186,
+          "text": "good man either in",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 71642,
+          "char_end": 71667,
+          "text": "chimneys and houses, they",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3bf682b74293",
+      "sentence": "Your suite, and you, kind, you will make.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 365158,
+          "char_end": 365177,
+          "text": "your suite, and you",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 58701,
+          "char_end": 58720,
+          "text": "kind, you will make",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1496689d4b89",
+      "sentence": "Of thought and vivacity, soudaine fait contracter excessivement.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 96462,
+          "char_end": 96485,
+          "text": "of thought and vivacity",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 45079,
+          "char_end": 45117,
+          "text": "soudaine fait contracter excessivement",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d15454bb4d9e",
+      "sentence": "And asked if the, but upon reflecting that.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 56770,
+          "char_end": 56786,
+          "text": "and asked if the",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 372094,
+          "char_end": 372118,
+          "text": "but upon reflecting that",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
