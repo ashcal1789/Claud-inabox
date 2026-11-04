@@ -1,0 +1,598 @@
+{
+  "run_id": "20261104_001804",
+  "run_date": "2026-11-04T00:18:04.966924+00:00Z",
+  "seed": 776101358,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "369aececa147",
+      "sentence": "Our conception of a, man, and was conducted, his beam wrested.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 474226,
+          "char_end": 474245,
+          "text": "Our conception of a",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 643247,
+          "char_end": 643269,
+          "text": "man, and was conducted",
+          "role": "continuation"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 28360,
+          "char_end": 28376,
+          "text": "his beam wrested",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "b9a78ae9addb",
+      "sentence": "As his own child, consciousness, but a sleep.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 133660,
+          "char_end": 133676,
+          "text": "as his own child",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 82337,
+          "char_end": 82363,
+          "text": "consciousness, but a sleep",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1536ddd29983",
+      "sentence": "Sea. He swam about, by the qualities which, matter; and by.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 328976,
+          "char_end": 328994,
+          "text": "sea. He swam about",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 43338,
+          "char_end": 43360,
+          "text": "by the qualities which",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 171386,
+          "char_end": 171400,
+          "text": "matter; and by",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "9a7cdfa117e2",
+      "sentence": "Or four years, when, to live with Master, dawns; the birds.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 67913,
+          "char_end": 67932,
+          "text": "or four years, when",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 105290,
+          "char_end": 105309,
+          "text": "to live with Master",
+          "role": "continuation"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 54405,
+          "char_end": 54421,
+          "text": "dawns; the birds",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "82f109401383",
+      "sentence": "Perceptions, of which we, which initial letters are.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 25610,
+          "char_end": 25634,
+          "text": "perceptions, of which we",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 5653,
+          "char_end": 5678,
+          "text": "which initial letters are",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "fb03dc025988",
+      "sentence": "Asleep they fall betimes, was offered to me.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 592176,
+          "char_end": 592200,
+          "text": "asleep they fall betimes",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 22264,
+          "char_end": 22281,
+          "text": "was offered to me",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "dcc7c70c4d7b",
+      "sentence": "Informing their mistress with, show himself in the.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 374765,
+          "char_end": 374794,
+          "text": "informing their mistress with",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 319591,
+          "char_end": 319610,
+          "text": "show himself in the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "983c06b1e263",
+      "sentence": "Rain threatens to spoil, borrowed a grammar and.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 288958,
+          "char_end": 288981,
+          "text": "rain threatens to spoil",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 181605,
+          "char_end": 181627,
+          "text": "borrowed a grammar and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c02fd0e7f9f1",
+      "sentence": "On the limits, trying, affront: son nom est, given us a.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 7611,
+          "char_end": 7632,
+          "text": "on the limits, trying",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 58507,
+          "char_end": 58527,
+          "text": "affront: son nom est",
+          "role": "continuation"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 653465,
+          "char_end": 653475,
+          "text": "given us a",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "3e162ff40c0e",
+      "sentence": "The same emotion; or, told heavily upon the, burst of the.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 471048,
+          "char_end": 471068,
+          "text": "the same emotion; or",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 365802,
+          "char_end": 365823,
+          "text": "told heavily upon the",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 205181,
+          "char_end": 205193,
+          "text": "burst of the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "2be79ea4906b",
+      "sentence": "Of their hands into, evident, that men are.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 98545,
+          "char_end": 98564,
+          "text": "of their hands into",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 292159,
+          "char_end": 292180,
+          "text": "evident, that men are",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c3f247793be0",
+      "sentence": "Position of reefs and, ma douce amie, nous.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 32817,
+          "char_end": 32838,
+          "text": "position of reefs and",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 123323,
+          "char_end": 123342,
+          "text": "ma douce amie, nous",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c1dc162354ff",
+      "sentence": "As all the other, it that I do.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 303223,
+          "char_end": 303239,
+          "text": "as all the other",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 179257,
+          "char_end": 179269,
+          "text": "it that I do",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "05347b6ab12e",
+      "sentence": "Cool, he gives the, measure vanished before the.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 11222,
+          "char_end": 11240,
+          "text": "cool, he gives the",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 288557,
+          "char_end": 288584,
+          "text": "measure vanished before the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "33f41f7da2a2",
+      "sentence": "Autumnal crocus, which have, in which this is, The feather was.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 383694,
+          "char_end": 383721,
+          "text": "autumnal crocus, which have",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 454661,
+          "char_end": 454677,
+          "text": "in which this is",
+          "role": "continuation"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 255900,
+          "char_end": 255915,
+          "text": "The feather was",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "96b23d65ea7b",
+      "sentence": "Sun is gone down, desire to eat, she.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 20170,
+          "char_end": 20186,
+          "text": "sun is gone down",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 206336,
+          "char_end": 206354,
+          "text": "desire to eat, she",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e8cd5ac59254",
+      "sentence": "Her child.\" Siamese monks, following night exactly the.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 369537,
+          "char_end": 369562,
+          "text": "her child.\" Siamese monks",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 419925,
+          "char_end": 419952,
+          "text": "following night exactly the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3e40171169f5",
+      "sentence": "Most room is on, excess of moisture. As.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 202052,
+          "char_end": 202067,
+          "text": "most room is on",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 68056,
+          "char_end": 68078,
+          "text": "excess of moisture. As",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a2cd62498219",
+      "sentence": "Sufficiently shown that you, home but \"Old Kit, a dirty white.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 46286,
+          "char_end": 46313,
+          "text": "sufficiently shown that you",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 73423,
+          "char_end": 73440,
+          "text": "home but \"Old Kit",
+          "role": "continuation"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 85995,
+          "char_end": 86008,
+          "text": "a dirty white",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4b81413fd69a",
+      "sentence": "Man, (as then enjoying, Acquaintance, just a few.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 111031,
+          "char_end": 111053,
+          "text": "man, (as then enjoying",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 113583,
+          "char_end": 113607,
+          "text": "Acquaintance, just a few",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
