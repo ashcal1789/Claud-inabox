@@ -1,0 +1,588 @@
+{
+  "run_id": "20261107_001628",
+  "run_date": "2026-11-07T00:16:28.896061+00:00Z",
+  "seed": 97030402,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "c8b826d37203",
+      "sentence": "Most ignorant and barbarous, tell you why we.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 226987,
+          "char_end": 227014,
+          "text": "most ignorant and barbarous",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 548917,
+          "char_end": 548932,
+          "text": "tell you why we",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "af75d8018925",
+      "sentence": "To it, at a, duty, put him into, her bony elbow.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 372397,
+          "char_end": 372408,
+          "text": "to it, at a",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 901365,
+          "char_end": 901383,
+          "text": "duty, put him into",
+          "role": "continuation"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 226368,
+          "char_end": 226382,
+          "text": "her bony elbow",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "66e170972347",
+      "sentence": "Stop to all manner, sacred principles of humanity.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 321916,
+          "char_end": 321934,
+          "text": "stop to all manner",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 178352,
+          "char_end": 178381,
+          "text": "sacred principles of humanity",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "54b6bd826598",
+      "sentence": "Porter, and, raising the, and of the many.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 80773,
+          "char_end": 80797,
+          "text": "porter, and, raising the",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 407449,
+          "char_end": 407464,
+          "text": "and of the many",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f699082c48a5",
+      "sentence": "God be with him, we stood whispering in.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 91734,
+          "char_end": 91749,
+          "text": "God be with him",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 121230,
+          "char_end": 121252,
+          "text": "we stood whispering in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7072a375e447",
+      "sentence": "Gretel.’ ‘What did you, XXV. \"Thou hast... them, her eyes on.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 335900,
+          "char_end": 335922,
+          "text": "Gretel.’ ‘What did you",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 384379,
+          "char_end": 384402,
+          "text": "XXV. \"Thou hast... them",
+          "role": "continuation"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 18948,
+          "char_end": 18959,
+          "text": "her eyes on",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "fb4e64fd18db",
+      "sentence": "Me down dere, I'll, this time Yule had, may not haunt.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 82897,
+          "char_end": 82915,
+          "text": "me down dere, I'll",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 91478,
+          "char_end": 91496,
+          "text": "this time Yule had",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 697202,
+          "char_end": 697215,
+          "text": "may not haunt",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "9bd236870d61",
+      "sentence": "Mean the latter—that, their perfect state, though.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 49124,
+          "char_end": 49144,
+          "text": "mean the latter—that",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 377047,
+          "char_end": 377074,
+          "text": "their perfect state, though",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "cafe5e2a1017",
+      "sentence": "Velours. Fi! fi! c'est, I look up, an, of buffalo make.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 124126,
+          "char_end": 124148,
+          "text": "velours. Fi! fi! c'est",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 111692,
+          "char_end": 111705,
+          "text": "I look up, an",
+          "role": "continuation"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 87154,
+          "char_end": 87169,
+          "text": "of buffalo make",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "eae7acac6a63",
+      "sentence": "Is meek, and He, thing like an ordinary, who first bestowed.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 3459,
+          "char_end": 3474,
+          "text": "is meek, and He",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 7401,
+          "char_end": 7423,
+          "text": "thing like an ordinary",
+          "role": "continuation"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 185697,
+          "char_end": 185715,
+          "text": "who first bestowed",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "714936b46ec0",
+      "sentence": "In his Letter: Gifford, dull uncertain blundering purpose.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 448938,
+          "char_end": 448960,
+          "text": "in his Letter: Gifford",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 308218,
+          "char_end": 308251,
+          "text": "dull uncertain blundering purpose",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ad5281b6648a",
+      "sentence": "Punishable with state prison, held the Coast of.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 687490,
+          "char_end": 687518,
+          "text": "punishable with state prison",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 276178,
+          "char_end": 276195,
+          "text": "held the Coast of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3de1fd38dc08",
+      "sentence": "Everyone would do so, mud; atrocious tragedies; twenty.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 22635,
+          "char_end": 22655,
+          "text": "everyone would do so",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 43850,
+          "char_end": 43882,
+          "text": "mud; atrocious tragedies; twenty",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "22dad8de763d",
+      "sentence": "The volitions and intentions, me of my little.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 186688,
+          "char_end": 186716,
+          "text": "the volitions and intentions",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 163695,
+          "char_end": 163710,
+          "text": "me of my little",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "415bc5f293c3",
+      "sentence": "Fool what was coming, Asia, have lived on.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 81165,
+          "char_end": 81185,
+          "text": "Fool what was coming",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 205990,
+          "char_end": 206009,
+          "text": "Asia, have lived on",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "463e83e4617d",
+      "sentence": "The mind in such, so much as he, be merry, and.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 82130,
+          "char_end": 82146,
+          "text": "the mind in such",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 191071,
+          "char_end": 191084,
+          "text": "so much as he",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 7527,
+          "char_end": 7540,
+          "text": "be merry, and",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "91675b868289",
+      "sentence": "The exact opposite the, only ghost I ever.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 45815,
+          "char_end": 45837,
+          "text": "the exact opposite the",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 108813,
+          "char_end": 108830,
+          "text": "only ghost I ever",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "59fdd6a30187",
+      "sentence": "And, according to his, His own parents, he.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 136736,
+          "char_end": 136757,
+          "text": "and, according to his",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 503117,
+          "char_end": 503136,
+          "text": "His own parents, he",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "dba1d275eb0c",
+      "sentence": "To a shower of, c.  Q.E.D.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 164983,
+          "char_end": 164997,
+          "text": "to a shower of",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 221081,
+          "char_end": 221090,
+          "text": "c.  Q.E.D",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2dbc9a4095b4",
+      "sentence": "A piteous sight to, we had many days.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 266864,
+          "char_end": 266882,
+          "text": "a piteous sight to",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 493897,
+          "char_end": 493913,
+          "text": "we had many days",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
