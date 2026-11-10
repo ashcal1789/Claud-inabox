@@ -1,0 +1,588 @@
+{
+  "run_id": "20261110_001636",
+  "run_date": "2026-11-10T00:16:36.355512+00:00Z",
+  "seed": 3498229550,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "fb23e18ae7dd",
+      "sentence": "Along in safety through, longer and steeper road.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 48551,
+          "char_end": 48574,
+          "text": "along in safety through",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 205522,
+          "char_end": 205545,
+          "text": "longer and steeper road",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "191fdc0a16fc",
+      "sentence": "Distrust of fidelity. When, his good done to, When he has.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 10965,
+          "char_end": 10991,
+          "text": "distrust of fidelity. When",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 131063,
+          "char_end": 131079,
+          "text": "his good done to",
+          "role": "continuation"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 11171,
+          "char_end": 11182,
+          "text": "When he has",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "82a705fa1328",
+      "sentence": "The intense heat, and, pass the winter with.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 24754,
+          "char_end": 24775,
+          "text": "the intense heat, and",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 709457,
+          "char_end": 709477,
+          "text": "pass the winter with",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "10b610691f05",
+      "sentence": "Dame que vous voyez, to bivouac not far, passage. At this.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 141513,
+          "char_end": 141532,
+          "text": "dame que vous voyez",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 514415,
+          "char_end": 514433,
+          "text": "to bivouac not far",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 476558,
+          "char_end": 476574,
+          "text": "passage. At this",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "8904358ef6a6",
+      "sentence": "The rice-crop will turn, sparrow. And as the, there will naturally.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 315222,
+          "char_end": 315245,
+          "text": "the rice-crop will turn",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 57632,
+          "char_end": 57651,
+          "text": "sparrow. And as the",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 2653,
+          "char_end": 2673,
+          "text": "there will naturally",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4f62c0fe69fe",
+      "sentence": "Sweden, who, only aiming, the air, singing its.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 36792,
+          "char_end": 36816,
+          "text": "Sweden, who, only aiming",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 155795,
+          "char_end": 155815,
+          "text": "the air, singing its",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9816b878e250",
+      "sentence": "Still follow me, to, nature and the gods.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 48006,
+          "char_end": 48025,
+          "text": "still follow me, to",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 75843,
+          "char_end": 75862,
+          "text": "nature and the gods",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9a994fe4214f",
+      "sentence": "Through midnight streets I, to make one proselyte.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 24791,
+          "char_end": 24817,
+          "text": "through midnight streets I",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 218264,
+          "char_end": 218285,
+          "text": "to make one proselyte",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4e1fa5a2ad39",
+      "sentence": "Would try to be, each house that if.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 111672,
+          "char_end": 111687,
+          "text": "would try to be",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 443335,
+          "char_end": 443353,
+          "text": "each house that if",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1abc957b2137",
+      "sentence": "May not appear, at, is the place for, very elastic, and.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 44798,
+          "char_end": 44816,
+          "text": "may not appear, at",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 150760,
+          "char_end": 150776,
+          "text": "is the place for",
+          "role": "continuation"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 367157,
+          "char_end": 367174,
+          "text": "very elastic, and",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "fc655ef0514f",
+      "sentence": "My disappointment was extreme, or impulse; may I, and alien, but.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 254529,
+          "char_end": 254558,
+          "text": "my disappointment was extreme",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 47481,
+          "char_end": 47498,
+          "text": "or impulse; may I",
+          "role": "continuation"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 58018,
+          "char_end": 58032,
+          "text": "and alien, but",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "b11c5d3add95",
+      "sentence": "In which people seem, promis de m'en procurer.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 350488,
+          "char_end": 350508,
+          "text": "in which people seem",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 48060,
+          "char_end": 48083,
+          "text": "promis de m'en procurer",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "67a3b1ce5f46",
+      "sentence": "Might expose so much, dear Hessey--You are very.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 207183,
+          "char_end": 207203,
+          "text": "might expose so much",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 329491,
+          "char_end": 329516,
+          "text": "dear Hessey--You are very",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "738fc30a8b6e",
+      "sentence": "Where lambs have nibbled, which is my tribe.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 10283,
+          "char_end": 10307,
+          "text": "Where lambs have nibbled",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 63184,
+          "char_end": 63201,
+          "text": "which is my tribe",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "12c68d998ea8",
+      "sentence": "Was 33° 8' W. Thus far, never let me git.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 132675,
+          "char_end": 132697,
+          "text": "was 33° 8' W. Thus far",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 95832,
+          "char_end": 95848,
+          "text": "never let me git",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0179edd4180e",
+      "sentence": "With others reckoned as, doors of the stables.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 420117,
+          "char_end": 420140,
+          "text": "with others reckoned as",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 15479,
+          "char_end": 15499,
+          "text": "doors of the stables",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "541f99a30aac",
+      "sentence": "Extent, call them imperfect, had scarcely said this, him, and was.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 318867,
+          "char_end": 318894,
+          "text": "extent, call them imperfect",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 255811,
+          "char_end": 255833,
+          "text": "had scarcely said this",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 254872,
+          "char_end": 254884,
+          "text": "him, and was",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "7c14fe1acc68",
+      "sentence": "Part way across, and, am not naturally cruel.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 485163,
+          "char_end": 485183,
+          "text": "part way across, and",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 458946,
+          "char_end": 458968,
+          "text": "am not naturally cruel",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "aebb84e3fd2c",
+      "sentence": "With my girl, whom, as it lies absolutely.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 30604,
+          "char_end": 30622,
+          "text": "with my girl, whom",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 630876,
+          "char_end": 630897,
+          "text": "as it lies absolutely",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "66755496aa26",
+      "sentence": "His things, in which, how loud and clear.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 94173,
+          "char_end": 94193,
+          "text": "his things, in which",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 329799,
+          "char_end": 329817,
+          "text": "how loud and clear",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
