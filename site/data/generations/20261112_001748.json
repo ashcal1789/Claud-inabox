@@ -1,0 +1,568 @@
+{
+  "run_id": "20261112_001748",
+  "run_date": "2026-11-12T00:17:48.311726+00:00Z",
+  "seed": 2593676963,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "30fd431a7630",
+      "sentence": "Of the Hebrides. We, which exists independent of.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 259029,
+          "char_end": 259048,
+          "text": "of the Hebrides. We",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 293754,
+          "char_end": 293781,
+          "text": "which exists independent of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "154cb8be68fe",
+      "sentence": "A picture-book, a folio, of the Union, without.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 52132,
+          "char_end": 52155,
+          "text": "a picture-book, a folio",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 100363,
+          "char_end": 100384,
+          "text": "of the Union, without",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "05a781cbd6f7",
+      "sentence": "Withered; to neither of, set.  These brought us.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 139701,
+          "char_end": 139724,
+          "text": "withered; to neither of",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 617048,
+          "char_end": 617070,
+          "text": "set.  These brought us",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "520aacce8dd3",
+      "sentence": "The canvas, and the, one. The men were, Agathe, who had.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 433940,
+          "char_end": 433959,
+          "text": "the canvas, and the",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 76525,
+          "char_end": 76542,
+          "text": "one. The men were",
+          "role": "continuation"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 13050,
+          "char_end": 13065,
+          "text": "Agathe, who had",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "08124dd249b3",
+      "sentence": "The solution of the, yard distance, provided it.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 244682,
+          "char_end": 244701,
+          "text": "the solution of the",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 87914,
+          "char_end": 87940,
+          "text": "yard distance, provided it",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7eab2491cb33",
+      "sentence": "Must sojourn with their, best friends) accuse the.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 406397,
+          "char_end": 406420,
+          "text": "must sojourn with their",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 74338,
+          "char_end": 74362,
+          "text": "best friends) accuse the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e9d99977a16a",
+      "sentence": "The other hand, it, Here were the difficulties.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 497,
+          "char_end": 515,
+          "text": "the other hand, it",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 160421,
+          "char_end": 160447,
+          "text": "Here were the difficulties",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d9ffbcf61e0c",
+      "sentence": "Not unlike a bay, s original page of.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 509527,
+          "char_end": 509543,
+          "text": "not unlike a bay",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 25,
+          "char_end": 43,
+          "text": "s original page of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7d3c19c7e87e",
+      "sentence": "Simple contemplation thereof, that, avez gagné la gageure; et.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 266865,
+          "char_end": 266899,
+          "text": "simple contemplation thereof, that",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 158483,
+          "char_end": 158508,
+          "text": "avez gagné la gageure; et",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c8e648713798",
+      "sentence": "In her honour; wine, vous assurerez à ma fille, astonishing marches, till.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 25074,
+          "char_end": 25093,
+          "text": "in her honour; wine",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 134304,
+          "char_end": 134329,
+          "text": "vous assurerez à ma fille",
+          "role": "continuation"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 143824,
+          "char_end": 143849,
+          "text": "astonishing marches, till",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "61958a30a702",
+      "sentence": "Yet more splendid.  They, Lord God, ye shall.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 269435,
+          "char_end": 269459,
+          "text": "yet more splendid.  They",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 53888,
+          "char_end": 53906,
+          "text": "Lord God, ye shall",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "1befbf7b5126",
+      "sentence": "About longitude, in which, twelve fairies came, each.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 85380,
+          "char_end": 85405,
+          "text": "about longitude, in which",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 47705,
+          "char_end": 47730,
+          "text": "twelve fairies came, each",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "80992e0625ed",
+      "sentence": "Combustion. But when it, this be done at.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 86936,
+          "char_end": 86959,
+          "text": "combustion. But when it",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 258358,
+          "char_end": 258373,
+          "text": "this be done at",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5b324eac1c6b",
+      "sentence": "The will gives us, And lets her tail.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 121813,
+          "char_end": 121830,
+          "text": "the will gives us",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 440557,
+          "char_end": 440574,
+          "text": "And lets her tail",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "00cbba6b5ba5",
+      "sentence": "For present use, having, for by this cunning, And taught me.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 289289,
+          "char_end": 289312,
+          "text": "for present use, having",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 31168,
+          "char_end": 31187,
+          "text": "for by this cunning",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 19728,
+          "char_end": 19741,
+          "text": "And taught me",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "934bf868fd6b",
+      "sentence": "Give life and beauty, beckons and it baffles.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 64982,
+          "char_end": 65002,
+          "text": "give life and beauty",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 158322,
+          "char_end": 158344,
+          "text": "beckons and it baffles",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c7922beb9e86",
+      "sentence": "Of human knowledge, as, pits, they have to, aucune crainte, milord.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 261122,
+          "char_end": 261144,
+          "text": "of human knowledge, as",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 707998,
+          "char_end": 708016,
+          "text": "pits, they have to",
+          "role": "continuation"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 12698,
+          "char_end": 12720,
+          "text": "aucune crainte, milord",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "63738dc33cd6",
+      "sentence": "It is called now, much time as to.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 326272,
+          "char_end": 326288,
+          "text": "it is called now",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 162230,
+          "char_end": 162245,
+          "text": "much time as to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "36346b5abaad",
+      "sentence": "You your name also, the letter meant mischief.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 539937,
+          "char_end": 539955,
+          "text": "you your name also",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 64743,
+          "char_end": 64768,
+          "text": "the letter meant mischief",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c667ea31a601",
+      "sentence": "Are. When our candle, twenty-two years, in all.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 89396,
+          "char_end": 89416,
+          "text": "are. When our candle",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 405396,
+          "char_end": 405420,
+          "text": "twenty-two years, in all",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
