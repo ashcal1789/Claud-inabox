@@ -1,0 +1,598 @@
+{
+  "run_id": "20261113_001830",
+  "run_date": "2026-11-13T00:18:30.956869+00:00Z",
+  "seed": 2533538941,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "6a58376e55f6",
+      "sentence": "Subject to emotions, &c, here he seizes the.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 490973,
+          "char_end": 490996,
+          "text": "subject to emotions, &c",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 10176,
+          "char_end": 10194,
+          "text": "here he seizes the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "67a90fea728a",
+      "sentence": "Still, I would have, thou wilt be either, hollow of her.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 605757,
+          "char_end": 605776,
+          "text": "Still, I would have",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 139477,
+          "char_end": 139496,
+          "text": "thou wilt be either",
+          "role": "continuation"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 40939,
+          "char_end": 40952,
+          "text": "hollow of her",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ee898aeca28f",
+      "sentence": "Thou therefore I say, thought fit to leave.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 74526,
+          "char_end": 74546,
+          "text": "thou therefore I say",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 77991,
+          "char_end": 78011,
+          "text": "thought fit to leave",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3e004af7faf8",
+      "sentence": "The peasant went about, then and for long, but has been.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 208850,
+          "char_end": 208872,
+          "text": "the peasant went about",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 106296,
+          "char_end": 106313,
+          "text": "then and for long",
+          "role": "continuation"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 72676,
+          "char_end": 72688,
+          "text": "but has been",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "1511829a92a8",
+      "sentence": "Strength of our decks, in the mind are.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 183150,
+          "char_end": 183171,
+          "text": "strength of our decks",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 188921,
+          "char_end": 188936,
+          "text": "in the mind are",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "794333ab1f6d",
+      "sentence": "Reach of the current, yoked to the cart, day, the sea.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 27108,
+          "char_end": 27128,
+          "text": "reach of the current",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 117976,
+          "char_end": 117993,
+          "text": "yoked to the cart",
+          "role": "continuation"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 752266,
+          "char_end": 752278,
+          "text": "day, the sea",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "932bf38e991b",
+      "sentence": "Be now settled and, of what you saw, the face of.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 134406,
+          "char_end": 134424,
+          "text": "be now settled and",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 215096,
+          "char_end": 215111,
+          "text": "of what you saw",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 135938,
+          "char_end": 135949,
+          "text": "the face of",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "07c5d0385644",
+      "sentence": "Guided by an unseen, in which they were.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 99434,
+          "char_end": 99453,
+          "text": "guided by an unseen",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 518759,
+          "char_end": 518777,
+          "text": "in which they were",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a8cec3cda191",
+      "sentence": "Father orders, and as, door and desires her, what I never.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 32114,
+          "char_end": 32135,
+          "text": "father orders, and as",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 689859,
+          "char_end": 689879,
+          "text": "door and desires her",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 23128,
+          "char_end": 23140,
+          "text": "what I never",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "f010cbe238cc",
+      "sentence": "Fur on end, and, that you should be.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 110553,
+          "char_end": 110568,
+          "text": "fur on end, and",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 26995,
+          "char_end": 27013,
+          "text": "that you should be",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2d65d49df7ad",
+      "sentence": "To thin, or let, from experience, to infer.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 439332,
+          "char_end": 439347,
+          "text": "to thin, or let",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 282768,
+          "char_end": 282793,
+          "text": "from experience, to infer",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f543d12c107d",
+      "sentence": "Being exhausted, I was, notion that he was.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 114091,
+          "char_end": 114113,
+          "text": "being exhausted, I was",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 328662,
+          "char_end": 328680,
+          "text": "notion that he was",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2fd154bb8222",
+      "sentence": "Sers alors ton harmonie, they affected to call.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 80946,
+          "char_end": 80969,
+          "text": "sers alors ton harmonie",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 44105,
+          "char_end": 44126,
+          "text": "they affected to call",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "145cb46cfa44",
+      "sentence": "Nobody knew and nobody, a commodious room, in.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 409932,
+          "char_end": 409954,
+          "text": "nobody knew and nobody",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 851811,
+          "char_end": 851832,
+          "text": "a commodious room, in",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "bae705f52f06",
+      "sentence": "Or giddy bird in, Or from the sea.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 114755,
+          "char_end": 114771,
+          "text": "Or giddy bird in",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 493047,
+          "char_end": 493062,
+          "text": "Or from the sea",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "95554a7cad9b",
+      "sentence": "After threatening me thus, constituting the mind of, either what are.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 134299,
+          "char_end": 134324,
+          "text": "After threatening me thus",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 104257,
+          "char_end": 104281,
+          "text": "constituting the mind of",
+          "role": "continuation"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 234342,
+          "char_end": 234357,
+          "text": "either what are",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "0117e48d0b68",
+      "sentence": "His hair was neatly, objects. And though none, streams to flow.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 487053,
+          "char_end": 487072,
+          "text": "his hair was neatly",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 59923,
+          "char_end": 59947,
+          "text": "objects. And though none",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 72424,
+          "char_end": 72439,
+          "text": "streams to flow",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "e83f8cd19446",
+      "sentence": "Of refugees, Harriet came, and what do you.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 55039,
+          "char_end": 55064,
+          "text": "of refugees, Harriet came",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 247821,
+          "char_end": 247836,
+          "text": "and what do you",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "55d7eadbd712",
+      "sentence": "To him that, at, the night and played.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 5905,
+          "char_end": 5920,
+          "text": "to him that, at",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 130003,
+          "char_end": 130023,
+          "text": "the night and played",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6eaafbb03182",
+      "sentence": "Monsieur? Vous resterez chez, perceive it waits, and.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 119297,
+          "char_end": 119325,
+          "text": "monsieur? Vous resterez chez",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 185920,
+          "char_end": 185942,
+          "text": "perceive it waits, and",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
