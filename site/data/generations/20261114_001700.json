@@ -1,0 +1,568 @@
+{
+  "run_id": "20261114_001700",
+  "run_date": "2026-11-14T00:17:00.384732+00:00Z",
+  "seed": 2646863114,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "0e8072e2725f",
+      "sentence": "From his shop in, said I; “and of.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 431448,
+          "char_end": 431464,
+          "text": "from his shop in",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 33730,
+          "char_end": 33745,
+          "text": "said I; “and of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b6f20ee94d71",
+      "sentence": "Stretched itself from one, for the true causes.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 45234,
+          "char_end": 45259,
+          "text": "stretched itself from one",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 75601,
+          "char_end": 75620,
+          "text": "for the true causes",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b0c13ce0ece0",
+      "sentence": "Formerly, several beautiful green, his shirt up over.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 97776,
+          "char_end": 97809,
+          "text": "formerly, several beautiful green",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 40418,
+          "char_end": 40435,
+          "text": "his shirt up over",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9f7f544b3b2e",
+      "sentence": "A. manage it? How, in the darkness. A.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 528868,
+          "char_end": 528885,
+          "text": "A. manage it? How",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 367733,
+          "char_end": 367751,
+          "text": "in the darkness. A",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ac4d48154d10",
+      "sentence": "Go and play till, by reasonings _a priori_; but arises, the Sultan felt.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 12526,
+          "char_end": 12542,
+          "text": "go and play till",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 42673,
+          "char_end": 42709,
+          "text": "by reasonings _a priori_; but arises",
+          "role": "continuation"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 420671,
+          "char_end": 420686,
+          "text": "the Sultan felt",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "6ec16b9ff773",
+      "sentence": "Here was so highly, two things. First, that, go the round.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 210615,
+          "char_end": 210633,
+          "text": "here was so highly",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 125884,
+          "char_end": 125907,
+          "text": "two things. First, that",
+          "role": "continuation"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 32723,
+          "char_end": 32735,
+          "text": "go the round",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "46ce328c550d",
+      "sentence": "With you and eat, it would appear probable.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 86029,
+          "char_end": 86045,
+          "text": "with you and eat",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 70875,
+          "char_end": 70899,
+          "text": "it would appear probable",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5effadb6ac67",
+      "sentence": "Had been covered by, that it seems to.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 72532,
+          "char_end": 72551,
+          "text": "had been covered by",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 129301,
+          "char_end": 129317,
+          "text": "that it seems to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2d24a37d60ca",
+      "sentence": "Full of meaning to, mieux que l'anguille, parce.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 46793,
+          "char_end": 46811,
+          "text": "full of meaning to",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 130525,
+          "char_end": 130552,
+          "text": "mieux que l'anguille, parce",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "344a49ad8233",
+      "sentence": "In the south of, of the home of.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 259134,
+          "char_end": 259149,
+          "text": "in the south of",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 275550,
+          "char_end": 275564,
+          "text": "of the home of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6b68b8e7bd08",
+      "sentence": "May had been magnificent, he saw enemies stealthily.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 2575,
+          "char_end": 2599,
+          "text": "May had been magnificent",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 590150,
+          "char_end": 590175,
+          "text": "he saw enemies stealthily",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ad9e60b87b1a",
+      "sentence": "Of power laugh aloud, water. Here the cutting.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 376166,
+          "char_end": 376186,
+          "text": "of power laugh aloud",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 774730,
+          "char_end": 774753,
+          "text": "water. Here the cutting",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "900c8fb85cf3",
+      "sentence": "Near neighborhood of man, black, but O my, tenor of the.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 232065,
+          "char_end": 232089,
+          "text": "near neighborhood of man",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 3712,
+          "char_end": 3727,
+          "text": "black, but O my",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 14634,
+          "char_end": 14646,
+          "text": "tenor of the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "8846c6ca61a2",
+      "sentence": "White peterel also appeared, There interposed a fly.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 116708,
+          "char_end": 116735,
+          "text": "white peterel also appeared",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 171443,
+          "char_end": 171465,
+          "text": "There interposed a fly",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2664902970fc",
+      "sentence": "Have not rendered some, day. The house, which.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 106207,
+          "char_end": 106229,
+          "text": "have not rendered some",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 260834,
+          "char_end": 260855,
+          "text": "day. The house, which",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c9bca7295f7a",
+      "sentence": "Twenty-two years, in all, I must not go.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 405396,
+          "char_end": 405420,
+          "text": "twenty-two years, in all",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 156633,
+          "char_end": 156646,
+          "text": "I must not go",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b471af7e0db7",
+      "sentence": "I have long resolved, to indulge in this.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 415093,
+          "char_end": 415113,
+          "text": "I have long resolved",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 45828,
+          "char_end": 45846,
+          "text": "to indulge in this",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8b43b5b7ca06",
+      "sentence": "And saying that he, chamber, and I will, puellarum insereres choro.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 31602,
+          "char_end": 31620,
+          "text": "and saying that he",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 361491,
+          "char_end": 361510,
+          "text": "chamber, and I will",
+          "role": "continuation"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 219319,
+          "char_end": 219344,
+          "text": "puellarum insereres choro",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4e691f26b88e",
+      "sentence": "Of activity and passivity, Juan Capistrano, with a.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 191917,
+          "char_end": 191942,
+          "text": "of activity and passivity",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 310474,
+          "char_end": 310497,
+          "text": "Juan Capistrano, with a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "cfac5b8d6a85",
+      "sentence": "At the fly on, of Trebizond and the.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 80310,
+          "char_end": 80323,
+          "text": "at the fly on",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 378417,
+          "char_end": 378437,
+          "text": "of Trebizond and the",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
