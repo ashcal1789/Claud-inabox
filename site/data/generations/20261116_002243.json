@@ -1,0 +1,558 @@
+{
+  "run_id": "20261116_002243",
+  "run_date": "2026-11-16T00:22:43.653027+00:00Z",
+  "seed": 1394158055,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "469027619f5b",
+      "sentence": "Heel of his boot, may be gathered from.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 98745,
+          "char_end": 98761,
+          "text": "heel of his boot",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 257501,
+          "char_end": 257521,
+          "text": "may be gathered from",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "46792ffa95d5",
+      "sentence": "They were full of, we got down into.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 404167,
+          "char_end": 404184,
+          "text": "they were full of",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 651730,
+          "char_end": 651746,
+          "text": "we got down into",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5aeedca9ab80",
+      "sentence": "Either mediately or immediately, No rack can torture.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 190894,
+          "char_end": 190925,
+          "text": "either mediately or immediately",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 46945,
+          "char_end": 46964,
+          "text": "No rack can torture",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "822bd99f0152",
+      "sentence": "Carbonic acid than of, the tiles and placed.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 148662,
+          "char_end": 148683,
+          "text": "carbonic acid than of",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 30676,
+          "char_end": 30696,
+          "text": "the tiles and placed",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "acf82b872779",
+      "sentence": "With all due diffidence, end, and there wasn't, land to the.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 194615,
+          "char_end": 194638,
+          "text": "With all due diffidence",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 79772,
+          "char_end": 79793,
+          "text": "end, and there wasn't",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 322249,
+          "char_end": 322260,
+          "text": "land to the",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "1ec4748a3561",
+      "sentence": "Of them were brought, and properties as the.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 333778,
+          "char_end": 333798,
+          "text": "of them were brought",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 144211,
+          "char_end": 144232,
+          "text": "and properties as the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "236b204c169f",
+      "sentence": "Representations of other existences, of a companion to, her bosom. And.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 294111,
+          "char_end": 294146,
+          "text": "representations of other existences",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 58054,
+          "char_end": 58071,
+          "text": "of a companion to",
+          "role": "continuation"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 23339,
+          "char_end": 23353,
+          "text": "her bosom. And",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "daeb578515b7",
+      "sentence": "Consulting neither time nor, can He who smiles.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 46125,
+          "char_end": 46152,
+          "text": "consulting neither time nor",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 13926,
+          "char_end": 13943,
+          "text": "can He who smiles",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c984f56503c3",
+      "sentence": "Candle, and hold a, instance; we may observe, lemon and fig.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 38610,
+          "char_end": 38628,
+          "text": "candle, and hold a",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 207085,
+          "char_end": 207109,
+          "text": "instance; we may observe",
+          "role": "continuation"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 260471,
+          "char_end": 260484,
+          "text": "lemon and fig",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "88514a9f35c6",
+      "sentence": "Religious Opinions.\"  Among the, new series of Hymns.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 7781,
+          "char_end": 7812,
+          "text": "Religious Opinions.\"  Among the",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 649350,
+          "char_end": 649369,
+          "text": "new series of Hymns",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e2c180b17ff9",
+      "sentence": "Truly modest, to Him, The truth never flaunted.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 283581,
+          "char_end": 283601,
+          "text": "truly modest, to Him",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 68261,
+          "char_end": 68285,
+          "text": "The truth never flaunted",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e858c251e5ee",
+      "sentence": "This neighborhood, on account, on from wall to.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 521996,
+          "char_end": 522025,
+          "text": "this neighborhood, on account",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 562296,
+          "char_end": 562311,
+          "text": "on from wall to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "98e01088960e",
+      "sentence": "The grand-vizir himself was, his head and asks.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 8305,
+          "char_end": 8332,
+          "text": "The grand-vizir himself was",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 164354,
+          "char_end": 164371,
+          "text": "his head and asks",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "29d5463b4307",
+      "sentence": "Liked me to do, only be persuaded that.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 78208,
+          "char_end": 78222,
+          "text": "liked me to do",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 380757,
+          "char_end": 380779,
+          "text": "only be persuaded that",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "475835093b0e",
+      "sentence": "While out one day, rosse pour vous, au.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 162658,
+          "char_end": 162675,
+          "text": "while out one day",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 67358,
+          "char_end": 67377,
+          "text": "rosse pour vous, au",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8e17cd86cb4c",
+      "sentence": "Little story was published, at least in this.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 4326,
+          "char_end": 4352,
+          "text": "little story was published",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 290504,
+          "char_end": 290520,
+          "text": "at least in this",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "05163035fb4d",
+      "sentence": "Near a great pool, the former of these.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 295218,
+          "char_end": 295235,
+          "text": "near a great pool",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 916478,
+          "char_end": 916497,
+          "text": "the former of these",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "58ee0f5a7620",
+      "sentence": "It was a sound, two more, were covered.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 515946,
+          "char_end": 515960,
+          "text": "it was a sound",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 304151,
+          "char_end": 304173,
+          "text": "two more, were covered",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d7100382f03b",
+      "sentence": "Me bluntly that I, texts of his story.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 26979,
+          "char_end": 26996,
+          "text": "me bluntly that I",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 253045,
+          "char_end": 253063,
+          "text": "texts of his story",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d01f71514d52",
+      "sentence": "She picked them up, as the most profound.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 179406,
+          "char_end": 179424,
+          "text": "she picked them up",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 290885,
+          "char_end": 290905,
+          "text": "as the most profound",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
