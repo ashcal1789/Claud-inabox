@@ -1,0 +1,568 @@
+{
+  "run_id": "20261117_001842",
+  "run_date": "2026-11-17T00:18:42.867514+00:00Z",
+  "seed": 1170429850,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "0d979849c0cc",
+      "sentence": "And wretched aspect, is, going to Canada; but.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 441752,
+          "char_end": 441775,
+          "text": "and wretched aspect, is",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 200782,
+          "char_end": 200802,
+          "text": "going to Canada; but",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "60ab361e3f86",
+      "sentence": "Exaggerates venial peccadilloes into, conciliatory words. He does.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 21102,
+          "char_end": 21138,
+          "text": "exaggerates venial peccadilloes into",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 23841,
+          "char_end": 23868,
+          "text": "conciliatory words. He does",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "545750972a37",
+      "sentence": "A miracle--and from this, to the punctuations you.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 453280,
+          "char_end": 453304,
+          "text": "a miracle--and from this",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 164483,
+          "char_end": 164506,
+          "text": "to the punctuations you",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d6a9e66e249a",
+      "sentence": "Estoient honnestement labouré, et dou, Deptford to be equipped, hard of me.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 25045,
+          "char_end": 25082,
+          "text": "estoient honnestement labouré, et dou",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 29971,
+          "char_end": 29994,
+          "text": "Deptford to be equipped",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 50655,
+          "char_end": 50665,
+          "text": "hard of me",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "497ed71870ea",
+      "sentence": "Where thy little heart, alone in my room.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 28901,
+          "char_end": 28923,
+          "text": "Where thy little heart",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 71473,
+          "char_end": 71489,
+          "text": "alone in my room",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "56fd22cc55f9",
+      "sentence": "Dwelling was set on, a supply, by means.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 450375,
+          "char_end": 450394,
+          "text": "dwelling was set on",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 168350,
+          "char_end": 168368,
+          "text": "a supply, by means",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "f48333c2b239",
+      "sentence": "One that could repeat, the earth opened, and.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 96712,
+          "char_end": 96733,
+          "text": "one that could repeat",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 413714,
+          "char_end": 413735,
+          "text": "the earth opened, and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d6547943f083",
+      "sentence": "And tail in sea, to death; the city.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 232951,
+          "char_end": 232966,
+          "text": "and tail in sea",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 43920,
+          "char_end": 43938,
+          "text": "to death; the city",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d0525fb5eb83",
+      "sentence": "The essence of the, yet that he had.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 270304,
+          "char_end": 270322,
+          "text": "the essence of the",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 409688,
+          "char_end": 409703,
+          "text": "yet that he had",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "74896d19b9a1",
+      "sentence": "Go the lee fore, Well, he won't take.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 408186,
+          "char_end": 408201,
+          "text": "go the lee fore",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 61034,
+          "char_end": 61053,
+          "text": "Well, he won't take",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "21de018b6475",
+      "sentence": "TRANIO.--Vous auriez besoin, or German silk-tail, from.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 35783,
+          "char_end": 35810,
+          "text": "TRANIO.--Vous auriez besoin",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 70084,
+          "char_end": 70109,
+          "text": "or German silk-tail, from",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "037518991ba9",
+      "sentence": "Which will take away, assist at the raising.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 623727,
+          "char_end": 623747,
+          "text": "which will take away",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 77529,
+          "char_end": 77550,
+          "text": "assist at the raising",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "11fc4710612e",
+      "sentence": "On his part may, great things in loneliness.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 547034,
+          "char_end": 547049,
+          "text": "on his part may",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 415438,
+          "char_end": 415464,
+          "text": "great things in loneliness",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "38e0be916346",
+      "sentence": "Burning with a flame, than that,\" cried the.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 44170,
+          "char_end": 44190,
+          "text": "burning with a flame",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 176178,
+          "char_end": 176199,
+          "text": "than that,\" cried the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "41308b30436c",
+      "sentence": "Nor have philosophers ever, rule.\" Again, in Tonga.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 164561,
+          "char_end": 164587,
+          "text": "Nor have philosophers ever",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 669701,
+          "char_end": 669723,
+          "text": "rule.\" Again, in Tonga",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0547823a1abe",
+      "sentence": "Wonderfully large and generous, the rancour of this.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 44176,
+          "char_end": 44206,
+          "text": "wonderfully large and generous",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 359801,
+          "char_end": 359820,
+          "text": "the rancour of this",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8bbba9cc2711",
+      "sentence": "He who had thus, know that gunpowder burns, last, their senses.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 337090,
+          "char_end": 337105,
+          "text": "he who had thus",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 43172,
+          "char_end": 43197,
+          "text": "know that gunpowder burns",
+          "role": "continuation"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 34963,
+          "char_end": 34981,
+          "text": "last, their senses",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "8986f7ce444e",
+      "sentence": "Heureux l'homme à qui des, which the intellect perceives.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 140263,
+          "char_end": 140288,
+          "text": "heureux l'homme à qui des",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 12100,
+          "char_end": 12129,
+          "text": "which the intellect perceives",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c267e188af34",
+      "sentence": "Be, for them I, war good 20,000 men on, and ensuring that.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 171257,
+          "char_end": 171271,
+          "text": "be, for them I",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 380806,
+          "char_end": 380828,
+          "text": "war good 20,000 men on",
+          "role": "continuation"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 179731,
+          "char_end": 179748,
+          "text": "and ensuring that",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "1c218fa1227a",
+      "sentence": "The primitive delicacy of, of the character and, dim distance. I.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 34227,
+          "char_end": 34252,
+          "text": "the primitive delicacy of",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 600202,
+          "char_end": 600222,
+          "text": "of the character and",
+          "role": "continuation"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 127291,
+          "char_end": 127306,
+          "text": "dim distance. I",
+          "role": "closing"
+        }
+      ]
+    }
+  ]
+}
