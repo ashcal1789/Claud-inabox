@@ -1,0 +1,618 @@
+{
+  "run_id": "20261118_001816",
+  "run_date": "2026-11-18T00:18:16.494244+00:00Z",
+  "seed": 254230302,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "a90e29f2c80e",
+      "sentence": "Surround the ship with, The mountain sat upon, usually made by.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 13314,
+          "char_end": 13336,
+          "text": "surround the ship with",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 30839,
+          "char_end": 30860,
+          "text": "The mountain sat upon",
+          "role": "continuation"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 381609,
+          "char_end": 381624,
+          "text": "usually made by",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "028aeb51ccb0",
+      "sentence": "Sheep were tossed about, excused ourselves. We therefore, as he went.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 15581,
+          "char_end": 15604,
+          "text": "sheep were tossed about",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 370692,
+          "char_end": 370723,
+          "text": "excused ourselves. We therefore",
+          "role": "continuation"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 450695,
+          "char_end": 450705,
+          "text": "as he went",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "40a9500f925e",
+      "sentence": "Had received from us, Agony, that enacted there, not even know.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 451828,
+          "char_end": 451848,
+          "text": "had received from us",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 121893,
+          "char_end": 121918,
+          "text": "Agony, that enacted there",
+          "role": "continuation"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 487370,
+          "char_end": 487383,
+          "text": "not even know",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "4129a4df51bc",
+      "sentence": "And note) cannot possess, finally became even more.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 355246,
+          "char_end": 355270,
+          "text": "and note) cannot possess",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 83930,
+          "char_end": 83954,
+          "text": "finally became even more",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "cac29f7ab67a",
+      "sentence": "Go by chance and, fore and aft, with, friendly the arms.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 23951,
+          "char_end": 23967,
+          "text": "go by chance and",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 573978,
+          "char_end": 573996,
+          "text": "fore and aft, with",
+          "role": "continuation"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 114317,
+          "char_end": 114334,
+          "text": "friendly the arms",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "fc4ffab65d3f",
+      "sentence": "Such as the Patellae, really too honest a.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 568049,
+          "char_end": 568069,
+          "text": "such as the Patellae",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 72870,
+          "char_end": 72889,
+          "text": "really too honest a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "057e61ae255b",
+      "sentence": "Towards the table with, that I am acquainted.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 211344,
+          "char_end": 211366,
+          "text": "towards the table with",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 86661,
+          "char_end": 86681,
+          "text": "that I am acquainted",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c2462a17c2db",
+      "sentence": "That all may read, the rocks leads to.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 1704,
+          "char_end": 1721,
+          "text": "that all may read",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 153379,
+          "char_end": 153397,
+          "text": "the rocks leads to",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "95a6af6e2ff0",
+      "sentence": "Her hand, rocking back, and support for his.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 72561,
+          "char_end": 72583,
+          "text": "her hand, rocking back",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 110531,
+          "char_end": 110550,
+          "text": "and support for his",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c4d50e673087",
+      "sentence": "Hearing that the Magalonyx, go down to the, more to be.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 411429,
+          "char_end": 411455,
+          "text": "hearing that the Magalonyx",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 226855,
+          "char_end": 226869,
+          "text": "go down to the",
+          "role": "continuation"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 398900,
+          "char_end": 398910,
+          "text": "more to be",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "305982d9b745",
+      "sentence": "Most ignorant and barbarous, observations of every kind.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 226987,
+          "char_end": 227014,
+          "text": "most ignorant and barbarous",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 47774,
+          "char_end": 47800,
+          "text": "observations of every kind",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7e0219fbb825",
+      "sentence": "Them mentioned as good, principally nourishes trees and, we’d be.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 126989,
+          "char_end": 127011,
+          "text": "them mentioned as good",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 175409,
+          "char_end": 175440,
+          "text": "principally nourishes trees and",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 24013,
+          "char_end": 24020,
+          "text": "we’d be",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "29ad9a605fce",
+      "sentence": "Reject the greater miracle, bottle, is a quantity.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 217843,
+          "char_end": 217869,
+          "text": "reject the greater miracle",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 62426,
+          "char_end": 62447,
+          "text": "bottle, is a quantity",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "bd7c7be322c4",
+      "sentence": "The true essence of, Well, he won't take, man dressed in.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 27668,
+          "char_end": 27687,
+          "text": "the true essence of",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 61034,
+          "char_end": 61053,
+          "text": "Well, he won't take",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 418023,
+          "char_end": 418037,
+          "text": "man dressed in",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "6e0ef81676cb",
+      "sentence": "It. Then she carefully, side of the haze.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 167590,
+          "char_end": 167612,
+          "text": "it. Then she carefully",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 104036,
+          "char_end": 104052,
+          "text": "side of the haze",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "77e6f2744943",
+      "sentence": "This point being a, with a contraction of, person, as I.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 186701,
+          "char_end": 186719,
+          "text": "this point being a",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 23613,
+          "char_end": 23634,
+          "text": "with a contraction of",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 153850,
+          "char_end": 153862,
+          "text": "person, as I",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "dd9c97a37300",
+      "sentence": "Making all the vales, MESSER MAFFEO POLO, ACCOMPANIED.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 3246,
+          "char_end": 3266,
+          "text": "Making all the vales",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 210227,
+          "char_end": 210258,
+          "text": "MESSER MAFFEO POLO, ACCOMPANIED",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c46c31bf92bd",
+      "sentence": "Madame, je vous tiendrai, you, solely to drop.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 123048,
+          "char_end": 123072,
+          "text": "madame, je vous tiendrai",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 24130,
+          "char_end": 24149,
+          "text": "you, solely to drop",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5396663282e7",
+      "sentence": "Of no particular thing, do them evil. Now.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 435202,
+          "char_end": 435224,
+          "text": "of no particular thing",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 47166,
+          "char_end": 47183,
+          "text": "do them evil. Now",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a8d3d3bb70ff",
+      "sentence": "Up by their task-masters, warmed more rapidly than, that you will.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 106668,
+          "char_end": 106692,
+          "text": "up by their task-masters",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 525365,
+          "char_end": 525389,
+          "text": "warmed more rapidly than",
+          "role": "continuation"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 25476,
+          "char_end": 25489,
+          "text": "that you will",
+          "role": "closing"
+        }
+      ]
+    }
+  ]
+}
