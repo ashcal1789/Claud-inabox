@@ -1,0 +1,608 @@
+{
+  "run_id": "20261120_001645",
+  "run_date": "2026-11-20T00:16:45.538147+00:00Z",
+  "seed": 1772697274,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "6e9606819597",
+      "sentence": "Baltimore that is expressed, any chance frivolous or, farther than he.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 70608,
+          "char_end": 70635,
+          "text": "Baltimore that is expressed",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 53876,
+          "char_end": 53899,
+          "text": "any chance frivolous or",
+          "role": "continuation"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 21287,
+          "char_end": 21302,
+          "text": "farther than he",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "6cd291495d57",
+      "sentence": "And threw him so, may depend on it, proved from III.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 44685,
+          "char_end": 44701,
+          "text": "and threw him so",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 75461,
+          "char_end": 75477,
+          "text": "may depend on it",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 230456,
+          "char_end": 230471,
+          "text": "proved from III",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "6c5fa1bc32c7",
+      "sentence": "Candle out cleverly, you, in its place and.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 23927,
+          "char_end": 23951,
+          "text": "candle out cleverly, you",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 60859,
+          "char_end": 60875,
+          "text": "in its place and",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e5ec596a7988",
+      "sentence": "Je vous prie, c'est, compensate for whatever loss.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 109163,
+          "char_end": 109182,
+          "text": "je vous prie, c'est",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 71288,
+          "char_end": 71316,
+          "text": "compensate for whatever loss",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c473a951ffd1",
+      "sentence": "The descendants of the, sons, O Athenians, three.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 407886,
+          "char_end": 407908,
+          "text": "the descendants of the",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 69048,
+          "char_end": 69072,
+          "text": "sons, O Athenians, three",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "0ae2d7126a09",
+      "sentence": "Away with the steak, either what are the.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 223884,
+          "char_end": 223903,
+          "text": "away with the steak",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 234342,
+          "char_end": 234361,
+          "text": "either what are the",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5ef6cb279cc1",
+      "sentence": "Dothair (Dodder) and the, will see that whatever, were ever motioning.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 563397,
+          "char_end": 563421,
+          "text": "Dothair (Dodder) and the",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 112962,
+          "char_end": 112984,
+          "text": "will see that whatever",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 24168,
+          "char_end": 24187,
+          "text": "were ever motioning",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "28511f48aeb1",
+      "sentence": "At him from head, middle of the room.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 551946,
+          "char_end": 551962,
+          "text": "at him from head",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 13088,
+          "char_end": 13106,
+          "text": "middle of the room",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3116b15d4bb0",
+      "sentence": "Loaded with chains, he, Grave, where was thy.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 374088,
+          "char_end": 374110,
+          "text": "loaded with chains, he",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 554883,
+          "char_end": 554903,
+          "text": "Grave, where was thy",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "10d1f83b5e77",
+      "sentence": "The Ships from, Ulietea, is actuated in its, o’er thee.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 2624,
+          "char_end": 2647,
+          "text": "the Ships from, Ulietea",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 19241,
+          "char_end": 19259,
+          "text": "is actuated in its",
+          "role": "continuation"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 8182,
+          "char_end": 8191,
+          "text": "o’er thee",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ed05864cfc0f",
+      "sentence": "Are indebted to general, sun is gone down.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 77400,
+          "char_end": 77423,
+          "text": "are indebted to general",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 20170,
+          "char_end": 20186,
+          "text": "sun is gone down",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ce7bb18cf139",
+      "sentence": "TABLET OF GOLD, BEARING, and harmless men of.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 209007,
+          "char_end": 209030,
+          "text": "TABLET OF GOLD, BEARING",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 271472,
+          "char_end": 271491,
+          "text": "and harmless men of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "ef5640320938",
+      "sentence": "Est-ce là votre succès? Allons, je, the old log canoe.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 73530,
+          "char_end": 73564,
+          "text": "Est-ce là votre succès? Allons, je",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 339852,
+          "char_end": 339869,
+          "text": "the old log canoe",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2d8a0a450d4a",
+      "sentence": "In eels are perhaps, lives--God bless you--I whisper, all ages, to.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 173275,
+          "char_end": 173294,
+          "text": "in eels are perhaps",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 448225,
+          "char_end": 448256,
+          "text": "lives--God bless you--I whisper",
+          "role": "continuation"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 205503,
+          "char_end": 205515,
+          "text": "all ages, to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "edebd9fbc92b",
+      "sentence": "In her hands, did, respect. I have always.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 19243,
+          "char_end": 19260,
+          "text": "in her hands, did",
+          "role": "seed"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 77037,
+          "char_end": 77059,
+          "text": "respect. I have always",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2e332d6801ac",
+      "sentence": "C, Nos. 4, 5, and 16. It, thine action, and take.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 306573,
+          "char_end": 306597,
+          "text": "C, Nos. 4, 5, and 16. It",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 282034,
+          "char_end": 282056,
+          "text": "thine action, and take",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "deb1c8fb8a14",
+      "sentence": "Perhaps our eyes will, Another hand was sent.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 244174,
+          "char_end": 244195,
+          "text": "perhaps our eyes will",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 783270,
+          "char_end": 783291,
+          "text": "Another hand was sent",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "67ef614f297f",
+      "sentence": "And it concerns us, costume which we found, all quadrupeds cats.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 55936,
+          "char_end": 55954,
+          "text": "and it concerns us",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 171121,
+          "char_end": 171143,
+          "text": "costume which we found",
+          "role": "continuation"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 146102,
+          "char_end": 146121,
+          "text": "all quadrupeds cats",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "a2e188f0cb31",
+      "sentence": "It is a compound, have shed, or the, victims, was rendered.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 172169,
+          "char_end": 172185,
+          "text": "It is a compound",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 693819,
+          "char_end": 693836,
+          "text": "have shed, or the",
+          "role": "continuation"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 2963,
+          "char_end": 2984,
+          "text": "victims, was rendered",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "9a2fb105514b",
+      "sentence": "Happened,\" said old Peter, by the change. But, virtue of the.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 20951,
+          "char_end": 20976,
+          "text": "happened,\" said old Peter",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 104017,
+          "char_end": 104035,
+          "text": "by the change. But",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 356221,
+          "char_end": 356234,
+          "text": "virtue of the",
+          "role": "closing"
+        }
+      ]
+    }
+  ]
+}
