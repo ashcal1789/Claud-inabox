@@ -1,0 +1,608 @@
+{
+  "run_id": "20261122_001848",
+  "run_date": "2026-11-22T00:18:48.289198+00:00Z",
+  "seed": 1006230124,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "e474b146553b",
+      "sentence": "At sunset to “bud, beer here, the pick-axe.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 483684,
+          "char_end": 483701,
+          "text": "at sunset to “bud",
+          "role": "seed"
+        },
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 263760,
+          "char_end": 263783,
+          "text": "beer here, the pick-axe",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "16003be20c51",
+      "sentence": "An experiment of this, After this you will.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 74936,
+          "char_end": 74957,
+          "text": "an experiment of this",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 364335,
+          "char_end": 364354,
+          "text": "After this you will",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "357ae5dbae12",
+      "sentence": "Lost, gruffly answered, \"How, Yule. (_Jour. Asiatic Society, Bengal_, XXVI.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 50188,
+          "char_end": 50216,
+          "text": "lost, gruffly answered, \"How",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 174174,
+          "char_end": 174218,
+          "text": "Yule. (_Jour. Asiatic Society, Bengal_, XXVI",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d9c562b6d873",
+      "sentence": "Them better than the, about the delay of, words, its usual.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 253859,
+          "char_end": 253879,
+          "text": "them better than the",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 620917,
+          "char_end": 620935,
+          "text": "about the delay of",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 310519,
+          "char_end": 310535,
+          "text": "words, its usual",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "66d504e33c69",
+      "sentence": "Wanted a home, a, to call your Excellency.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 46231,
+          "char_end": 46247,
+          "text": "wanted a home, a",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 110378,
+          "char_end": 110401,
+          "text": "to call your Excellency",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a000815d3f6a",
+      "sentence": "Fondly desired the Sultana, flocks have took delight, said Cyprien. “I.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 547725,
+          "char_end": 547751,
+          "text": "fondly desired the Sultana",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 10257,
+          "char_end": 10281,
+          "text": "flocks have took delight",
+          "role": "continuation"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 21281,
+          "char_end": 21297,
+          "text": "said Cyprien. “I",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "a0d591399ed8",
+      "sentence": "That the human mind, Rocks, woods, fort, cannon, first attempt to.",
+      "fragments": [
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 101934,
+          "char_end": 101953,
+          "text": "that the human mind",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 550111,
+          "char_end": 550137,
+          "text": "Rocks, woods, fort, cannon",
+          "role": "continuation"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 699197,
+          "char_end": 699213,
+          "text": "first attempt to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "8ac3e649ac78",
+      "sentence": "Aussi vite qu'il me, year, beyond what she.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 143025,
+          "char_end": 143044,
+          "text": "aussi vite qu'il me",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 117099,
+          "char_end": 117120,
+          "text": "year, beyond what she",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "fea39bac5740",
+      "sentence": "And not his alone, befallen me in a.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 208575,
+          "char_end": 208592,
+          "text": "and not his alone",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 28292,
+          "char_end": 28308,
+          "text": "befallen me in a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "593275014f4d",
+      "sentence": "His mind, even though, A route of evanescence, which I will.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 189701,
+          "char_end": 189722,
+          "text": "his mind, even though",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 90395,
+          "char_end": 90417,
+          "text": "A route of evanescence",
+          "role": "continuation"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 35325,
+          "char_end": 35337,
+          "text": "which I will",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "d254858f4c8b",
+      "sentence": "Not merely true in, event of his reign.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 165002,
+          "char_end": 165020,
+          "text": "not merely true in",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 282105,
+          "char_end": 282123,
+          "text": "event of his reign",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "896cb3219fd9",
+      "sentence": "To move; if not, we may discover the, she knew he.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 164190,
+          "char_end": 164205,
+          "text": "to move; if not",
+          "role": "seed"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 48566,
+          "char_end": 48585,
+          "text": "we may discover the",
+          "role": "continuation"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 67367,
+          "char_end": 67378,
+          "text": "she knew he",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ebfc1c5dd153",
+      "sentence": "If they had one, But what terrified me, vous serez la.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 46179,
+          "char_end": 46194,
+          "text": "if they had one",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 36680,
+          "char_end": 36701,
+          "text": "But what terrified me",
+          "role": "continuation"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 113456,
+          "char_end": 113469,
+          "text": "vous serez la",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ea8fd80e3e54",
+      "sentence": "Obtained my lodgings ere, men who have condemned, greatest does not.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 165563,
+          "char_end": 165587,
+          "text": "Obtained my lodgings ere",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 79544,
+          "char_end": 79566,
+          "text": "men who have condemned",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 112778,
+          "char_end": 112795,
+          "text": "greatest does not",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "d8ea1a8eb5cd",
+      "sentence": "A different manner, from, the end of two.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 224147,
+          "char_end": 224171,
+          "text": "a different manner, from",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 277082,
+          "char_end": 277096,
+          "text": "the end of two",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "bf7936e39e0e",
+      "sentence": "Hence the powerful stimulus, no getting rid of.",
+      "fragments": [
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 169838,
+          "char_end": 169865,
+          "text": "hence the powerful stimulus",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 89419,
+          "char_end": 89436,
+          "text": "no getting rid of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "61dbaa2447ed",
+      "sentence": "The bride went up, Patrician and non-Patrician at.",
+      "fragments": [
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 530005,
+          "char_end": 530022,
+          "text": "the bride went up",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 306830,
+          "char_end": 306860,
+          "text": "Patrician and non-Patrician at",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7270cacc563c",
+      "sentence": "Dew did she return, we had brought with, was covered with.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 44865,
+          "char_end": 44883,
+          "text": "dew did she return",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 503137,
+          "char_end": 503156,
+          "text": "we had brought with",
+          "role": "continuation"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 46083,
+          "char_end": 46099,
+          "text": "was covered with",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "d6c8a7fa21ee",
+      "sentence": "Suppose I take a, stone or brick cottages.",
+      "fragments": [
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 45782,
+          "char_end": 45798,
+          "text": "Suppose I take a",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 32139,
+          "char_end": 32162,
+          "text": "stone or brick cottages",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "98e4b752ca37",
+      "sentence": "Reasonable, or unreasonable creatures, songs there--read the hints.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 325436,
+          "char_end": 325473,
+          "text": "reasonable, or unreasonable creatures",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 34696,
+          "char_end": 34723,
+          "text": "songs there--read the hints",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
