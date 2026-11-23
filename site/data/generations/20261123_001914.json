@@ -1,0 +1,558 @@
+{
+  "run_id": "20261123_001914",
+  "run_date": "2026-11-23T00:19:14.030465+00:00Z",
+  "seed": 3295011884,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "fb3d3bc2e2fe",
+      "sentence": "Cottages without seeing cloth, He paused for a.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 51580,
+          "char_end": 51609,
+          "text": "cottages without seeing cloth",
+          "role": "seed"
+        },
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 564823,
+          "char_end": 564838,
+          "text": "He paused for a",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "c6511ed09700",
+      "sentence": "Be wiser than they, branches from the trees.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 56208,
+          "char_end": 56226,
+          "text": "be wiser than they",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 421594,
+          "char_end": 421617,
+          "text": "branches from the trees",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "4f1582b07cfb",
+      "sentence": "Are not strict, and, Gaspard no longer laughed, to suffer, ceases.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 95016,
+          "char_end": 95035,
+          "text": "are not strict, and",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 31994,
+          "char_end": 32019,
+          "text": "Gaspard no longer laughed",
+          "role": "continuation"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 499823,
+          "char_end": 499840,
+          "text": "to suffer, ceases",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "43f26b00e592",
+      "sentence": "Lost, no victor else, the fear of death, affairs, the indispensablest.",
+      "fragments": [
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 468594,
+          "char_end": 468614,
+          "text": "lost, no victor else",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 243071,
+          "char_end": 243088,
+          "text": "the fear of death",
+          "role": "continuation"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 605473,
+          "char_end": 605501,
+          "text": "affairs, the indispensablest",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "c0d32e4be70b",
+      "sentence": "Je vous le recommande, conceived through God (by.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 147580,
+          "char_end": 147601,
+          "text": "je vous le recommande",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 39037,
+          "char_end": 39062,
+          "text": "conceived through God (by",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "bec989158a6f",
+      "sentence": "Encumbered with a family, severe loss, in their.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 52515,
+          "char_end": 52539,
+          "text": "encumbered with a family",
+          "role": "seed"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 135060,
+          "char_end": 135081,
+          "text": "severe loss, in their",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b9b1980624f9",
+      "sentence": "Retired.  Shortly afterwards another, in some cases, been.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 81502,
+          "char_end": 81538,
+          "text": "retired.  Shortly afterwards another",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 8284,
+          "char_end": 8303,
+          "text": "in some cases, been",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "41973bf7b5ed",
+      "sentence": "And wanted to serve, at rest within my.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 165388,
+          "char_end": 165407,
+          "text": "and wanted to serve",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 12115,
+          "char_end": 12132,
+          "text": "at rest within my",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "078e5ffc7600",
+      "sentence": "Presence of mind to, page of The Tyger.",
+      "fragments": [
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 646446,
+          "char_end": 646465,
+          "text": "presence of mind to",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 36,
+          "char_end": 53,
+          "text": "page of The Tyger",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "23c35f15ce36",
+      "sentence": "Discharged into their crevices, My head ached. All.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 414171,
+          "char_end": 414201,
+          "text": "discharged into their crevices",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 296304,
+          "char_end": 296322,
+          "text": "My head ached. All",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "81fb71bc9348",
+      "sentence": "Is lucky for that, never employ you more.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 382595,
+          "char_end": 382612,
+          "text": "is lucky for that",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 77270,
+          "char_end": 77291,
+          "text": "never employ you more",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "2b6bdc5e3f54",
+      "sentence": "Of the rope that, force the air on.",
+      "fragments": [
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 39566,
+          "char_end": 39582,
+          "text": "of the rope that",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 207876,
+          "char_end": 207892,
+          "text": "force the air on",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "61d0fa557705",
+      "sentence": "C'est vous, monseigneur, qui, and found several persons.",
+      "fragments": [
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 126652,
+          "char_end": 126680,
+          "text": "c'est vous, monseigneur, qui",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 165091,
+          "char_end": 165116,
+          "text": "and found several persons",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "a27a063fbb4f",
+      "sentence": "In the world and, is said to have.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 316469,
+          "char_end": 316485,
+          "text": "in the world and",
+          "role": "seed"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 506834,
+          "char_end": 506849,
+          "text": "is said to have",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "41d27e8f5c36",
+      "sentence": "They grasping at the, of respect in Yule, assigned to him.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 533215,
+          "char_end": 533235,
+          "text": "they grasping at the",
+          "role": "seed"
+        },
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 160842,
+          "char_end": 160860,
+          "text": "of respect in Yule",
+          "role": "continuation"
+        },
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 91011,
+          "char_end": 91026,
+          "text": "assigned to him",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "aa8f83bd35d4",
+      "sentence": "May be whipped at, make happy the skies.",
+      "fragments": [
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 150547,
+          "char_end": 150564,
+          "text": "may be whipped at",
+          "role": "seed"
+        },
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 2296,
+          "char_end": 2316,
+          "text": "make happy the skies",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "e68de416aefd",
+      "sentence": "Jealous, as you know, it recoils, in order.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 107293,
+          "char_end": 107313,
+          "text": "jealous, as you know",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 110368,
+          "char_end": 110388,
+          "text": "it recoils, in order",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "5f7e782acb55",
+      "sentence": "Cabinet work, by inlaying, this circumstance we may.",
+      "fragments": [
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 452786,
+          "char_end": 452811,
+          "text": "cabinet work, by inlaying",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 640729,
+          "char_end": 640753,
+          "text": "this circumstance we may",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "58ffc2e5d432",
+      "sentence": "Hundred disgraces? who would, of my adversaries, which.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 221397,
+          "char_end": 221425,
+          "text": "hundred disgraces? who would",
+          "role": "seed"
+        },
+        {
+          "slug": "spinoza_ethics",
+          "title": "Ethics",
+          "author": "Baruch Spinoza",
+          "year": 1677,
+          "char_start": 24212,
+          "char_end": 24236,
+          "text": "of my adversaries, which",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6146860534ec",
+      "sentence": "And yet its whole, be always trying to.",
+      "fragments": [
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 95221,
+          "char_end": 95238,
+          "text": "And yet its whole",
+          "role": "seed"
+        },
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 51353,
+          "char_end": 51372,
+          "text": "be always trying to",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
