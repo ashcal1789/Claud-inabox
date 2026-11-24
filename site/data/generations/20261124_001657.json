@@ -1,0 +1,568 @@
+{
+  "run_id": "20261124_001657",
+  "run_date": "2026-11-24T00:16:57.545319+00:00Z",
+  "seed": 4031761132,
+  "count": 20,
+  "sentences": [
+    {
+      "id": "b99c7da1774f",
+      "sentence": "That all my sufferings, course at meal times.",
+      "fragments": [
+        {
+          "slug": "arabian_nights",
+          "title": "The Arabian Nights Entertainments",
+          "author": "Anonymous (trans. Andrew Lang)",
+          "year": 1898,
+          "char_start": 455053,
+          "char_end": 455075,
+          "text": "that all my sufferings",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 5606,
+          "char_end": 5626,
+          "text": "course at meal times",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8003f40f8812",
+      "sentence": "Short, as she has, is a fond ambush.",
+      "fragments": [
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 11333,
+          "char_end": 11350,
+          "text": "short, as she has",
+          "role": "seed"
+        },
+        {
+          "slug": "dickinson_poems",
+          "title": "Poems by Emily Dickinson (Series One)",
+          "author": "Emily Dickinson",
+          "year": 1890,
+          "char_start": 74299,
+          "char_end": 74315,
+          "text": "is a fond ambush",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3e185ae14bc8",
+      "sentence": "Wind they raise to, long since, I cut.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 9754,
+          "char_end": 9772,
+          "text": "wind they raise to",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 334548,
+          "char_end": 334565,
+          "text": "long since, I cut",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "78763252356b",
+      "sentence": "After, I passed amongst, to live, if he.",
+      "fragments": [
+        {
+          "slug": "wollstonecraft_letters",
+          "title": "Letters Written During a Short Residence in Sweden, Norway, and Denmark",
+          "author": "Mary Wollstonecraft",
+          "year": 1796,
+          "char_start": 219870,
+          "char_end": 219893,
+          "text": "after, I passed amongst",
+          "role": "seed"
+        },
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 160858,
+          "char_end": 160872,
+          "text": "to live, if he",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "3abe1c0545d2",
+      "sentence": "Size of the ombu-trees--the, nearly a thousand persons.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 298603,
+          "char_end": 298630,
+          "text": "size of the ombu-trees--the",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 182599,
+          "char_end": 182624,
+          "text": "nearly a thousand persons",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "8f57e780dbec",
+      "sentence": "The youngest.[6] They were, terms of this agreement, draws into its.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 290324,
+          "char_end": 290350,
+          "text": "the youngest.[6] They were",
+          "role": "seed"
+        },
+        {
+          "slug": "harvey_heart",
+          "title": "On the Motion of the Heart and Blood in Animals",
+          "author": "William Harvey",
+          "year": 1628,
+          "char_start": 168094,
+          "char_end": 168117,
+          "text": "terms of this agreement",
+          "role": "continuation"
+        },
+        {
+          "slug": "frazer_golden_bough",
+          "title": "The Golden Bough (Abridged)",
+          "author": "James George Frazer",
+          "year": 1922,
+          "char_start": 158383,
+          "char_end": 158397,
+          "text": "draws into its",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "2f6c6ffce468",
+      "sentence": "Much bread as could, and asked to go, doctrines, both of.",
+      "fragments": [
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 81614,
+          "char_end": 81633,
+          "text": "much bread as could",
+          "role": "seed"
+        },
+        {
+          "slug": "dana_two_years",
+          "title": "Two Years Before the Mast",
+          "author": "Richard Henry Dana Jr.",
+          "year": 1840,
+          "char_start": 195301,
+          "char_end": 195316,
+          "text": "and asked to go",
+          "role": "continuation"
+        },
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 179995,
+          "char_end": 180013,
+          "text": "doctrines, both of",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "2de9004c576b",
+      "sentence": "Danger of my being, to the center of, could tend to.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 53648,
+          "char_end": 53666,
+          "text": "danger of my being",
+          "role": "seed"
+        },
+        {
+          "slug": "curie_radioactivity",
+          "title": "Radioactive Substances (Nobel Lecture)",
+          "author": "Marie Curie",
+          "year": 1903,
+          "char_start": 8530,
+          "char_end": 8546,
+          "text": "to the center of",
+          "role": "continuation"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 37373,
+          "char_end": 37386,
+          "text": "could tend to",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "ec13fdc8fd40",
+      "sentence": "Are more common in, unto thee, to do.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 250740,
+          "char_end": 250758,
+          "text": "are more common in",
+          "role": "seed"
+        },
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 293719,
+          "char_end": 293735,
+          "text": "unto thee, to do",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "7b97c47ccc27",
+      "sentence": "Than this a happiness, of the world as.",
+      "fragments": [
+        {
+          "slug": "marcus_aurelius",
+          "title": "Meditations",
+          "author": "Marcus Aurelius",
+          "year": 180,
+          "char_start": 110476,
+          "char_end": 110497,
+          "text": "than this a happiness",
+          "role": "seed"
+        },
+        {
+          "slug": "cook_voyage",
+          "title": "A Voyage Towards the South Pole and Round the World (Vol. 1)",
+          "author": "James Cook",
+          "year": 1777,
+          "char_start": 36670,
+          "char_end": 36685,
+          "text": "of the world as",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9ef1a67bcf82",
+      "sentence": "Moreover, working while many, and I was no.",
+      "fragments": [
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 12976,
+          "char_end": 13004,
+          "text": "moreover, working while many",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 157881,
+          "char_end": 157893,
+          "text": "and I was no",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "d03fbe1a6e1f",
+      "sentence": "Fear and remorse came, all others give way.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 427612,
+          "char_end": 427633,
+          "text": "fear and remorse came",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 661687,
+          "char_end": 661706,
+          "text": "all others give way",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "11dc9c41e1f1",
+      "sentence": "GOD OF THE TARTARS, the facts in his.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 223709,
+          "char_end": 223727,
+          "text": "GOD OF THE TARTARS",
+          "role": "seed"
+        },
+        {
+          "slug": "douglass_narrative",
+          "title": "Narrative of the Life of Frederick Douglass",
+          "author": "Frederick Douglass",
+          "year": 1845,
+          "char_start": 4181,
+          "char_end": 4197,
+          "text": "the facts in his",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "9874e8cbe779",
+      "sentence": "Mill-pond, she to her, could, \"Now then you.",
+      "fragments": [
+        {
+          "slug": "thoreau_walden",
+          "title": "Walden",
+          "author": "Henry David Thoreau",
+          "year": 1854,
+          "char_start": 383582,
+          "char_end": 383603,
+          "text": "mill-pond, she to her",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 167619,
+          "char_end": 167639,
+          "text": "could, \"Now then you",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6da365e54a2e",
+      "sentence": "No, no, let us, rides round Lewes are.",
+      "fragments": [
+        {
+          "slug": "blake_songs",
+          "title": "Songs of Innocence and Experience",
+          "author": "William Blake",
+          "year": 1794,
+          "char_start": 12352,
+          "char_end": 12366,
+          "text": "No, no, let us",
+          "role": "seed"
+        },
+        {
+          "slug": "white_selborne",
+          "title": "The Natural History of Selborne",
+          "author": "Gilbert White",
+          "year": 1789,
+          "char_start": 223994,
+          "char_end": 224015,
+          "text": "rides round Lewes are",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "b411e5b54774",
+      "sentence": "The former owes its, bravery, and her untiring.",
+      "fragments": [
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 459796,
+          "char_end": 459815,
+          "text": "the former owes its",
+          "role": "seed"
+        },
+        {
+          "slug": "tubman_scenes",
+          "title": "Harriet, the Moses of Her People",
+          "author": "Sarah H. Bradford",
+          "year": 1886,
+          "char_start": 99257,
+          "char_end": 99282,
+          "text": "bravery, and her untiring",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "6d601350fcb8",
+      "sentence": "Away his arms, and, COMBUSTION—NATURE OF WATER.",
+      "fragments": [
+        {
+          "slug": "trial_socrates",
+          "title": "The Apology of Socrates",
+          "author": "Plato (trans. Benjamin Jowett)",
+          "year": -399,
+          "char_start": 78761,
+          "char_end": 78779,
+          "text": "away his arms, and",
+          "role": "seed"
+        },
+        {
+          "slug": "faraday_candle",
+          "title": "The Chemical History of a Candle",
+          "author": "Michael Faraday",
+          "year": 1861,
+          "char_start": 2625,
+          "char_end": 2651,
+          "text": "COMBUSTION—NATURE OF WATER",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "aff92a1bb197",
+      "sentence": "Her tears did flow, in the Habit of.",
+      "fragments": [
+        {
+          "slug": "grimm_tales",
+          "title": "Grimms' Fairy Tales",
+          "author": "Jacob and Wilhelm Grimm",
+          "year": 1812,
+          "char_start": 158780,
+          "char_end": 158798,
+          "text": "her tears did flow",
+          "role": "seed"
+        },
+        {
+          "slug": "keats_letters",
+          "title": "Letters of John Keats to His Family and Friends",
+          "author": "John Keats",
+          "year": 1891,
+          "char_start": 35060,
+          "char_end": 35075,
+          "text": "in the Habit of",
+          "role": "continuation"
+        }
+      ]
+    },
+    {
+      "id": "271a1c05a3ba",
+      "sentence": "Even at this day, Encompass worlds, but never, and whilst remaining.",
+      "fragments": [
+        {
+          "slug": "hume_understanding",
+          "title": "An Enquiry Concerning Human Understanding",
+          "author": "David Hume",
+          "year": 1748,
+          "char_start": 254238,
+          "char_end": 254254,
+          "text": "even at this day",
+          "role": "seed"
+        },
+        {
+          "slug": "whitman_leaves",
+          "title": "Leaves of Grass",
+          "author": "Walt Whitman",
+          "year": 1855,
+          "char_start": 74626,
+          "char_end": 74653,
+          "text": "Encompass worlds, but never",
+          "role": "continuation"
+        },
+        {
+          "slug": "darwin_voyage",
+          "title": "The Voyage of the Beagle",
+          "author": "Charles Darwin",
+          "year": 1839,
+          "char_start": 18953,
+          "char_end": 18973,
+          "text": "and whilst remaining",
+          "role": "closing"
+        }
+      ]
+    },
+    {
+      "id": "0dc3c2522ac5",
+      "sentence": "Of Sir Colin, Yule, Very good,\" says the.",
+      "fragments": [
+        {
+          "slug": "polo_travels",
+          "title": "The Travels of Marco Polo",
+          "author": "Marco Polo (trans. Henry Yule)",
+          "year": 1300,
+          "char_start": 90696,
+          "char_end": 90714,
+          "text": "Of Sir Colin, Yule",
+          "role": "seed"
+        },
+        {
+          "slug": "joan_of_arc_trial",
+          "title": "The Trial of Jeanne d'Arc",
+          "author": "W.P. Barrett (trans.)",
+          "year": 1431,
+          "char_start": 84558,
+          "char_end": 84578,
+          "text": "Very good,\" says the",
+          "role": "continuation"
+        }
+      ]
+    }
+  ]
+}
